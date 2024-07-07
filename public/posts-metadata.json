@@ -1,0 +1,19 @@
+[
+  {
+    "slug": "second-post",
+    "title": "… Same as the First",
+    "author": "Kevin McAllister",
+    "date": "2024-07-07T18:13:25.000Z"
+  },
+  {
+    "slug": "halt-load",
+    "title": "HALT LOAD",
+    "author": "Kevin McAllister",
+    "date": "2024-07-07T17:16:50.000Z",
+    "tags": [
+      "Unisys",
+      "Jargon",
+      "Celebration"
+    ]
+  }
+]
