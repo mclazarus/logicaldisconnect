@@ -3,7 +3,8 @@ import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
 import { ActivatedRoute } from '@angular/router';
 import { PostService } from '../post.service';
 import * as marked from 'marked';
-import matter from 'gray-matter';
+import frontMatter from 'front-matter';
+import { ChangeDetectorRef } from '@angular/core';
 
 @Component({
   selector: 'app-post',
@@ -18,6 +19,7 @@ export class PostComponent implements OnInit {
     private route: ActivatedRoute,
     private postService: PostService,
     private sanitizer: DomSanitizer,
+    private cdr: ChangeDetectorRef
   ) {}
 
   ngOnInit(): void {
@@ -36,13 +38,13 @@ export class PostComponent implements OnInit {
       if (typeof rawMarkdown === 'string') {
         this.markdownContent =
           this.sanitizer.bypassSecurityTrustHtml(rawMarkdown);
+        this.cdr.detectChanges();  // Manually trigger change detection
       }
     });
   }
-
   // TODO do stuff with the front-matter header
   preProcess(markdown: string) {
-    const { content } = matter(markdown);
-    return content;
+    const { body } = frontMatter(markdown);
+    return body;
   }
 }

@@ -1,7 +1,7 @@
 // generate-posts-metadata.ts
 const fs = require('fs');
 const path = require('path');
-const matter = require('gray-matter');
+const frontMatter = require('front-matter');
 
 interface PostMetadata {
   slug: string;
@@ -19,10 +19,10 @@ const posts: PostMetadata[] = [];
 fs.readdirSync(postsDirectory).forEach((file: any) => {
   const filePath = path.join(postsDirectory, file);
   const fileContents = fs.readFileSync(filePath, 'utf8');
-  const { data } = matter(fileContents);
+  const { attributes } = frontMatter(fileContents);
   posts.push({
     slug: file.replace(/\.md$/, ''),
-    ...data,
+    ...attributes,
   } as PostMetadata);
 });
 
