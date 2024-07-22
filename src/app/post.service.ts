@@ -9,7 +9,7 @@ export class PostService {
 
   constructor(private http: HttpClient) { }
   getMarkdownFile(slug: string): Observable<string> {
-    const url = `/assets/posts/${slug}.md`;
+    const url = `./assets/posts/${slug}.md`;
     return this.http.get(url, { responseType: "text" });
   }
 }
