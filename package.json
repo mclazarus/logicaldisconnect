@@ -4,7 +4,8 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "npm run generate-posts-metadata && ng build --configuration=production --base-href=/logicaldisconnect/",
+    "build": "npm run generate-posts-metadata && ng build",
+    "build:prod": "npm run generate-posts-metadata && ng build --configuration=production --base-href=/logicaldisconnect/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "serve:ssr:logicaldisconnect": "node dist/logicaldisconnect/server/server.mjs",
