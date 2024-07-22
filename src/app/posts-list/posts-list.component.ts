@@ -1,12 +1,12 @@
 import { Component, OnInit } from '@angular/core';
 import { PostMetadata, PostsMetadataService } from '../posts-metadata.service';
-import { NgForOf } from '@angular/common';
+import {DatePipe, NgForOf} from '@angular/common';
 import { RouterLink } from '@angular/router';
 
 @Component({
   selector: 'app-posts-list',
   standalone: true,
-  imports: [NgForOf, RouterLink],
+  imports: [NgForOf, RouterLink, DatePipe],
   templateUrl: './posts-list.component.html',
   styleUrl: './posts-list.component.scss',
 })
