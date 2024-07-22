@@ -1,0 +1,7785 @@
+[
+  {
+    "slug": "halt-load",
+    "title": "HALT LOAD",
+    "author": "Kevin McAllister",
+    "date": "2024-07-07T17:16:50.000Z",
+    "tags": [
+      "Unisys",
+      "Jargon",
+      "Celebration"
+    ]
+  },
+  {
+    "slug": "2020-09-auspicious",
+    "id": "860",
+    "title": "Auspicious",
+    "date": "2020-09-30T16:16:13.000Z"
+  },
+  {
+    "slug": "2019-05-the-planner-business",
+    "id": "859",
+    "title": "The Planner Business",
+    "date": "2019-05-24T22:34:56.000Z"
+  },
+  {
+    "slug": "2019-03-looking-back",
+    "id": "858",
+    "title": "Looking back",
+    "date": "2019-03-26T03:12:41.000Z",
+    "tags": [
+      "meta",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2015-01-improvement-and-reflection",
+    "id": "857",
+    "title": "Improvement and Reflection",
+    "date": "2015-01-31T20:38:44.000Z"
+  },
+  {
+    "slug": "2014-12-lights-out-twenty-fourteen",
+    "id": "853",
+    "title": "Lights out twenty fourteen",
+    "date": "2015-01-01T04:25:36.000Z"
+  },
+  {
+    "slug": "2014-12-ninety-in-the-books",
+    "id": "856",
+    "title": "Ninety in the books",
+    "date": "2014-12-02T03:30:23.000Z"
+  },
+  {
+    "slug": "2014-10-objectivity-of-the-bystander",
+    "id": "852",
+    "title": "Objectivity of the bystander",
+    "date": "2014-10-30T12:30:00.000Z"
+  },
+  {
+    "slug": "2014-10-ruthless-39-of-90",
+    "id": "855",
+    "title": "Ruthless 39 of 90",
+    "date": "2014-10-10T21:01:58.000Z"
+  },
+  {
+    "slug": "2014-05-more-audible-recommendations",
+    "id": "850",
+    "title": "More Audible Recommendations",
+    "date": "2014-05-07T12:29:46.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://n-tropy.com/ramblings/?p=5"
+  },
+  {
+    "slug": "2014-05-audible-scifi-sale-recommendations",
+    "id": "854",
+    "title": "Audible SciFi Sale recommendations",
+    "date": "2014-05-04T18:21:09.000Z"
+  },
+  {
+    "slug": "2014-04-delicious-time",
+    "id": "861",
+    "title": "Delicious Time",
+    "date": "2014-04-06T23:19:21.000Z"
+  },
+  {
+    "slug": "2014-04-overdelivered",
+    "id": "862",
+    "title": "Overdelivered",
+    "date": "2014-04-06T23:19:08.000Z"
+  },
+  {
+    "slug": "2013-10-bums-rush",
+    "id": "0",
+    "title": "Bums Rush",
+    "date": "2013-10-02T03:03:11.000Z"
+  },
+  {
+    "slug": "2013-04-fighting-regulation-and-winning",
+    "id": "849",
+    "title": "Fighting regulation and winning",
+    "date": "2013-04-12T03:20:16.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://blog.jasoncrawford.org/entrepreneurs-vs-regulation?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+JasonCrawfordSvbtle+%28Uncharted+Territory%29&utm_content=Google+Reader"
+  },
+  {
+    "slug": "2013-04-the-unremarkable-bisy-backson",
+    "id": "1",
+    "title": "The Unremarkable Bisy Backson",
+    "date": "2013-04-11T02:11:06.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://calnewport.com/blog/2013/04/03/you-can-be-busy-or-remarkable-but-not-both/",
+    "tags": [
+      "Productivity"
+    ]
+  },
+  {
+    "slug": "2013-04-reflection-on-beginnings",
+    "id": "846",
+    "title": "Reflection on beginnings",
+    "date": "2013-04-09T02:28:19.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://www.randsinrepose.com/archives/2013/04/07/an_introduction_to_you.html",
+    "tags": [
+      "busy",
+      "productivity",
+      "Productivity"
+    ]
+  },
+  {
+    "slug": "2013-04-fitting-in",
+    "id": "845",
+    "title": "Fitting in",
+    "date": "2013-04-07T03:04:03.000Z",
+    "tags": [
+      "family"
+    ]
+  },
+  {
+    "slug": "2013-04-better-all-the-time",
+    "id": "844",
+    "title": "Better all the time",
+    "date": "2013-04-06T03:55:06.000Z"
+  },
+  {
+    "slug": "2012-08-terrors-and-virtues",
+    "id": "843",
+    "title": "Terrors and Virtues",
+    "date": "2012-08-03T18:18:00.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://transom.org/?p=28787"
+  },
+  {
+    "slug": "2012-08-10000-words-a-day",
+    "id": "842",
+    "title": "10,000 Words a Day",
+    "date": "2012-08-02T19:37:00.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://thisblogisaploy.blogspot.ca/2011/06/how-i-went-from-writing-2000-words-day.html"
+  },
+  {
+    "slug": "2012-07-dont-think-again",
+    "id": "838",
+    "title": "Don't Think Again",
+    "date": "2012-07-29T15:15:00.000Z"
+  },
+  {
+    "slug": "2012-07-leaving-work-at-530",
+    "id": "841",
+    "title": "Leaving work at 5:30",
+    "date": "2012-07-27T20:09:00.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://thegrindstone.com/work-life-balance/sheryl-sandberg-was-scared-to-talk-about-leaving-work-at-530/"
+  },
+  {
+    "slug": "2012-07-on-trying",
+    "id": "840",
+    "title": "On Trying",
+    "date": "2012-07-25T12:24:00.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://threepanelsoul.com/2012/07/23/on-trying/"
+  },
+  {
+    "slug": "2012-07--must-be-nice",
+    "id": "839",
+    "title": "Must Be Nice",
+    "date": "2012-07-24T17:54:00.000Z",
+    "isLinkBlog": true,
+    "urlLink": "http://www.red-sweater.com/blog/1725/must-be-nice"
+  },
+  {
+    "slug": "2012-07-disconnect-the-batphone",
+    "id": "837",
+    "title": "Disconnect the Batphone",
+    "date": "2012-07-23T15:15:00.000Z"
+  },
+  {
+    "slug": "2011-09-step-up-2",
+    "id": "836",
+    "title": "Step up",
+    "date": "2011-09-14T23:06:45.000Z",
+    "tags": [
+      "Philosophy",
+      "Work"
+    ]
+  },
+  {
+    "slug": "2011-09-choices",
+    "id": "835",
+    "title": "Choices",
+    "date": "2011-09-13T22:29:04.000Z",
+    "tags": [
+      "Hacker",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2011-04-sprint-for-health-millstone",
+    "id": "834",
+    "title": "Sprint for Health Millstone",
+    "date": "2011-04-12T10:39:32.000Z",
+    "tags": [
+      "health",
+      "Health and Fitness",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2011-03-tomatoes-for-strength",
+    "id": "833",
+    "title": "Tomatoes for strength",
+    "date": "2011-03-30T16:20:35.000Z",
+    "tags": [
+      "health",
+      "productivity",
+      "Health and Fitness",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2011-03-ill-sleep-when-im-dead",
+    "id": "832",
+    "title": "I'll sleep when I'm dead",
+    "date": "2011-03-28T21:56:08.000Z",
+    "tags": [
+      "game-of-life",
+      "health",
+      "Health and Fitness",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2011-03-the-game-of-life",
+    "id": "831",
+    "title": "The game of life",
+    "date": "2011-03-27T22:27:21.000Z",
+    "tags": [
+      "health",
+      "Health and Fitness",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2011-01-making-plans",
+    "id": "830",
+    "title": "Making Plans",
+    "date": "2011-01-31T22:34:38.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2010-11-one-calendar-to-rule-them-all",
+    "id": "829",
+    "title": "One Calendar to rule them all",
+    "date": "2010-11-04T08:30:47.000Z",
+    "tags": [
+      "calendar",
+      "iphone",
+      "mobileme",
+      "sync",
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2010-10-ac-sludge",
+    "id": "828",
+    "title": "AC Sludge",
+    "date": "2010-10-27T00:20:47.000Z",
+    "tags": [
+      "crazy",
+      "repair",
+      "Health and Fitness",
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2010-10-other-people",
+    "id": "827",
+    "title": "Other People",
+    "date": "2010-10-26T22:45:29.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-10-john-galt-league-update-2",
+    "id": "826",
+    "title": "John Galt League update",
+    "date": "2010-10-26T21:59:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-10-game-on",
+    "id": "825",
+    "title": "iPhone: Game On",
+    "date": "2010-10-18T11:30:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-10-resolve",
+    "id": "824",
+    "title": "Resolve",
+    "date": "2010-10-15T13:38:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-10-john-galt-league-week-5-re-cap",
+    "id": "823",
+    "title": "John Galt League Week 5 re-cap",
+    "date": "2010-10-12T19:28:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-10-john-galt-league-week-3-and-4-recaps",
+    "id": "822",
+    "title": "John Galt League Week 3 and 4 recaps",
+    "date": "2010-10-10T11:38:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-09-john-galt-league-week-2-recap",
+    "id": "821",
+    "title": "John Galt League Week 2 Recap",
+    "date": "2010-09-26T00:12:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-09-john-galt-league-week-1",
+    "id": "820",
+    "title": "John Galt League Week 1 Update",
+    "date": "2010-09-17T22:48:08.000Z",
+    "tags": [
+      "Fantasy",
+      "JGL",
+      "NFL",
+      "Objectivism",
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-07-time-tracking",
+    "id": "819",
+    "title": "Time Tracking",
+    "date": "2010-07-16T15:04:17.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-05-the-funny",
+    "id": "818",
+    "title": "The funny",
+    "date": "2010-05-19T23:15:57.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-03-bicycles-are-fun",
+    "id": "816",
+    "title": "Bicycles Are Fun!",
+    "date": "2010-03-06T14:45:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2010-03-strap-in",
+    "id": "817",
+    "title": "Strap in",
+    "date": "2010-03-06T09:38:16.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-10-whats-true",
+    "id": "815",
+    "title": "What's True",
+    "date": "2009-10-14T16:33:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-10-goals-not-rules",
+    "id": "814",
+    "title": "Goals not Rules",
+    "date": "2009-10-06T09:25:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-09-mobilemes-apprentice",
+    "id": "813",
+    "title": "MobileMe's apprentice",
+    "date": "2009-09-29T20:42:14.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-09-quitting-doctors",
+    "id": "812",
+    "title": "Quitting Doctors",
+    "date": "2009-09-18T11:41:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-09-strict-filtering",
+    "id": "811",
+    "title": "Strict Filtering",
+    "date": "2009-09-17T11:51:25.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-09-fantasizing",
+    "id": "810",
+    "title": "Fantasizing",
+    "date": "2009-09-14T16:57:16.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-09-hanging-with-the-phanatic",
+    "id": "809",
+    "title": "Hanging with the Phanatic",
+    "date": "2009-09-12T13:40:13.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-08-flagging-acknowledged-as-harmful",
+    "id": "808",
+    "title": "flagging acknowledged as harmful",
+    "date": "2009-08-18T11:36:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-08-environmental-vulnerability",
+    "id": "807",
+    "title": "Environmental vulnerability",
+    "date": "2009-08-14T09:34:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-06-overload-and-a-coke",
+    "id": "806",
+    "title": "Overload and a Coke",
+    "date": "2009-06-10T09:58:25.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-06-upgrading-software",
+    "id": "805",
+    "title": "Upgrading software",
+    "date": "2009-06-02T07:30:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-05-finding-inspiration",
+    "id": "804",
+    "title": "Finding Inspiration",
+    "date": "2009-05-22T19:47:18.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-04-productivity-snacks",
+    "id": "803",
+    "title": "Ruining the Meal of Productivity with Snacks",
+    "date": "2009-04-30T14:15:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-03-sanction-of-the-victim",
+    "id": "802",
+    "title": "Sanction of the Victim",
+    "date": "2009-03-02T07:06:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-02-knowledge-or-grades",
+    "id": "801",
+    "title": "Knowledge or Grades",
+    "date": "2009-02-13T11:07:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-02-putting-a-small-amount-of-money-where-your-mouth-is",
+    "id": "800",
+    "title": "Putting a small amount of money where your mouth is",
+    "date": "2009-02-04T11:16:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-02-feed-formerly-broken",
+    "id": "799",
+    "title": "Feed Formerly Broken",
+    "date": "2009-02-03T07:58:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-02-economics",
+    "id": "798",
+    "title": "Economics",
+    "date": "2009-02-02T06:48:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-01-destruction-and-praise",
+    "id": "797",
+    "title": "Destruction and Praise",
+    "date": "2009-01-29T10:11:57.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-01-by-the-grace-of-gaia",
+    "id": "796",
+    "title": "By The grace of Gaia",
+    "date": "2009-01-29T09:00:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-01-small-bit-of-sec-insanity",
+    "id": "795",
+    "title": "Small bit of SEC Insanity",
+    "date": "2009-01-22T13:16:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-01-eating-to-sustain-life",
+    "id": "794",
+    "title": "Eating to sustain life",
+    "date": "2009-01-16T14:21:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2009-01-parenting-and-thinking",
+    "id": "793",
+    "title": "Parenting and Thinking",
+    "date": "2009-01-15T14:34:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-11-voting-and-thinking-of-the-children",
+    "id": "792",
+    "title": "Voting and thinking of the children",
+    "date": "2008-11-05T00:08:07.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-10-a-government-of-laws",
+    "id": "791",
+    "title": "A government of Laws",
+    "date": "2008-10-28T07:58:38.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-10-2008-election-essentials",
+    "id": "790",
+    "title": "2008 Election Essentials",
+    "date": "2008-10-27T07:31:39.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-10-greenspan",
+    "id": "789",
+    "title": "Greenspan",
+    "date": "2008-10-23T00:15:13.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2008-10-network-neutrality",
+    "id": "788",
+    "title": "Network Neutrality",
+    "date": "2008-10-17T11:15:49.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-10-columbus-day",
+    "id": "787",
+    "title": "Columbus Day",
+    "date": "2008-10-14T06:48:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-10-familiar-sentiment",
+    "id": "786",
+    "title": "Familiar sentiment",
+    "date": "2008-10-13T15:57:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-10-the-joy-of-focus",
+    "id": "785",
+    "title": "The joy of focus",
+    "date": "2008-10-07T09:13:06.000Z",
+    "tags": [
+      "Personal",
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2008-10-inevitable-result",
+    "id": "784",
+    "title": "Inevitable Result",
+    "date": "2008-10-06T16:20:36.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-10-writing-to-government-representatives",
+    "id": "783",
+    "title": "Writing to government representatives",
+    "date": "2008-10-03T11:52:26.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-09-football-sunday-mission-accomplished",
+    "id": "782",
+    "title": "Football Sunday Mission Accomplished",
+    "date": "2008-09-21T11:37:14.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-09-swinging-for-speed",
+    "id": "781",
+    "title": "Swinging for speed",
+    "date": "2008-09-20T10:07:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-09-what-is-this",
+    "id": "780",
+    "title": "What is this?",
+    "date": "2008-09-19T14:48:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-09-epa-preparing-to-control-everything",
+    "id": "779",
+    "title": "EPA preparing to control everything",
+    "date": "2008-09-09T10:12:33.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-09-the-government-as-robin-hood",
+    "id": "778",
+    "title": "The government as Robin Hood",
+    "date": "2008-09-03T09:36:27.000Z",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-09-growing-up",
+    "id": "777",
+    "title": "Growing Up",
+    "date": "2008-09-02T09:24:20.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2008-08-parody-vs-real-life",
+    "id": "776",
+    "title": "Parody vs Real Life",
+    "date": "2008-08-29T08:19:25.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-08-intellectual-activism-and-cultural-change",
+    "id": "775",
+    "title": "Intellectual Activism and Cultural Change",
+    "date": "2008-08-14T10:16:57.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-07-when-no-politicians-agree-with-you",
+    "id": "774",
+    "title": "When no politicians agree with you",
+    "date": "2008-07-25T00:31:12.000Z",
+    "tags": [
+      "Philosophy",
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2008-07-a-heroic-journey",
+    "id": "773",
+    "title": "A heroic journey",
+    "date": "2008-07-13T18:02:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-06-the-reason-for-being",
+    "id": "772",
+    "title": "The reason for being",
+    "date": "2008-06-26T23:56:21.000Z",
+    "tags": [
+      "General",
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2008-06-coming-soon",
+    "id": "771",
+    "title": "Coming Soon",
+    "date": "2008-06-26T09:55:11.000Z",
+    "tags": [
+      "meta",
+      "Philosophy",
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2008-06-touched",
+    "id": "770",
+    "title": "Touched",
+    "date": "2008-06-20T06:04:49.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-05-kids-castle",
+    "id": "769",
+    "title": "Kids castle",
+    "date": "2008-05-17T10:07:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-03-future-hall-of-famer",
+    "id": "768",
+    "title": "Future hall of famer",
+    "date": "2008-03-06T19:15:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-02-my-new-car",
+    "id": "766",
+    "title": "My new car",
+    "date": "2008-02-28T14:51:37.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-02-proof-of-my-manhood",
+    "id": "767",
+    "title": "Proof of my manhood.",
+    "date": "2008-02-28T14:04:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-01-engine",
+    "id": "764",
+    "title": "Engine",
+    "date": "2008-01-28T11:51:27.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2008-01-he-aint-pretty-no-more",
+    "id": "765",
+    "title": "He Aint Pretty No More",
+    "date": "2008-01-28T10:27:18.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-12-salt-pepper-or-music",
+    "id": "763",
+    "title": "Salt Pepper Or music",
+    "date": "2007-12-29T23:04:56.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-12-a-new-tag",
+    "id": "762",
+    "title": "A New Tag",
+    "date": "2007-12-29T11:11:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-12-waiting-for-the-big-guy",
+    "id": "761",
+    "title": "Waiting For The Big Guy",
+    "date": "2007-12-24T23:20:37.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-12-christmasy-goodness",
+    "id": "760",
+    "title": "Christmasy Goodness",
+    "date": "2007-12-14T22:24:49.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-12-happy-birthday-allison-2",
+    "id": "759",
+    "title": "Happy Birthday Allison",
+    "date": "2007-12-03T22:41:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-11-peco",
+    "id": "758",
+    "title": "PECO",
+    "date": "2007-11-20T08:17:53.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-11-back-hoe",
+    "id": "757",
+    "title": "Back Hoe",
+    "date": "2007-11-20T07:37:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-11-window-tarp",
+    "id": "756",
+    "title": "Window Tarp?",
+    "date": "2007-11-10T16:35:58.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-11-extra-cute",
+    "id": "755",
+    "title": "Extra Cute",
+    "date": "2007-11-08T11:45:07.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-11-wild-turkey",
+    "id": "754",
+    "title": "Wild Turkey",
+    "date": "2007-11-07T22:36:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-11-trouble-maker",
+    "id": "753",
+    "title": "Trouble Maker",
+    "date": "2007-11-06T14:34:21.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-10-seeing-trees",
+    "id": "752",
+    "title": "Seeing Trees",
+    "date": "2007-11-01T00:44:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-10-happy-birthday-grady",
+    "id": "751",
+    "title": "Happy Birthday Grady",
+    "date": "2007-10-21T11:36:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-10-success",
+    "id": "750",
+    "title": "Success",
+    "date": "2007-10-08T11:38:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-09-junior-hacker",
+    "id": "749",
+    "title": "Junior Hacker",
+    "date": "2007-09-30T11:58:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-09-crimson-king",
+    "id": "748",
+    "title": "Crimson King?",
+    "date": "2007-09-27T06:51:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-09-everythings-upside-down",
+    "id": "747",
+    "title": "Everythings Upside Down",
+    "date": "2007-09-12T19:23:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-09-i-wish-someone-told-me-that",
+    "id": "746",
+    "title": "I wish someone told me that",
+    "date": "2007-09-06T15:13:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-09-playground",
+    "id": "745",
+    "title": "Playground",
+    "date": "2007-09-03T00:27:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-08-eagles-4",
+    "id": "744",
+    "title": "Eagles",
+    "date": "2007-08-30T22:50:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-08-real-mcallister-justis",
+    "id": "743",
+    "title": "Real McAllister Justis",
+    "date": "2007-08-26T11:02:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-08-feeling-on-the-verge-of-organi",
+    "id": "742",
+    "title": "feeling on the verge of organi...",
+    "date": "2007-08-20T07:55:13.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-recovering",
+    "id": "741",
+    "title": "recovering",
+    "date": "2007-08-19T13:42:36.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-congrats-tom-and-lb",
+    "id": "739",
+    "title": "Congrats Tom and LB",
+    "date": "2007-08-18T13:33:38.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-gearing-up-for-best-man-duties",
+    "id": "740",
+    "title": "Gearing up for best man duties",
+    "date": "2007-08-18T13:33:25.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-and-i-didnt-ever-do-a-crime-i",
+    "id": "737",
+    "title": "And I didn't ever do a crime I...",
+    "date": "2007-08-17T11:31:43.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-embracing-constraints-http",
+    "id": "738",
+    "title": "embracing constraints: http://...",
+    "date": "2007-08-17T10:38:23.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-a-dramatic-morning",
+    "id": "736",
+    "title": "a dramatic morning",
+    "date": "2007-08-17T08:33:07.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-making-some-progress-on-my-mes",
+    "id": "733",
+    "title": "making some progress on my mes...",
+    "date": "2007-08-16T21:37:49.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-going-to-get-a-tux",
+    "id": "732",
+    "title": "going to get a tux",
+    "date": "2007-08-16T17:08:15.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-nothing-like-losing-a-customer",
+    "id": "735",
+    "title": "Nothing like losing a customer...",
+    "date": "2007-08-16T13:42:16.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-finally-cancelled-valueweb-acc",
+    "id": "731",
+    "title": "finally cancelled valueweb acc...",
+    "date": "2007-08-16T13:41:31.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-dealin-with-hair-cut-leavins",
+    "id": "730",
+    "title": "dealin with hair cut leavins",
+    "date": "2007-08-16T13:00:16.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-cancelling-valueweb-account",
+    "id": "729",
+    "title": "cancelling valueweb account",
+    "date": "2007-08-16T09:20:38.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-michael-vick-subjected-me-to-m",
+    "id": "734",
+    "title": "MICHAEL VICK Subjected me to M...",
+    "date": "2007-08-16T08:02:19.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-swingin-the-night-away",
+    "id": "728",
+    "title": "Swingin The Night Away",
+    "date": "2007-08-15T19:32:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-08-playing-ups-because-its-on-my",
+    "id": "727",
+    "title": "playing UPS because it's on my...",
+    "date": "2007-08-15T16:45:25.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-being-annoyed-by-fanballs-pop",
+    "id": "724",
+    "title": "being annoyed by fanballs pop ...",
+    "date": "2007-08-15T16:17:36.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-not-online",
+    "id": "726",
+    "title": "not online",
+    "date": "2007-08-15T14:20:57.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-cursing-auto-discover",
+    "id": "725",
+    "title": "Cursing auto discover",
+    "date": "2007-08-15T07:34:35.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-going-to-eat-tacos",
+    "id": "723",
+    "title": "going to eat tacos",
+    "date": "2007-08-14T17:17:03.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-enjoying-the-after-effects-of",
+    "id": "722",
+    "title": "enjoying the after effects of ...",
+    "date": "2007-08-14T08:52:56.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-fighting-a-war-against-dust-mi",
+    "id": "720",
+    "title": "Fighting a war against dust mi...",
+    "date": "2007-08-13T21:27:48.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-sporting-my-qb-eagles-jersey",
+    "id": "721",
+    "title": "Sporting my QB Eagles Jersey.",
+    "date": "2007-08-13T14:03:02.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-checking-my-accountabilities",
+    "id": "719",
+    "title": "checking my accountabilities",
+    "date": "2007-08-13T13:04:14.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-allergies-make-for-unhappy-nig",
+    "id": "718",
+    "title": "allergies make for unhappy nig...",
+    "date": "2007-08-13T10:31:13.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-car-bombs",
+    "id": "716",
+    "title": "Car bombs",
+    "date": "2007-08-11T21:06:17.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-computer-graveyard",
+    "id": "717",
+    "title": "Computer Graveyard",
+    "date": "2007-08-11T09:45:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-08-wondering-where-in-the-world-i",
+    "id": "715",
+    "title": "wondering where in the world i...",
+    "date": "2007-08-10T16:57:40.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-release-release",
+    "id": "714",
+    "title": "RELEASE!!! RELEASE!!!",
+    "date": "2007-08-10T10:31:26.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-going-home",
+    "id": "710",
+    "title": "going home",
+    "date": "2007-08-09T17:48:06.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-finally-getting-somewhere",
+    "id": "709",
+    "title": "finally getting somewhere.",
+    "date": "2007-08-09T17:27:59.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-booooooooring",
+    "id": "707",
+    "title": "booooooooring",
+    "date": "2007-08-09T17:12:54.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-hating-linksys",
+    "id": "711",
+    "title": "hating linksys",
+    "date": "2007-08-09T15:15:10.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-i-just-pulled-on-this-one-thre",
+    "id": "712",
+    "title": "I just pulled on this one thre...",
+    "date": "2007-08-09T11:38:13.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-spaghetti",
+    "id": "713",
+    "title": "spaghetti",
+    "date": "2007-08-09T10:43:37.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-cursing-rube-goldberg-for-desi",
+    "id": "708",
+    "title": "cursing rube goldberg for desi...",
+    "date": "2007-08-09T09:34:52.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-wondering-what-sort-of-disease",
+    "id": "705",
+    "title": "wondering what sort of disease...",
+    "date": "2007-08-08T16:15:40.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-wondering-when-the-real-work-w",
+    "id": "706",
+    "title": "wondering when the real work w...",
+    "date": "2007-08-08T14:16:25.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-custom-amish-furniture",
+    "id": "702",
+    "title": "Custom amish furniture",
+    "date": "2007-08-07T18:56:10.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-being-digitally-literate",
+    "id": "700",
+    "title": "being digitally literate",
+    "date": "2007-08-07T16:39:59.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-loving-the-blink-tag-httpw",
+    "id": "703",
+    "title": "loving the blink tag: http://w...",
+    "date": "2007-08-07T15:25:45.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-catching-up-on-my-case-load",
+    "id": "701",
+    "title": "catching up on my case load",
+    "date": "2007-08-07T13:44:40.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-minimizing-therbligs",
+    "id": "704",
+    "title": "minimizing therbligs",
+    "date": "2007-08-07T07:58:19.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-catchin-up-on-paperwork",
+    "id": "696",
+    "title": "catchin up on paperwork",
+    "date": "2007-08-06T19:58:09.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-going-home-possibly-to-sort-t",
+    "id": "698",
+    "title": "going home, possibly to sort t...",
+    "date": "2007-08-06T17:02:58.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-doing-some-of-my-jobs-at-the-e",
+    "id": "697",
+    "title": "doing some of my jobs at the e...",
+    "date": "2007-08-06T15:28:35.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-trying-to-have-a-meeting-at-th",
+    "id": "699",
+    "title": "trying to have a meeting at th...",
+    "date": "2007-08-06T10:13:56.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-wondering-why-so-much-of-my-em",
+    "id": "695",
+    "title": "wondering why so much of my em...",
+    "date": "2007-08-04T21:54:21.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-watching-a-big-ass-tv",
+    "id": "694",
+    "title": "watching a big-ass tv",
+    "date": "2007-08-04T14:05:23.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-waiting-on-hoagies",
+    "id": "693",
+    "title": "Waiting on hoagies",
+    "date": "2007-08-04T11:35:09.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-going-to-get-my-high-def-on",
+    "id": "692",
+    "title": "Going to get my high def on",
+    "date": "2007-08-04T10:24:05.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-gonna-see-a-man-about-a-tv",
+    "id": "686",
+    "title": "gonna see a man about a tv",
+    "date": "2007-08-03T16:47:42.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-rwgrier-nope-getting-a-hand-m",
+    "id": "689",
+    "title": "@rwgrier nope getting a hand-m...",
+    "date": "2007-08-03T15:23:29.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-httptinyurlcomys7d8d",
+    "id": "688",
+    "title": "http://tinyurl.com/ys7d8d",
+    "date": "2007-08-03T15:18:44.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-super-mario-efficiently-played",
+    "id": "690",
+    "title": "Super Mario Efficiently Played",
+    "date": "2007-08-03T15:18:19.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-craving-a-black-tan",
+    "id": "685",
+    "title": "craving a black & tan",
+    "date": "2007-08-03T14:01:45.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-wrasslin-alligators",
+    "id": "691",
+    "title": "wrasslin alligators",
+    "date": "2007-08-03T13:58:14.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-checking-my-moms-for-padded-mo",
+    "id": "684",
+    "title": "checking my moms for padded mo...",
+    "date": "2007-08-03T00:07:55.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-hating-rtp-proxy-changers",
+    "id": "687",
+    "title": "hating rtp proxy changers.",
+    "date": "2007-08-03T00:07:36.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-happy-birthday-michelle-2",
+    "id": "681",
+    "title": "Happy birthday Michelle",
+    "date": "2007-08-02T19:42:23.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-jammin-to-raymond-scott",
+    "id": "682",
+    "title": "Jammin to raymond scott",
+    "date": "2007-08-02T19:41:30.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-time-to-hit-the-water",
+    "id": "683",
+    "title": "Time to hit the water",
+    "date": "2007-08-02T13:15:23.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-gearing-up-for-sesame-place",
+    "id": "680",
+    "title": "Gearing up for sesame place",
+    "date": "2007-08-02T08:02:02.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-sam-i-am",
+    "id": "678",
+    "title": "Sam I Am",
+    "date": "2007-08-01T18:35:21.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-08-going-home-to-eat-green-eggs-a",
+    "id": "674",
+    "title": "Going home to eat green eggs a...",
+    "date": "2007-08-01T17:12:15.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-could-you-would-you-with-a-goa",
+    "id": "672",
+    "title": "could you would you with a goa...",
+    "date": "2007-08-01T17:05:21.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-considering-a-material-change",
+    "id": "671",
+    "title": "considering a material change ...",
+    "date": "2007-08-01T15:00:02.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-floundering",
+    "id": "673",
+    "title": "floundering",
+    "date": "2007-08-01T14:19:39.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-gotta-get-back-to-the-grift",
+    "id": "676",
+    "title": "Gotta get back to the grift",
+    "date": "2007-08-01T09:57:49.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-going-to-philly-to-see-a-rack",
+    "id": "675",
+    "title": "going to philly to see a rack ...",
+    "date": "2007-08-01T09:22:15.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-08-looking-for-some-construda",
+    "id": "677",
+    "title": "Looking for some construda",
+    "date": "2007-08-01T07:11:29.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-trying-to-patch-evolution-to-n",
+    "id": "679",
+    "title": "trying to patch evolution to n...",
+    "date": "2007-08-01T00:09:28.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-ice-cream-harry-potter-sle",
+    "id": "665",
+    "title": "ice cream.  harry potter.  sle...",
+    "date": "2007-07-31T21:13:49.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-tahrd",
+    "id": "669",
+    "title": "tahrd",
+    "date": "2007-07-31T19:51:03.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-goin-home",
+    "id": "663",
+    "title": "goin home.",
+    "date": "2007-07-31T17:07:08.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-split-brain-is-bad",
+    "id": "668",
+    "title": "split brain is bad.",
+    "date": "2007-07-31T15:13:03.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-extended-warranty-how-can-i",
+    "id": "662",
+    "title": "extended warranty!  how can I ...",
+    "date": "2007-07-31T14:12:06.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-i-need-a-private-office-and-a",
+    "id": "664",
+    "title": "I need a private office and a ...",
+    "date": "2007-07-31T07:34:46.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-now-to-sleep-until-meeting-tim",
+    "id": "667",
+    "title": "now to sleep until meeting tim...",
+    "date": "2007-07-31T07:34:04.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-the-phone-company-gets-blamed",
+    "id": "670",
+    "title": "the phone company gets blamed ...",
+    "date": "2007-07-31T07:17:11.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-in-work-early-to-help-a-custom",
+    "id": "666",
+    "title": "in work early to help a custom...",
+    "date": "2007-07-31T06:52:41.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-watching-some-british-wanker-d",
+    "id": "661",
+    "title": "watching some british wanker d...",
+    "date": "2007-07-30T22:26:57.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-fixing-email",
+    "id": "655",
+    "title": "fixing email",
+    "date": "2007-07-30T21:19:28.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-night-night-time-and-fixing",
+    "id": "659",
+    "title": "night night time.  And fixing ...",
+    "date": "2007-07-30T20:27:58.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-homeward-bound",
+    "id": "656",
+    "title": "Homeward bound",
+    "date": "2007-07-30T17:30:15.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-looks-like-it-has-been-up-for",
+    "id": "658",
+    "title": "looks like it has been up for ...",
+    "date": "2007-07-30T16:23:42.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-finally-got-my-old-server-back",
+    "id": "654",
+    "title": "finally got my old server back...",
+    "date": "2007-07-30T16:23:29.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-i-can-send-email-at-work-it",
+    "id": "657",
+    "title": "I can send email at work!  It'...",
+    "date": "2007-07-30T11:47:07.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-backlogged-and-frustrated",
+    "id": "653",
+    "title": "backlogged and frustrated",
+    "date": "2007-07-30T09:58:51.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-sorting-out-the-broken-into-fi",
+    "id": "660",
+    "title": "sorting out the broken into fi...",
+    "date": "2007-07-30T08:24:21.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-sleepy",
+    "id": "651",
+    "title": "sleepy",
+    "date": "2007-07-29T23:21:20.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-m5hosting-is-clutch-now-just",
+    "id": "647",
+    "title": "m5hosting is clutch.  Now just...",
+    "date": "2007-07-29T22:46:36.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-unsurprisingly-hostway-valuewe",
+    "id": "652",
+    "title": "unsurprisingly hostway valuewe...",
+    "date": "2007-07-29T20:25:02.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-setting-up-my-new-server-pu",
+    "id": "650",
+    "title": "setting up my new server... pu...",
+    "date": "2007-07-29T20:15:55.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-madison-spilled-beans",
+    "id": "648",
+    "title": "Madison spilled beans",
+    "date": "2007-07-29T14:34:00.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-oh-and-michelle-has-on-clue-ab",
+    "id": "649",
+    "title": "Oh and michelle has on clue ab...",
+    "date": "2007-07-29T11:49:58.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-going-to-the-phillies-game-to",
+    "id": "646",
+    "title": "Going to the phillies game to ...",
+    "date": "2007-07-29T11:49:08.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-potter-time-followed-closely-b",
+    "id": "644",
+    "title": "potter time followed closely b...",
+    "date": "2007-07-28T22:41:58.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-still-hating-valueweb-we-did",
+    "id": "645",
+    "title": "still hating valueweb.  We did...",
+    "date": "2007-07-28T21:19:04.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-buying-a-van",
+    "id": "643",
+    "title": "Buying a van.",
+    "date": "2007-07-28T00:50:54.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-im-pretty-tahred-i-think-i",
+    "id": "640",
+    "title": "I'm pretty tahred.  I think I'...",
+    "date": "2007-07-27T23:04:13.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-death-to-valueweb-and-hostway",
+    "id": "639",
+    "title": "Death to valueweb and hostway",
+    "date": "2007-07-27T20:27:44.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-actually-cleaning-up-a-bit",
+    "id": "638",
+    "title": "actually cleaning up a bit.",
+    "date": "2007-07-27T14:45:49.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-triage",
+    "id": "642",
+    "title": "triage",
+    "date": "2007-07-27T13:38:28.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-lunching",
+    "id": "641",
+    "title": "lunching",
+    "date": "2007-07-27T11:50:37.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-trying-to-empty-the-box",
+    "id": "635",
+    "title": "trying to empty the box",
+    "date": "2007-07-26T10:21:02.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-zeroed-now-what-do-i-do-wa",
+    "id": "636",
+    "title": "zeroed.  Now what do I do?  Wa...",
+    "date": "2007-07-26T08:49:56.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-zeroing-the-inbox",
+    "id": "637",
+    "title": "zeroing the inbox",
+    "date": "2007-07-26T07:23:33.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-lunch-at-home-and-then-out-and",
+    "id": "634",
+    "title": "lunch at home and then out and...",
+    "date": "2007-07-26T00:01:20.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-more-harry-potter-more-sleep",
+    "id": "630",
+    "title": "more harry potter, more sleep",
+    "date": "2007-07-25T22:51:17.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-my-brother-to-be-published-in",
+    "id": "631",
+    "title": "My brother to be published in ...",
+    "date": "2007-07-25T22:12:32.000Z",
+    "tags": [
+      "tweets"
+    ]
+  },
+  {
+    "slug": "2007-07-how-does-it-know",
+    "id": "626",
+    "title": "How does it know?",
+    "date": "2007-07-25T20:50:04.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-researching-vans",
+    "id": "633",
+    "title": "Researching vans",
+    "date": "2007-07-25T20:29:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-nearly-the-season",
+    "id": "632",
+    "title": "Nearly The Season",
+    "date": "2007-07-25T19:43:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-fix-the-problem-fix-the-proble",
+    "id": "623",
+    "title": "fix the problem fix the proble...",
+    "date": "2007-07-25T13:02:31.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-free-lunch-today",
+    "id": "624",
+    "title": "free lunch today?",
+    "date": "2007-07-25T11:35:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-killing-in-the-name-of",
+    "id": "627",
+    "title": "killing in the name of.",
+    "date": "2007-07-25T07:40:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-making-life-better",
+    "id": "629",
+    "title": "making life better",
+    "date": "2007-07-25T00:48:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-lunch-2",
+    "id": "628",
+    "title": "lunch",
+    "date": "2007-07-25T00:07:10.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-guess-i-gotta-provide-my-own",
+    "id": "625",
+    "title": "guess I gotta provide my own",
+    "date": "2007-07-25T00:04:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-walkin-tall",
+    "id": "622",
+    "title": "Walkin tall",
+    "date": "2007-07-24T19:16:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-getting-mah-car",
+    "id": "620",
+    "title": "Getting mah car",
+    "date": "2007-07-24T17:26:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-call-not-so-bad-have-work-to",
+    "id": "617",
+    "title": "call not so bad.  have work to...",
+    "date": "2007-07-24T14:20:21.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-dreading-a-call-at-2",
+    "id": "618",
+    "title": "dreading a call at 2",
+    "date": "2007-07-24T13:14:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-fighting-fires",
+    "id": "619",
+    "title": "fighting fires",
+    "date": "2007-07-24T11:48:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-hobnobbing-with-bigwigs",
+    "id": "621",
+    "title": "hobnobbing with bigwigs",
+    "date": "2007-07-24T09:24:19.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-finger-painting",
+    "id": "614",
+    "title": "Finger Painting",
+    "date": "2007-07-12T19:38:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-tuxpaint",
+    "id": "616",
+    "title": "Tuxpaint",
+    "date": "2007-07-12T19:31:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-pwayin",
+    "id": "615",
+    "title": "Pwayin",
+    "date": "2007-07-12T19:07:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-07-hangin-around",
+    "id": "613",
+    "title": "Hangin Around",
+    "date": "2007-07-02T19:14:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-breakfast-2",
+    "id": "612",
+    "title": "Breakfast",
+    "date": "2007-06-29T11:05:53.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-proof",
+    "id": "609",
+    "title": "Proof",
+    "date": "2007-06-28T22:56:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-tecmo",
+    "id": "611",
+    "title": "Tecmo",
+    "date": "2007-06-28T19:27:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-casualties-of-war",
+    "id": "607",
+    "title": "Casualties Of War",
+    "date": "2007-06-28T16:45:33.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-ocean",
+    "id": "608",
+    "title": "Ocean",
+    "date": "2007-06-28T13:17:31.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-ready-to-fish",
+    "id": "610",
+    "title": "Ready To Fish",
+    "date": "2007-06-28T00:49:37.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-comparison-2",
+    "id": "606",
+    "title": "Comparison",
+    "date": "2007-06-27T00:39:53.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-comparison",
+    "id": "605",
+    "title": "Comparison",
+    "date": "2007-06-27T00:39:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-family-room",
+    "id": "603",
+    "title": "Family Room",
+    "date": "2007-06-26T20:41:17.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-cordail",
+    "id": "602",
+    "title": "Cordail?",
+    "date": "2007-06-26T10:06:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-jury-duty-means-sitting-around",
+    "id": "604",
+    "title": "Jury Duty Means Sitting Around",
+    "date": "2007-06-26T00:25:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-long-happy-day",
+    "id": "600",
+    "title": "Long Happy Day",
+    "date": "2007-06-23T21:21:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-party-hat",
+    "id": "601",
+    "title": "Party Hat",
+    "date": "2007-06-23T14:27:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-happy-birthday-party",
+    "id": "599",
+    "title": "Happy Birthday party",
+    "date": "2007-06-23T00:23:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-heavens-be-praised",
+    "id": "598",
+    "title": "Heavens Be Praised...",
+    "date": "2007-06-22T23:03:49.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-competition",
+    "id": "597",
+    "title": "Competition",
+    "date": "2007-06-22T13:15:36.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-expertise",
+    "id": "596",
+    "title": "Expertise",
+    "date": "2007-06-17T00:21:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-new-hacker",
+    "id": "595",
+    "title": "New Hacker",
+    "date": "2007-06-07T21:06:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-06-mothra",
+    "id": "594",
+    "title": "Mothra",
+    "date": "2007-06-06T17:18:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-05-memorializin",
+    "id": "593",
+    "title": "Memorializin",
+    "date": "2007-05-28T19:38:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-05-ridin-bikes",
+    "id": "592",
+    "title": "Ridin Bikes",
+    "date": "2007-05-15T19:07:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-still-waiting",
+    "id": "591",
+    "title": "Still Waiting",
+    "date": "2007-04-28T14:14:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-having-a-ball",
+    "id": "590",
+    "title": "Having A Ball",
+    "date": "2007-04-27T09:46:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-made-it",
+    "id": "587",
+    "title": "Made It",
+    "date": "2007-04-25T11:07:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-mini-mini-minnie",
+    "id": "588",
+    "title": "Mini Mini Minnie",
+    "date": "2007-04-25T07:52:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-mini-minnie",
+    "id": "589",
+    "title": "Mini Minnie",
+    "date": "2007-04-25T07:36:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-recovery-time",
+    "id": "583",
+    "title": "Recovery Time",
+    "date": "2007-04-24T19:39:55.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-why-unpack",
+    "id": "586",
+    "title": "Why Unpack",
+    "date": "2007-04-24T16:28:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-walk-way",
+    "id": "585",
+    "title": "Walk Way",
+    "date": "2007-04-24T08:41:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-waiting",
+    "id": "584",
+    "title": "Waiting",
+    "date": "2007-04-24T00:45:14.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-florida",
+    "id": "582",
+    "title": "Florida",
+    "date": "2007-04-24T00:15:10.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-two-of-many",
+    "id": "581",
+    "title": "Two Of Many",
+    "date": "2007-04-23T21:08:55.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-finally-spring",
+    "id": "580",
+    "title": "Finally Spring",
+    "date": "2007-04-22T00:58:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-04-good-mooning",
+    "id": "579",
+    "title": "Good Mooning",
+    "date": "2007-04-10T06:40:33.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-03-cover-letter",
+    "id": "578",
+    "title": "Cover Letter",
+    "date": "2007-03-27T08:25:36.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2007-03-young-insight",
+    "id": "577",
+    "title": "Young insight",
+    "date": "2007-03-22T07:57:31.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-03-getting-things-done",
+    "id": "576",
+    "title": "Getting Things Done",
+    "date": "2007-03-08T08:53:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-03-morning",
+    "id": "575",
+    "title": "Morning",
+    "date": "2007-03-02T08:18:54.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-02-cheese",
+    "id": "574",
+    "title": "Cheese",
+    "date": "2007-02-28T23:57:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-02-screen",
+    "id": "573",
+    "title": "Screen",
+    "date": "2007-02-27T10:27:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-02-locking",
+    "id": "569",
+    "title": "Locking",
+    "date": "2007-02-10T21:58:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-02-you-have-new-picture-mail",
+    "id": "572",
+    "title": "You have new Picture Mail!",
+    "date": "2007-02-10T21:20:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-02-not-tackling-anyone-here-either",
+    "id": "570",
+    "title": "Not Tackling Anyone Here Either",
+    "date": "2007-02-10T14:53:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-02-sport-is-stranger-than-fiction",
+    "id": "571",
+    "title": "Sport is stranger than Fiction",
+    "date": "2007-02-10T14:40:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-02-jumperoo",
+    "id": "568",
+    "title": "Jumperoo",
+    "date": "2007-02-05T21:36:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-weeee",
+    "id": "567",
+    "title": "Weeee",
+    "date": "2007-01-31T21:46:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-not-going-that-way",
+    "id": "566",
+    "title": "Not Going That Way",
+    "date": "2007-01-31T18:03:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-join",
+    "id": "565",
+    "title": "Join",
+    "date": "2007-01-30T23:47:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-bailing-water",
+    "id": "564",
+    "title": "Bailing Water",
+    "date": "2007-01-29T15:54:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-asthma-probably-sucks",
+    "id": "563",
+    "title": "Asthma probably sucks",
+    "date": "2007-01-26T00:38:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-my-girls",
+    "id": "562",
+    "title": "My Girls",
+    "date": "2007-01-24T18:29:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-mcallister-in-08",
+    "id": "561",
+    "title": "McAllister in 08",
+    "date": "2007-01-24T15:27:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-static",
+    "id": "560",
+    "title": "Static",
+    "date": "2007-01-10T11:24:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-wires",
+    "id": "559",
+    "title": "Wires",
+    "date": "2007-01-09T14:43:33.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-there-it-is",
+    "id": "558",
+    "title": "There It Is",
+    "date": "2007-01-09T09:35:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-100000",
+    "id": "557",
+    "title": "100000",
+    "date": "2007-01-09T09:17:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2007-01-days-work",
+    "id": "556",
+    "title": "Days Work",
+    "date": "2007-01-07T14:33:18.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-dredge-ship-captain",
+    "id": "555",
+    "title": "Dredge Ship Captain",
+    "date": "2006-12-30T13:42:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-gear-head",
+    "id": "554",
+    "title": "Gear Head",
+    "date": "2006-12-26T23:44:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-behind-bars",
+    "id": "553",
+    "title": "Behind Bars",
+    "date": "2006-12-23T00:46:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-its-begining-to-look",
+    "id": "552",
+    "title": "Its Beginning To Look ...",
+    "date": "2006-12-21T13:25:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-smokin",
+    "id": "551",
+    "title": "Smokin",
+    "date": "2006-12-20T15:43:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-step-up",
+    "id": "550",
+    "title": "Step Up",
+    "date": "2006-12-19T13:24:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-sugar-lovers-diet",
+    "id": "549",
+    "title": "Sugar Lovers Diet",
+    "date": "2006-12-17T16:19:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-back-2",
+    "id": "548",
+    "title": "Back",
+    "date": "2006-12-05T09:56:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-12-ill-live",
+    "id": "547",
+    "title": "I'll Live",
+    "date": "2006-12-01T14:58:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-doodle",
+    "id": "546",
+    "title": "Doodle",
+    "date": "2006-11-29T20:10:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-genre-differences",
+    "id": "545",
+    "title": "Genre Differences",
+    "date": "2006-11-26T00:27:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-world-conquering",
+    "id": "544",
+    "title": "World Conquering",
+    "date": "2006-11-22T10:18:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-mandatory-waiting-period",
+    "id": "543",
+    "title": "Mandatory waiting period",
+    "date": "2006-11-17T13:16:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-people-who-pay-attention",
+    "id": "542",
+    "title": "People who pay attention",
+    "date": "2006-11-14T17:20:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-mall-oop",
+    "id": "541",
+    "title": "Mall Oop",
+    "date": "2006-11-13T19:51:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-art",
+    "id": "540",
+    "title": "Art?",
+    "date": "2006-11-13T16:47:31.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-behold-the-turtle",
+    "id": "539",
+    "title": "Behold The Turtle",
+    "date": "2006-11-11T17:49:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-11-trivia",
+    "id": "538",
+    "title": "Trivia",
+    "date": "2006-11-01T16:47:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-10-always-available-society-problems",
+    "id": "537",
+    "title": "Always Available Society Problems",
+    "date": "2006-10-30T17:26:36.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-10-eagles-3",
+    "id": "536",
+    "title": "Eagles!",
+    "date": "2006-10-29T13:47:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-10-making-noise-dell-dimension-e521-linux-usb-problems",
+    "id": "534",
+    "title": "Making Noise: Dell Dimension E521 Linux USB problems",
+    "date": "2006-10-25T13:28:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-10-tunnelling-smb-over-ssh",
+    "id": "535",
+    "title": "Tunnelling SMB over SSH",
+    "date": "2006-10-25T09:03:54.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-10-big-pumpkin",
+    "id": "533",
+    "title": "big Pumpkin",
+    "date": "2006-10-20T08:00:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-10-riddle-7",
+    "id": "532",
+    "title": "Riddle # 7",
+    "date": "2006-10-02T11:35:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-10-imprisonment",
+    "id": "531",
+    "title": "Imprisonment",
+    "date": "2006-10-02T11:34:19.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-09-riddle-6",
+    "id": "530",
+    "title": "Riddle # 6",
+    "date": "2006-09-28T16:23:56.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-09-riddle-5",
+    "id": "529",
+    "title": "Riddle # 5",
+    "date": "2006-09-26T15:59:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-09-riddle-4",
+    "id": "528",
+    "title": "Riddle # 4",
+    "date": "2006-09-25T13:32:13.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-09-riddle-3",
+    "id": "527",
+    "title": "Riddle # 3",
+    "date": "2006-09-21T11:26:24.000Z",
+    "tags": [
+      "Riddles"
+    ]
+  },
+  {
+    "slug": "2006-09-riddle-2",
+    "id": "526",
+    "title": "Riddle # 2",
+    "date": "2006-09-20T00:50:52.000Z",
+    "tags": [
+      "Riddles"
+    ]
+  },
+  {
+    "slug": "2006-09-riddle-1",
+    "id": "525",
+    "title": "Riddle # 1",
+    "date": "2006-09-19T07:13:00.000Z",
+    "tags": [
+      "Riddles"
+    ]
+  },
+  {
+    "slug": "2006-09-domain-woes",
+    "id": "523",
+    "title": "Domain woes",
+    "date": "2006-09-14T21:22:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-09-finally-a-new-pc",
+    "id": "524",
+    "title": "Finally a New PC",
+    "date": "2006-09-14T21:18:37.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-09-variations-on-a-theme",
+    "id": "522",
+    "title": "Variations On a Theme",
+    "date": "2006-09-12T07:55:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-09-masala-chai",
+    "id": "521",
+    "title": "Masala Chai",
+    "date": "2006-09-05T16:03:56.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-saving-money-on-textbooks",
+    "id": "519",
+    "title": "Saving Money on textbooks",
+    "date": "2006-08-31T23:46:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-spam-lottery",
+    "id": "520",
+    "title": "Spam Lottery",
+    "date": "2006-08-31T09:10:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-2-damn-vague",
+    "id": "517",
+    "title": "2 Damn Vague",
+    "date": "2006-08-30T17:00:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-serenity-prayer",
+    "id": "518",
+    "title": "Serenity Prayer",
+    "date": "2006-08-30T08:27:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-pay-your-bills-and-patience",
+    "id": "516",
+    "title": "Pay your bills and Patience",
+    "date": "2006-08-29T16:24:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-broken-computer-season",
+    "id": "515",
+    "title": "Broken Computer Season",
+    "date": "2006-08-28T16:54:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-paper-reduction",
+    "id": "514",
+    "title": "Paper Reduction",
+    "date": "2006-08-25T15:34:33.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-welcome-cj",
+    "id": "513",
+    "title": "Welcome CJ",
+    "date": "2006-08-12T16:00:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-power-outage",
+    "id": "512",
+    "title": "Power Outage",
+    "date": "2006-08-07T23:28:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-baby-limo",
+    "id": "511",
+    "title": "Baby Limo",
+    "date": "2006-08-07T19:13:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-dreams-made-reality",
+    "id": "509",
+    "title": "Dreams Made Reality",
+    "date": "2006-08-03T23:56:07.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-08-yucky-shoes",
+    "id": "510",
+    "title": "Yucky Shoes",
+    "date": "2006-08-03T18:32:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-linux-desktop-reminders",
+    "id": "508",
+    "title": "Linux Desktop Reminders",
+    "date": "2006-07-31T09:24:30.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-kitchen-hack",
+    "id": "506",
+    "title": "Kitchen Hack",
+    "date": "2006-07-29T20:11:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-parental-alarm-clock",
+    "id": "507",
+    "title": "Parental Alarm Clock",
+    "date": "2006-07-29T01:01:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-ignore-this-and-all-future-posts-if-you-value-your-sanity",
+    "id": "505",
+    "title": "Ignore this and all future posts, if you value your sanity",
+    "date": "2006-07-29T00:36:17.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-code",
+    "id": "504",
+    "title": "Code?",
+    "date": "2006-07-19T03:15:33.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-401-at-night",
+    "id": "503",
+    "title": "401 at Night",
+    "date": "2006-07-19T02:01:57.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-one-ring-to-rule-them-all",
+    "id": "502",
+    "title": "One Ring To Rule Them All",
+    "date": "2006-07-16T19:19:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-fwnew-edition",
+    "id": "501",
+    "title": "Fw:New Edition!!",
+    "date": "2006-07-02T07:15:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-late-night-snack",
+    "id": "499",
+    "title": "Late Night Snack",
+    "date": "2006-07-01T23:01:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-07-12-hours",
+    "id": "497",
+    "title": "12 hours",
+    "date": "2006-07-01T09:39:38.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-06-happy-birthday-ashley-ann",
+    "id": "498",
+    "title": "Happy Birthday Ashley Ann",
+    "date": "2006-07-01T03:02:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-06-visiting-hours-11-8",
+    "id": "500",
+    "title": "Visiting Hours 11-8",
+    "date": "2006-07-01T00:58:10.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-06-money",
+    "id": "496",
+    "title": "Money",
+    "date": "2006-06-29T19:36:53.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-06-billy-2",
+    "id": "495",
+    "title": "Billy",
+    "date": "2006-06-29T14:12:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-06-traffic-sucks",
+    "id": "494",
+    "title": "Traffic Sucks",
+    "date": "2006-06-28T15:34:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-06-fwthrowing-money-away",
+    "id": "493",
+    "title": "Fw:Throwing Money Away",
+    "date": "2006-06-08T11:04:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-06-asking-questions-in-email",
+    "id": "492",
+    "title": "asking questions in email",
+    "date": "2006-06-06T11:26:48.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2006-05-cooler-soon",
+    "id": "490",
+    "title": "Cooler Soon",
+    "date": "2006-05-26T10:18:21.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-holiday-weekend-begins",
+    "id": "491",
+    "title": "Holiday Weekend Begins",
+    "date": "2006-05-26T10:15:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-linux-gmail-notifier",
+    "id": "489",
+    "title": "linux gmail notifier",
+    "date": "2006-05-23T09:49:16.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2006-05-pancakes",
+    "id": "488",
+    "title": "Pancakes",
+    "date": "2006-05-21T15:43:29.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-harrisburg",
+    "id": "486",
+    "title": "Harrisburg",
+    "date": "2006-05-14T20:25:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-connectin",
+    "id": "484",
+    "title": "Connectin",
+    "date": "2006-05-14T16:36:19.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-airport-tractor",
+    "id": "483",
+    "title": "Airport Tractor",
+    "date": "2006-05-14T13:09:16.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-rubber-band-ball",
+    "id": "487",
+    "title": "Rubber Band Ball?",
+    "date": "2006-05-14T13:01:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-happy-mothers-day",
+    "id": "485",
+    "title": "Happy Mothers Day",
+    "date": "2006-05-14T10:58:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-fox-head",
+    "id": "477",
+    "title": "Fox head",
+    "date": "2006-05-13T23:38:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-pomp-and-circumstance",
+    "id": "480",
+    "title": "Pomp And Circumstance",
+    "date": "2006-05-13T18:36:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-strange-poets",
+    "id": "482",
+    "title": "Strange Poets",
+    "date": "2006-05-13T18:36:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-chris-offut",
+    "id": "476",
+    "title": "Chris Offut",
+    "date": "2006-05-13T18:35:38.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-offut-quote",
+    "id": "479",
+    "title": "Offut Quote",
+    "date": "2006-05-13T18:03:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-pre-graduation-chaos",
+    "id": "481",
+    "title": "Pre Graduation Chaos",
+    "date": "2006-05-13T17:18:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-nice-purse-grad",
+    "id": "478",
+    "title": "Nice Purse Grad",
+    "date": "2006-05-13T00:36:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-box-number",
+    "id": "465",
+    "title": "Box Number",
+    "date": "2006-05-12T17:01:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-pod-2",
+    "id": "471",
+    "title": "Pod",
+    "date": "2006-05-12T16:36:04.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-pod",
+    "id": "470",
+    "title": "Pod",
+    "date": "2006-05-12T16:33:17.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-tex",
+    "id": "472",
+    "title": "Tex",
+    "date": "2006-05-12T16:09:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-penn-dot-crew",
+    "id": "469",
+    "title": "Penn Dot Crew",
+    "date": "2006-05-12T15:58:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-packin",
+    "id": "468",
+    "title": "Packin",
+    "date": "2006-05-12T15:57:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-ordering-now",
+    "id": "467",
+    "title": "Ordering Now",
+    "date": "2006-05-12T15:57:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-tmc-hq",
+    "id": "473",
+    "title": "TMC HQ",
+    "date": "2006-05-12T15:56:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-vittles",
+    "id": "474",
+    "title": "Vittles",
+    "date": "2006-05-12T09:34:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-back",
+    "id": "464",
+    "title": "Back",
+    "date": "2006-05-12T02:40:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-enduring-freedom",
+    "id": "466",
+    "title": "Enduring Freedom",
+    "date": "2006-05-12T00:34:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-what-i-do-not-miss",
+    "id": "475",
+    "title": "What I Do Not Miss",
+    "date": "2006-05-12T00:20:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-nerd-biker-parking",
+    "id": "460",
+    "title": "Nerd Biker Parking",
+    "date": "2006-05-11T17:25:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-pin-ball-wizard",
+    "id": "462",
+    "title": "Pin Ball Wizard",
+    "date": "2006-05-11T17:10:27.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-hawk-will-never",
+    "id": "455",
+    "title": "Hawk Will Never...",
+    "date": "2006-05-11T16:39:55.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-helmet-area",
+    "id": "456",
+    "title": "Helmet Area",
+    "date": "2006-05-11T16:34:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-mom-being-mom",
+    "id": "459",
+    "title": "Mom Being Mom",
+    "date": "2006-05-11T16:25:36.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-packed-rubble",
+    "id": "461",
+    "title": "Packed Rubble",
+    "date": "2006-05-11T16:24:27.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-fwjust-in-case-you-forgot",
+    "id": "454",
+    "title": "Fw:Just In Case You Forgot...",
+    "date": "2006-05-11T16:04:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-critical-hotel-bathroom-equipment",
+    "id": "452",
+    "title": "Critical Hotel Bathroom Equipment",
+    "date": "2006-05-11T13:34:29.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-tmc-not-writing",
+    "id": "463",
+    "title": "TMC not Writing",
+    "date": "2006-05-11T13:01:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-hop-hop-hop",
+    "id": "457",
+    "title": "Hop Hop Hop...",
+    "date": "2006-05-11T10:51:38.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-connecting",
+    "id": "451",
+    "title": "Connecting",
+    "date": "2006-05-11T10:34:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-disaster-averted",
+    "id": "453",
+    "title": "Disaster Averted",
+    "date": "2006-05-11T07:14:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-after-finding-my-keys",
+    "id": "450",
+    "title": "After Finding My Keys",
+    "date": "2006-05-11T07:05:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-iowa",
+    "id": "458",
+    "title": "Iowa",
+    "date": "2006-05-11T00:42:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-iowa-bound",
+    "id": "449",
+    "title": "Iowa bound",
+    "date": "2006-05-10T21:23:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-from-the-office-of",
+    "id": "448",
+    "title": "From The Office Of...",
+    "date": "2006-05-05T08:38:16.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-05-wastin-time",
+    "id": "447",
+    "title": "Wastin Time",
+    "date": "2006-05-01T08:42:38.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-mikes-office",
+    "id": "445",
+    "title": "Mikes office?",
+    "date": "2006-04-28T15:40:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-instant-office",
+    "id": "444",
+    "title": "Instant Office",
+    "date": "2006-04-28T15:30:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-mobile-worker",
+    "id": "446",
+    "title": "Mobile Worker",
+    "date": "2006-04-28T09:44:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-goodbye-hole-in-the-wall",
+    "id": "443",
+    "title": "Goodbye Hole  In The Wall...",
+    "date": "2006-04-28T09:42:04.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-eagles-2",
+    "id": "441",
+    "title": "Eagles",
+    "date": "2006-04-25T15:02:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-view-from-bridge-83",
+    "id": "442",
+    "title": "View From Bridge 83",
+    "date": "2006-04-25T00:18:56.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-bad-elephant",
+    "id": "440",
+    "title": "Bad Elephant",
+    "date": "2006-04-25T00:09:19.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-allison-loves-cars",
+    "id": "439",
+    "title": "Allison Loves Cars",
+    "date": "2006-04-24T16:03:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-moo",
+    "id": "438",
+    "title": "Moo",
+    "date": "2006-04-19T08:43:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-post-workout-leftovers",
+    "id": "437",
+    "title": "Post Workout Leftovers",
+    "date": "2006-04-18T06:10:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-happy-easter",
+    "id": "436",
+    "title": "Happy Easter",
+    "date": "2006-04-16T09:28:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-wings",
+    "id": "435",
+    "title": "Wings",
+    "date": "2006-04-15T21:25:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-neighbors",
+    "id": "434",
+    "title": "Neighbors",
+    "date": "2006-04-12T17:10:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-downtown-ambler",
+    "id": "433",
+    "title": "Downtown Ambler",
+    "date": "2006-04-12T13:20:16.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-got-this-in-the-mail",
+    "id": "431",
+    "title": "Got this In The Mail",
+    "date": "2006-04-11T21:10:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-hallowed-hall-of-communication",
+    "id": "432",
+    "title": "Hallowed Hall Of Communication",
+    "date": "2006-04-11T11:16:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-can-you-hear-me-now",
+    "id": "430",
+    "title": "Can You Hear Me Now?",
+    "date": "2006-04-11T11:16:04.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-time-to-clean",
+    "id": "429",
+    "title": "Time To Clean",
+    "date": "2006-04-07T15:49:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-blue-car-effect",
+    "id": "428",
+    "title": "Blue Car Effect",
+    "date": "2006-04-07T08:45:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-04-back-in-the-saddle",
+    "id": "427",
+    "title": "Back In The Saddle",
+    "date": "2006-04-06T20:17:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-03-patience",
+    "id": "426",
+    "title": "Patience",
+    "date": "2006-03-24T06:41:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-03-naming-a-mule",
+    "id": "425",
+    "title": "Naming a Mule",
+    "date": "2006-03-22T11:30:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-03-pretty-pictures",
+    "id": "424",
+    "title": "Pretty Pictures?",
+    "date": "2006-03-10T10:21:30.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-ack-too-much-motivation",
+    "id": "423",
+    "title": "Ack Too Much Motivation",
+    "date": "2006-02-23T11:59:04.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-oh-the-places-youll-go",
+    "id": "422",
+    "title": "Oh The Places You'll Go",
+    "date": "2006-02-22T19:36:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-lobby",
+    "id": "421",
+    "title": "Lobby",
+    "date": "2006-02-22T15:47:15.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-go-yellow",
+    "id": "420",
+    "title": "Go Yellow",
+    "date": "2006-02-22T06:59:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-ultrasound",
+    "id": "419",
+    "title": "UltraSound",
+    "date": "2006-02-15T15:51:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-billy",
+    "id": "418",
+    "title": "Billy",
+    "date": "2006-02-14T20:44:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-wednesday-is-hoagie-day",
+    "id": "417",
+    "title": "Wednesday Is hoagie Day",
+    "date": "2006-02-11T14:24:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-chaos",
+    "id": "416",
+    "title": "Chaos",
+    "date": "2006-02-11T00:09:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-thats-what-im-sayin",
+    "id": "415",
+    "title": "Thats What I'm Sayin",
+    "date": "2006-02-10T20:32:38.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-bad-security-is-easier",
+    "id": "414",
+    "title": "Bad Security Is Easier",
+    "date": "2006-02-10T19:38:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-next",
+    "id": "413",
+    "title": "Next",
+    "date": "2006-02-09T21:47:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-espn-grasping-at-zebra-colored-straws",
+    "id": "412",
+    "title": "ESPN grasping at zebra colored straws",
+    "date": "2006-02-07T07:47:23.000Z",
+    "tags": [
+      "Stupidity"
+    ]
+  },
+  {
+    "slug": "2006-02-contact",
+    "id": "411",
+    "title": "Contact!",
+    "date": "2006-02-06T19:29:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-lees-is-jumpin",
+    "id": "410",
+    "title": "Lee's Is Jumpin",
+    "date": "2006-02-05T15:19:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-after",
+    "id": "408",
+    "title": "After",
+    "date": "2006-02-05T11:42:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-before",
+    "id": "409",
+    "title": "Before",
+    "date": "2006-02-05T11:29:25.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-voip-is-messy",
+    "id": "407",
+    "title": "Voip Is Messy",
+    "date": "2006-02-04T15:47:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-all-levels",
+    "id": "406",
+    "title": "All Levels",
+    "date": "2006-02-03T15:06:36.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-guard-duty",
+    "id": "405",
+    "title": "Guard Duty",
+    "date": "2006-02-02T22:13:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-02-c-is-for-cookie",
+    "id": "404",
+    "title": "C Is For Cookie",
+    "date": "2006-02-02T22:12:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-angel",
+    "id": "403",
+    "title": "Angel",
+    "date": "2006-01-29T09:32:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-jenkintown",
+    "id": "400",
+    "title": "Jenkintown",
+    "date": "2006-01-28T13:09:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-the-captain",
+    "id": "402",
+    "title": "The Captain",
+    "date": "2006-01-28T00:45:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-more-drunker",
+    "id": "401",
+    "title": "More Drunker",
+    "date": "2006-01-28T00:42:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-happy-birthday-2",
+    "id": "399",
+    "title": "Happy Birthday",
+    "date": "2006-01-27T21:36:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-cupcake",
+    "id": "397",
+    "title": "Cupcake",
+    "date": "2006-01-26T19:30:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-shiny-new-parts",
+    "id": "398",
+    "title": "Shiny New parts",
+    "date": "2006-01-26T00:00:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-dammit",
+    "id": "396",
+    "title": "dammit",
+    "date": "2006-01-25T14:17:35.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-crappy-advantage-to-working-from-home",
+    "id": "395",
+    "title": "crappy advantage to working from home",
+    "date": "2006-01-25T13:39:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-online-software-purchases",
+    "id": "394",
+    "title": "Online software purchases",
+    "date": "2006-01-22T14:56:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-breakfast",
+    "id": "393",
+    "title": "Breakfast",
+    "date": "2006-01-22T09:31:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-guinness-for-strength",
+    "id": "391",
+    "title": "Guinness, For Strength",
+    "date": "2006-01-20T18:28:54.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-tasty",
+    "id": "392",
+    "title": "Tasty",
+    "date": "2006-01-20T06:07:55.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-even-saturday",
+    "id": "389",
+    "title": "Even Saturday",
+    "date": "2006-01-14T09:12:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-whats-up-doc",
+    "id": "390",
+    "title": "What's Up Doc?",
+    "date": "2006-01-14T00:53:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-but-which-songs",
+    "id": "388",
+    "title": "But Which Songs?",
+    "date": "2006-01-14T00:48:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-snoopy",
+    "id": "385",
+    "title": "Snoopy",
+    "date": "2006-01-11T16:27:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-gotta-get-me-some-lectric",
+    "id": "384",
+    "title": "Gotta Get Me Some 'lectric",
+    "date": "2006-01-11T13:47:14.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-they-do-funny-stuff",
+    "id": "387",
+    "title": "They Do Funny Stuff",
+    "date": "2006-01-11T13:25:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-super-chimney",
+    "id": "386",
+    "title": "Super Chimney",
+    "date": "2006-01-11T13:16:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-east-meets-west",
+    "id": "383",
+    "title": "East Meets West?",
+    "date": "2006-01-11T13:13:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-yum-donuts",
+    "id": "382",
+    "title": "Yum Donuts",
+    "date": "2006-01-10T08:23:19.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-sprint-picture-mail-and-the-samsung-a900",
+    "id": "381",
+    "title": "Sprint picture mail and the samsung a900",
+    "date": "2006-01-10T06:33:27.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-circle-of-life",
+    "id": "380",
+    "title": "Circle Of Life",
+    "date": "2006-01-10T06:13:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-requesting-good-naming-for-the-impatient-mysql",
+    "id": "379",
+    "title": "Requesting good naming for the impatient (MySQL)",
+    "date": "2006-01-09T08:14:18.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2006-01-early-to-rise",
+    "id": "378",
+    "title": "Early To Rise",
+    "date": "2006-01-09T04:52:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-selling-used-books-with-amazon",
+    "id": "377",
+    "title": "Selling Used Books with Amazon",
+    "date": "2006-01-08T22:01:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-people-promise",
+    "id": "375",
+    "title": "People Promise",
+    "date": "2006-01-07T20:02:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-wildcard-weekend",
+    "id": "376",
+    "title": "Wildcard Weekend",
+    "date": "2006-01-07T19:00:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-pretzel-to-the-stars",
+    "id": "373",
+    "title": "Pretzel To the Stars",
+    "date": "2006-01-05T19:05:29.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-time-for-a-book-to-do-my-job-again",
+    "id": "374",
+    "title": "Time For A Book To Do My Job Again",
+    "date": "2006-01-05T13:32:03.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-f",
+    "id": "372",
+    "title": "F",
+    "date": "2006-01-05T11:48:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-turnpikin",
+    "id": "371",
+    "title": "Turnpikin",
+    "date": "2006-01-04T17:47:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-ahoy",
+    "id": "368",
+    "title": "Ahoy",
+    "date": "2006-01-04T17:45:10.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-holy-office-space",
+    "id": "369",
+    "title": "Holy Office Space",
+    "date": "2006-01-04T13:36:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-no-walking",
+    "id": "370",
+    "title": "No walking?",
+    "date": "2006-01-04T09:01:18.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-low-of-oil-life",
+    "id": "367",
+    "title": "Low % Of Oil Life",
+    "date": "2006-01-03T13:35:29.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-origin",
+    "id": "366",
+    "title": "Origin",
+    "date": "2006-01-01T13:12:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2006-01-in-the-future-there-will-be-infrastructure-improvement",
+    "id": "365",
+    "title": "In The Future There Will Be Infrastructure Improvement",
+    "date": "2006-01-01T13:11:25.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-when-you-dont-quite-care-enough",
+    "id": "363",
+    "title": "When You Don't Quite Care Enough",
+    "date": "2005-12-31T10:47:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-yum-pancakes",
+    "id": "364",
+    "title": "Yum Pancakes",
+    "date": "2005-12-31T09:18:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-santa-oop",
+    "id": "362",
+    "title": "Santa Oop",
+    "date": "2005-12-30T19:42:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-orange-rules",
+    "id": "361",
+    "title": "Orange Rules",
+    "date": "2005-12-30T13:30:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-401-trek",
+    "id": "360",
+    "title": "401 trek",
+    "date": "2005-12-28T09:00:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-fiscal-recovery",
+    "id": "359",
+    "title": "Fiscal Recovery",
+    "date": "2005-12-27T11:52:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-and-the-memory-remains",
+    "id": "358",
+    "title": "And The Memory Remains",
+    "date": "2005-12-26T19:03:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-christmas-a-blur",
+    "id": "357",
+    "title": "Christmas A Blur",
+    "date": "2005-12-25T19:12:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-merry-christmas",
+    "id": "355",
+    "title": "Merry Christmas",
+    "date": "2005-12-24T20:13:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-christmas-dress",
+    "id": "354",
+    "title": "Christmas Dress",
+    "date": "2005-12-24T15:12:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-mike-mcmahon-show",
+    "id": "356",
+    "title": "Mike McMahon Show",
+    "date": "2005-12-24T14:10:29.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-by-the-chimney",
+    "id": "353",
+    "title": "By The Chimney...",
+    "date": "2005-12-24T09:49:06.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-e-a-g-l-e-s",
+    "id": "349",
+    "title": "E - a - g - l - e - s !!!",
+    "date": "2005-12-23T18:08:07.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-fa-la-la-la-la",
+    "id": "350",
+    "title": "Fa La La La La",
+    "date": "2005-12-23T15:21:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-decorating",
+    "id": "348",
+    "title": "Decorating",
+    "date": "2005-12-23T13:07:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-lunch",
+    "id": "351",
+    "title": "Lunch",
+    "date": "2005-12-23T11:55:13.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-public-life",
+    "id": "352",
+    "title": "Public Life",
+    "date": "2005-12-23T10:15:07.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-the-moots",
+    "id": "347",
+    "title": "the Moots",
+    "date": "2005-12-22T22:13:13.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-feelin-lucky-punk",
+    "id": "344",
+    "title": "Feelin Lucky Punk",
+    "date": "2005-12-22T21:29:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-rock",
+    "id": "346",
+    "title": "Rock!",
+    "date": "2005-12-22T20:35:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-a-picture-share",
+    "id": "343",
+    "title": "Phone Home",
+    "date": "2005-12-22T19:22:17.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-people-buy-this",
+    "id": "345",
+    "title": "People Buy This?",
+    "date": "2005-12-22T17:43:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-oh-tannenbaum",
+    "id": "341",
+    "title": "Oh Tannenbaum",
+    "date": "2005-12-21T23:02:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-hustle-bustle",
+    "id": "339",
+    "title": "Hustle & Bustle",
+    "date": "2005-12-21T20:25:55.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-inquire",
+    "id": "340",
+    "title": "Inquire?",
+    "date": "2005-12-21T10:34:41.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-good-morning",
+    "id": "338",
+    "title": "Good Morning",
+    "date": "2005-12-21T10:32:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-santas-helper",
+    "id": "342",
+    "title": "Santas helper",
+    "date": "2005-12-21T06:20:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-new-phone",
+    "id": "337",
+    "title": "New phone",
+    "date": "2005-12-20T23:00:20.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-thats-my-girl",
+    "id": "336",
+    "title": "That's my girl",
+    "date": "2005-12-19T21:11:44.000Z",
+    "tags": [
+      "funny",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-12-buy-my-crap",
+    "id": "335",
+    "title": "Buy my crap",
+    "date": "2005-12-11T23:18:29.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-aapl-goog",
+    "id": "333",
+    "title": "AAPL & GOOG",
+    "date": "2005-12-09T16:43:29.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2005-12-scrounging-hardware",
+    "id": "334",
+    "title": "Scrounging Hardware",
+    "date": "2005-12-09T13:14:59.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-12-gift-ideas",
+    "id": "332",
+    "title": "Gift Ideas",
+    "date": "2005-12-06T21:29:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-12-happy-birthday-allison",
+    "id": "331",
+    "title": "Happy Birthday Allison",
+    "date": "2005-12-03T10:59:22.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-11-origin-middle-of-nowhere",
+    "id": "330",
+    "title": "origin: Middle-of-nowhere",
+    "date": "2005-11-28T18:38:17.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-11-a-worthwhile-sunday",
+    "id": "329",
+    "title": "A worthwhile Sunday",
+    "date": "2005-11-27T13:29:46.000Z",
+    "tags": [
+      "General",
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-11-the-darkness-overwhelms",
+    "id": "328",
+    "title": "The Darkness overwhelms",
+    "date": "2005-11-14T16:20:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-11-perpetually-getting-organized",
+    "id": "327",
+    "title": "Perpetually getting organized",
+    "date": "2005-11-07T14:51:46.000Z",
+    "tags": [
+      "Hacker",
+      "Philosophy",
+      "Work"
+    ]
+  },
+  {
+    "slug": "2005-10-mainstream-sports-publicity-for-my-brother",
+    "id": "847",
+    "title": "Mainstream sports publicity for my Brother",
+    "date": "2005-10-17T19:51:45.000Z",
+    "tags": [
+      "funny",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-10-idea-fortune-fame-hammock",
+    "id": "326",
+    "title": "Idea, Fortune, Fame, Hammock",
+    "date": "2005-10-13T11:05:31.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-10-continuous-partial-attention",
+    "id": "325",
+    "title": "continuous partial attention",
+    "date": "2005-10-10T11:06:08.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-10-story-telling",
+    "id": "324",
+    "title": "Story Telling",
+    "date": "2005-10-07T00:56:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-10-black",
+    "id": "323",
+    "title": "Black",
+    "date": "2005-10-07T00:46:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-banned",
+    "id": "322",
+    "title": "Banned",
+    "date": "2005-09-29T11:33:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-where-to-ask",
+    "id": "321",
+    "title": "Where to Ask?",
+    "date": "2005-09-28T08:46:32.000Z",
+    "tags": [
+      "Questions"
+    ]
+  },
+  {
+    "slug": "2005-09-irate-customer",
+    "id": "848",
+    "title": "Irate Customer",
+    "date": "2005-09-27T16:40:24.000Z",
+    "tags": [
+      "funny"
+    ]
+  },
+  {
+    "slug": "2005-09-ass-u-me",
+    "id": "320",
+    "title": "Ass-u-ME",
+    "date": "2005-09-27T11:38:05.000Z",
+    "tags": [
+      "Stupidity"
+    ]
+  },
+  {
+    "slug": "2005-09-limerick-contest",
+    "id": "319",
+    "title": "Limerick Contest",
+    "date": "2005-09-26T13:32:45.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-bit-rot",
+    "id": "318",
+    "title": "bit rot",
+    "date": "2005-09-26T10:52:52.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-09-friday-afternoon",
+    "id": "316",
+    "title": "Friday Afternoon",
+    "date": "2005-09-23T15:09:30.000Z",
+    "tags": [
+      "Health and Fitness",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-09-confused-argument",
+    "id": "315",
+    "title": "confused argument",
+    "date": "2005-09-23T10:20:08.000Z",
+    "tags": [
+      "Stupidity"
+    ]
+  },
+  {
+    "slug": "2005-09-the-incredible-shrinking-me",
+    "id": "317",
+    "title": "the incredible shrinking me",
+    "date": "2005-09-23T08:12:26.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2005-09-bliss",
+    "id": "313",
+    "title": "Bliss",
+    "date": "2005-09-22T15:44:56.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2005-09-neighborly",
+    "id": "314",
+    "title": "Neighborly",
+    "date": "2005-09-22T08:48:35.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-javascript-reference",
+    "id": "312",
+    "title": "Javascript reference",
+    "date": "2005-09-21T09:06:41.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-09-audio-book-suggestions",
+    "id": "308",
+    "title": "Audio Book Suggestions",
+    "date": "2005-09-20T23:06:18.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-triumphant-return",
+    "id": "311",
+    "title": "triumphant return",
+    "date": "2005-09-20T22:30:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-social-security-opt-out",
+    "id": "310",
+    "title": "Social Security Opt Out",
+    "date": "2005-09-20T09:38:50.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2005-09-feedburner",
+    "id": "309",
+    "title": "Feedburner",
+    "date": "2005-09-20T00:59:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-unexpected-bills",
+    "id": "307",
+    "title": "Unexpected Bills",
+    "date": "2005-09-19T17:55:43.000Z",
+    "tags": [
+      "Finance",
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-plastered",
+    "id": "306",
+    "title": "Plastered",
+    "date": "2005-09-17T19:00:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-phillies",
+    "id": "305",
+    "title": "Phillies",
+    "date": "2005-09-15T15:11:53.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-09-plums-deify",
+    "id": "304",
+    "title": "Plums Deify",
+    "date": "2005-09-13T11:47:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-closing-the-door",
+    "id": "303",
+    "title": "Closing the Door",
+    "date": "2005-09-12T09:55:46.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2005-09-library-dweller",
+    "id": "302",
+    "title": "Library Dweller",
+    "date": "2005-09-10T15:14:32.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-09-and-the-gunslinger-followed",
+    "id": "301",
+    "title": "and the gunslinger followed ...",
+    "date": "2005-09-10T14:38:30.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-geeky-self-help",
+    "id": "298",
+    "title": "geeky self help",
+    "date": "2005-09-09T15:51:39.000Z",
+    "tags": [
+      "Hacker",
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2005-09-pushing-the-outer-limits",
+    "id": "299",
+    "title": "Pushing the outer limits",
+    "date": "2005-09-09T15:22:49.000Z",
+    "tags": [
+      "General",
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2005-09-concise",
+    "id": "297",
+    "title": "Concise",
+    "date": "2005-09-09T15:11:40.000Z",
+    "tags": [
+      "Personal",
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2005-09-the-final-hour",
+    "id": "300",
+    "title": "The Final Hour",
+    "date": "2005-09-09T11:51:04.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-09-buy-my-books",
+    "id": "293",
+    "title": "Buy my books",
+    "date": "2005-09-01T21:41:56.000Z",
+    "tags": [
+      "Finance",
+      "General",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-09-meat-in-the-fridge",
+    "id": "295",
+    "title": "Meat in the Fridge",
+    "date": "2005-09-01T13:01:42.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-09-the-zen-of-deleting",
+    "id": "296",
+    "title": "The Zen of Deleting",
+    "date": "2005-09-01T10:39:58.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-09-fedora-and-windows-xp-dual-boot-problems",
+    "id": "294",
+    "title": "Fedora and Windows XP dual boot problems",
+    "date": "2005-09-01T09:46:38.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-08-free-bubble-wrap",
+    "id": "291",
+    "title": "Free Bubble Wrap?",
+    "date": "2005-08-30T22:56:19.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-08-i-woulda-picked-it-up",
+    "id": "292",
+    "title": "I woulda picked it up",
+    "date": "2005-08-30T09:51:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-08-geeky-bookworm-frugality",
+    "id": "290",
+    "title": "Geeky Bookworm Frugality",
+    "date": "2005-08-29T11:08:22.000Z",
+    "tags": [
+      "Finance",
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-08-mind-games-2",
+    "id": "289",
+    "title": "Mind Games",
+    "date": "2005-08-27T16:04:34.000Z",
+    "tags": [
+      "Hacker",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-08-eye-relief",
+    "id": "288",
+    "title": "Eye Relief",
+    "date": "2005-08-25T13:58:22.000Z",
+    "tags": [
+      "Hacker",
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2005-08-image-theifery",
+    "id": "285",
+    "title": "Image theifery",
+    "date": "2005-08-24T16:24:25.000Z",
+    "tags": [
+      "General",
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-08-its-gotta-be-the-shoes",
+    "id": "286",
+    "title": "it's gotta be the shoes?",
+    "date": "2005-08-24T10:30:07.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2005-08-making-the-money-work",
+    "id": "287",
+    "title": "making the money work",
+    "date": "2005-08-24T00:23:55.000Z",
+    "tags": [
+      "Finance",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-08-good-deed",
+    "id": "284",
+    "title": "Good Deed",
+    "date": "2005-08-23T09:42:11.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-08-zenity-gmail-gtd",
+    "id": "283",
+    "title": "Zenity, Gmail & GTD",
+    "date": "2005-08-16T10:35:24.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-08-gnome-custom-key-bindings",
+    "id": "282",
+    "title": "Gnome custom key bindings",
+    "date": "2005-08-16T09:37:45.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-08-madden-and-irresponsibility",
+    "id": "281",
+    "title": "Madden and irresponsibility",
+    "date": "2005-08-08T21:06:21.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-08-happy-birthday",
+    "id": "280",
+    "title": "Happy Birthday",
+    "date": "2005-08-02T11:23:25.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-08-the-blog-preferred-by-ed-hochuli",
+    "id": "279",
+    "title": "The Blog preferred by Ed Hochuli",
+    "date": "2005-08-01T08:59:24.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-working-exhausted",
+    "id": "278",
+    "title": "Working Exhausted",
+    "date": "2005-07-31T02:37:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-mcdougle-shot",
+    "id": "276",
+    "title": "McDougle Shot",
+    "date": "2005-07-29T10:56:10.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-tower",
+    "id": "277",
+    "title": "Tower",
+    "date": "2005-07-29T09:18:00.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-2006-football-season",
+    "id": "275",
+    "title": "2006 Football Season",
+    "date": "2005-07-26T16:05:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-reigning-in-the-reply",
+    "id": "274",
+    "title": "reigning in the reply",
+    "date": "2005-07-22T11:25:27.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-parenting-affords-staying-up-late",
+    "id": "273",
+    "title": "Parenting Affords staying up late",
+    "date": "2005-07-21T22:00:22.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-hip-hip-hooray",
+    "id": "272",
+    "title": "Hip Hip Hooray!",
+    "date": "2005-07-21T21:50:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-whipped-cream",
+    "id": "271",
+    "title": "whipped cream",
+    "date": "2005-07-19T14:18:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-internet-spam-appliance",
+    "id": "270",
+    "title": "Internet Spam Appliance",
+    "date": "2005-07-19T08:44:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-coke-zero",
+    "id": "269",
+    "title": "coke zero",
+    "date": "2005-07-14T10:57:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-happy-2nd-anniversary",
+    "id": "267",
+    "title": "Happy 2nd Anniversary",
+    "date": "2005-07-12T07:38:56.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-home-field-advantage",
+    "id": "268",
+    "title": "home field advantage",
+    "date": "2005-07-12T00:29:47.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2005-07-small-people-with-big-bombs-suck",
+    "id": "265",
+    "title": "small people with big bombs suck",
+    "date": "2005-07-07T14:20:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-wordpress-plugin-recomendations",
+    "id": "266",
+    "title": "Wordpress plugin recomendations",
+    "date": "2005-07-07T08:24:30.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-replay-reverse-angle",
+    "id": "264",
+    "title": "Replay reverse angle",
+    "date": "2005-07-07T08:21:14.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-07-family-vacation",
+    "id": "263",
+    "title": "family vacation",
+    "date": "2005-07-07T08:10:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-replay-relief",
+    "id": "262",
+    "title": "replay relief",
+    "date": "2005-06-25T11:17:59.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-click-click-click",
+    "id": "261",
+    "title": "click click click",
+    "date": "2005-06-25T11:10:49.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-laziness-is-a-virtue",
+    "id": "258",
+    "title": "Laziness is a virtue",
+    "date": "2005-06-24T15:19:55.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-hot-diggity",
+    "id": "257",
+    "title": "hot diggity",
+    "date": "2005-06-24T13:45:27.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-be-like-a-tennis-shoe",
+    "id": "256",
+    "title": "be like a tennis shoe",
+    "date": "2005-06-24T11:23:52.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-rubber-bands",
+    "id": "259",
+    "title": "Rubber Bands",
+    "date": "2005-06-24T07:54:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-tick-tock",
+    "id": "260",
+    "title": "Tick Tock",
+    "date": "2005-06-24T07:49:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-super-hype-bustification",
+    "id": "255",
+    "title": "Super Hype bustification",
+    "date": "2005-06-23T08:56:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-software-extensions",
+    "id": "254",
+    "title": "Software Extensions",
+    "date": "2005-06-09T10:49:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-customer-service-donts",
+    "id": "253",
+    "title": "customer service don'ts",
+    "date": "2005-06-07T13:03:53.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-the-clock-on-the-wall-says",
+    "id": "251",
+    "title": "the clock on the wall says ...",
+    "date": "2005-06-06T15:57:57.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-swamp-troubles",
+    "id": "250",
+    "title": "swamp troubles",
+    "date": "2005-06-06T13:09:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-tom-mcallister-writer",
+    "id": "252",
+    "title": "Tom McAllister, Writer.",
+    "date": "2005-06-06T06:51:30.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-red-eyes",
+    "id": "249",
+    "title": "red eyes",
+    "date": "2005-06-04T11:56:12.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-sharpening-service",
+    "id": "248",
+    "title": "Sharpening Service",
+    "date": "2005-06-02T23:24:46.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-childs-laughter",
+    "id": "245",
+    "title": "Child's laughter",
+    "date": "2005-06-02T20:05:08.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-jetsons-had-it-wrong",
+    "id": "247",
+    "title": "Jetson's had it wrong",
+    "date": "2005-06-02T08:04:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-giant-goldfish",
+    "id": "246",
+    "title": "Giant Goldfish",
+    "date": "2005-06-02T07:52:28.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-san-diego",
+    "id": "244",
+    "title": "San Diego",
+    "date": "2005-06-01T09:21:39.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-06-geek-jug-band",
+    "id": "243",
+    "title": "Geek Jug band",
+    "date": "2005-06-01T08:10:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-juggled",
+    "id": "242",
+    "title": "Juggled",
+    "date": "2005-05-31T09:43:16.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-i-heard-that",
+    "id": "241",
+    "title": "I heard that ...",
+    "date": "2005-05-27T07:54:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-location-location-location",
+    "id": "240",
+    "title": "Location, Location, Location",
+    "date": "2005-05-24T11:18:18.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-letting-it-flow",
+    "id": "239",
+    "title": "Letting it flow",
+    "date": "2005-05-24T10:34:42.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-gladly-pay-you-tuesday",
+    "id": "238",
+    "title": "Gladly pay you Tuesday ...",
+    "date": "2005-05-20T07:29:20.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-trenton-industry",
+    "id": "237",
+    "title": "Trenton Industry?",
+    "date": "2005-05-18T10:34:10.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-still-first",
+    "id": "236",
+    "title": "Still First",
+    "date": "2005-05-18T08:02:47.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2005-05-society-preferes-shallow-over-deep",
+    "id": "235",
+    "title": "society preferes shallow over deep",
+    "date": "2005-05-17T14:26:54.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-productivity-soars",
+    "id": "234",
+    "title": "Productivity Soars",
+    "date": "2005-05-16T11:21:01.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-obvious-files",
+    "id": "233",
+    "title": "obvious files",
+    "date": "2005-05-12T08:36:00.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-diet-coke-with-splenda",
+    "id": "232",
+    "title": "Diet Coke with Splenda",
+    "date": "2005-05-11T00:14:57.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-ipodless-productivity",
+    "id": "231",
+    "title": "ipodless productivity",
+    "date": "2005-05-10T06:46:47.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-real-id",
+    "id": "230",
+    "title": "REAL ID",
+    "date": "2005-05-09T10:33:33.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-jeremiah-was-a-bullfrog",
+    "id": "229",
+    "title": "Jeremiah was a bullfrog",
+    "date": "2005-05-09T09:05:02.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-summers-off",
+    "id": "228",
+    "title": "summer's off",
+    "date": "2005-05-05T21:07:09.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-time-zone",
+    "id": "227",
+    "title": "Time Zone",
+    "date": "2005-05-04T08:16:51.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-java-blogging-client",
+    "id": "226",
+    "title": "java blogging client",
+    "date": "2005-05-04T05:30:54.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-braindead-rewards",
+    "id": "224",
+    "title": "Braindead rewards",
+    "date": "2005-05-03T15:40:34.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-win-vs-lin",
+    "id": "225",
+    "title": "win vs lin",
+    "date": "2005-05-03T08:34:21.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-snack-walking",
+    "id": "221",
+    "title": "snack walking",
+    "date": "2005-05-02T11:53:46.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-stays-crunchy",
+    "id": "222",
+    "title": "Stays Crunchy",
+    "date": "2005-05-02T09:28:32.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-05-tedium",
+    "id": "223",
+    "title": "tedium",
+    "date": "2005-05-02T07:09:56.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-05-design",
+    "id": "220",
+    "title": "design",
+    "date": "2005-05-01T11:17:27.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-04-maiden-voyage",
+    "id": "219",
+    "title": "maiden voyage",
+    "date": "2005-04-30T15:55:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-04-webapp-popups",
+    "id": "217",
+    "title": "webapp popups",
+    "date": "2005-04-29T15:39:04.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-windows-antispyware-beta",
+    "id": "218",
+    "title": "Windows AntiSpyware (Beta)",
+    "date": "2005-04-29T09:05:01.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-life-rule-1-concise-responses",
+    "id": "216",
+    "title": "Life Rule #1: concise responses",
+    "date": "2005-04-29T08:19:54.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-jumperoo-in-horsham",
+    "id": "215",
+    "title": "Jumperoo in Horsham",
+    "date": "2005-04-26T15:26:24.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-fix",
+    "id": "213",
+    "title": "fix",
+    "date": "2005-04-26T15:19:51.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-gooseboxing",
+    "id": "214",
+    "title": "gooseboxing",
+    "date": "2005-04-26T00:07:45.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-oh-where-oh-where",
+    "id": "212",
+    "title": "oh where, oh where ...",
+    "date": "2005-04-25T09:35:22.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-karma",
+    "id": "211",
+    "title": "karma",
+    "date": "2005-04-25T08:03:05.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-rain",
+    "id": "210",
+    "title": "rain",
+    "date": "2005-04-22T11:46:07.000Z",
+    "tags": [
+      "Notebooks",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-04-from-support-request",
+    "id": "209",
+    "title": "From Support Request",
+    "date": "2005-04-22T08:40:31.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-dumb-idea",
+    "id": "208",
+    "title": "Dumb Idea",
+    "date": "2005-04-22T07:04:08.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-notebooks-complexity-bites",
+    "id": "205",
+    "title": "notebooks complexity bites",
+    "date": "2005-04-21T13:51:37.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-java-5-stuff",
+    "id": "203",
+    "title": "Java 5 stuff",
+    "date": "2005-04-21T13:40:35.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-forecastfox",
+    "id": "201",
+    "title": "ForecastFox",
+    "date": "2005-04-21T10:43:27.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-mathy",
+    "id": "204",
+    "title": "Mathy",
+    "date": "2005-04-21T09:32:48.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-the-presidents-challenge",
+    "id": "206",
+    "title": "The President's Challenge",
+    "date": "2005-04-21T08:41:29.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-wanted",
+    "id": "207",
+    "title": "Wanted",
+    "date": "2005-04-21T07:05:39.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-greaaaat",
+    "id": "202",
+    "title": "Greaaaat!",
+    "date": "2005-04-21T05:54:48.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-always-debug-the-debugger-first",
+    "id": "198",
+    "title": "always debug the debugger first",
+    "date": "2005-04-20T07:14:28.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-office-building-hvac",
+    "id": "199",
+    "title": "office building hvac",
+    "date": "2005-04-20T00:48:04.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-the-president%e2%80%99s-challenge",
+    "id": "200",
+    "title": "The President’s Challenge",
+    "date": "2005-04-20T00:36:59.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-marketing-failures-world-class",
+    "id": "196",
+    "title": "marketing failures: world class",
+    "date": "2005-04-19T13:47:39.000Z",
+    "tags": [
+      "Notebooks"
+    ]
+  },
+  {
+    "slug": "2005-04-notebooks-of-mclazarus",
+    "id": "197",
+    "title": "Notebooks of McLazarus",
+    "date": "2005-04-19T13:40:49.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-04-marriott-saves-me-from-a-trip-to-guantanamo-bay",
+    "id": "195",
+    "title": "Marriott saves me from a trip to Guantanamo bay",
+    "date": "2005-04-10T21:02:13.000Z",
+    "tags": [
+      "Personal",
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2005-04-the-importance-of-icebergs",
+    "id": "194",
+    "title": "The importance of icebergs",
+    "date": "2005-04-08T08:01:46.000Z",
+    "tags": [
+      "Hacker",
+      "Work"
+    ]
+  },
+  {
+    "slug": "2005-04-podcasting-fools-and-canadian",
+    "id": "193",
+    "title": "Podcasting, Fools and Canadian?",
+    "date": "2005-04-01T09:05:35.000Z",
+    "tags": [
+      "Hacker",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-03-congratulations-chris",
+    "id": "191",
+    "title": "Congratulations Chris",
+    "date": "2005-03-31T14:15:56.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2005-03-netbooks",
+    "id": "192",
+    "title": "NetBooks?",
+    "date": "2005-03-31T13:28:21.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-03-aol-news-blog-of-the-week",
+    "id": "190",
+    "title": "AOL News: Blog of the Week",
+    "date": "2005-03-31T00:39:51.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-03-bloglines-package-tracking",
+    "id": "189",
+    "title": "Bloglines Package Tracking",
+    "date": "2005-03-30T16:34:36.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-03-audio-books-moles",
+    "id": "188",
+    "title": "Audio books & Moles",
+    "date": "2005-03-30T13:42:01.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-03-out-for-delivery",
+    "id": "187",
+    "title": "OUT FOR DELIVERY",
+    "date": "2005-03-18T08:14:44.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-03-ordered-an-ipod",
+    "id": "186",
+    "title": "ordered an iPod",
+    "date": "2005-03-17T15:45:51.000Z",
+    "tags": [
+      "General",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-03-prodigy",
+    "id": "185",
+    "title": "Prodigy",
+    "date": "2005-03-09T09:07:19.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-03-happy-birthday-to-me",
+    "id": "184",
+    "title": "Happy Birthday to Me",
+    "date": "2005-03-07T10:23:05.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-03-parenthood-health-and-time-management",
+    "id": "183",
+    "title": "Parenthood, Health and Time Management",
+    "date": "2005-03-04T09:06:42.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2005-02-no-more-homing-pigeons",
+    "id": "182",
+    "title": "No More Homing Pigeons",
+    "date": "2005-03-01T00:16:46.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-02-like-a-lion",
+    "id": "181",
+    "title": "Like a lion",
+    "date": "2005-02-28T19:33:48.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-02-make-the-magazine",
+    "id": "179",
+    "title": "Make: the magazine",
+    "date": "2005-02-27T14:28:47.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2005-02-the-mcallister-nation",
+    "id": "180",
+    "title": "The McAllister Nation",
+    "date": "2005-02-27T13:26:17.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2005-02-cavtel-monkeys",
+    "id": "177",
+    "title": "CavTel outsources customer service to monkeys",
+    "date": "2005-02-25T19:41:05.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-02-dont-mess-with-phl",
+    "id": "178",
+    "title": "Don't Mess with PHL",
+    "date": "2005-02-25T14:33:32.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-02-happy-valentines-day",
+    "id": "176",
+    "title": "Happy Valentine's Day",
+    "date": "2005-02-14T08:59:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-02-resume-mountain-reduction",
+    "id": "175",
+    "title": "Résumé Mountain Reduction",
+    "date": "2005-02-04T13:18:50.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2005-01-superbowl",
+    "id": "174",
+    "title": "Superbowl",
+    "date": "2005-01-24T08:33:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-12-her-macculate-origin",
+    "id": "173",
+    "title": "Her Maculate Origin",
+    "date": "2004-12-04T16:05:11.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-12-tradition",
+    "id": "172",
+    "title": "Tradition",
+    "date": "2004-12-02T22:28:02.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-transformed-into-a-horrible-vermin",
+    "id": "170",
+    "title": "Transformed into a horrible vermin",
+    "date": "2004-11-30T11:53:38.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-we-the-media-finished",
+    "id": "171",
+    "title": "We The Media: Finished",
+    "date": "2004-11-30T10:12:40.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-wiki-textbooks",
+    "id": "169",
+    "title": "Wiki Textbooks",
+    "date": "2004-11-29T22:38:25.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-away-message-culture",
+    "id": "168",
+    "title": "Away Message Culture",
+    "date": "2004-11-28T11:28:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-black-belt",
+    "id": "167",
+    "title": "Black Belt",
+    "date": "2004-11-22T11:45:48.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-strongbad-dvd",
+    "id": "166",
+    "title": "StrongBad DVD",
+    "date": "2004-11-09T09:20:16.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-sinking-in",
+    "id": "165",
+    "title": "Sinking In",
+    "date": "2004-11-09T08:53:15.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-11-currently-reading",
+    "id": "163",
+    "title": "Currently Reading",
+    "date": "2004-11-08T08:31:39.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-11-six-times",
+    "id": "164",
+    "title": "Six Times",
+    "date": "2004-11-08T08:21:57.000Z",
+    "tags": [
+      "Hacker",
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-11-palm-reading",
+    "id": "162",
+    "title": "Palm Reading",
+    "date": "2004-11-06T15:23:34.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-politics-and-reality",
+    "id": "161",
+    "title": "Politics and reality",
+    "date": "2004-11-05T10:21:28.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-11-the-poor-voter-on-election-day",
+    "id": "160",
+    "title": "The Poor Voter on Election Day",
+    "date": "2004-11-02T11:16:49.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-11-early-and-often",
+    "id": "159",
+    "title": "Early and Often",
+    "date": "2004-11-01T21:48:16.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-10-where-to-vote",
+    "id": "158",
+    "title": "Where to Vote",
+    "date": "2004-10-29T08:35:20.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-10-office-importance",
+    "id": "157",
+    "title": "Office Importance",
+    "date": "2004-10-26T06:17:56.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-10-happy-birthday-aunt-judy",
+    "id": "156",
+    "title": "Happy Birthday Aunt Judy",
+    "date": "2004-10-22T10:05:01.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-10-congratulations-al-and-reagan",
+    "id": "155",
+    "title": "Congratulations Al and Reagan",
+    "date": "2004-10-21T10:12:14.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-10-netscape-devedge-dead",
+    "id": "154",
+    "title": "netscape devedge dead?",
+    "date": "2004-10-20T14:19:19.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-10-live-journal",
+    "id": "153",
+    "title": "Live Journal",
+    "date": "2004-10-20T00:45:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-10-rhetoric-101",
+    "id": "152",
+    "title": "Rhetoric 101",
+    "date": "2004-10-18T00:59:31.000Z",
+    "tags": [
+      "Personal",
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-10-take-that-giff",
+    "id": "151",
+    "title": "Take that Giff",
+    "date": "2004-10-15T08:56:38.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-10-delicious-links",
+    "id": "150",
+    "title": "delicious links",
+    "date": "2004-10-15T08:40:47.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-10-i-open-source-developer",
+    "id": "149",
+    "title": "I, Open Source Developer",
+    "date": "2004-10-14T09:27:08.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2004-10-no-fact-left-behind",
+    "id": "148",
+    "title": "No Fact left behind",
+    "date": "2004-10-11T08:38:46.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-10-npr-rss-and-depression",
+    "id": "147",
+    "title": "NPR RSS Feeds & the Tao of Depression",
+    "date": "2004-10-07T09:32:29.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2004-10-terror-threats",
+    "id": "146",
+    "title": "Terror Threats",
+    "date": "2004-10-06T13:00:34.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-10-crypt-o-blog",
+    "id": "144",
+    "title": "Crypt-O-Blog",
+    "date": "2004-10-06T08:33:25.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-10-if-re-elected",
+    "id": "145",
+    "title": "If re-elected",
+    "date": "2004-10-06T08:28:33.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-09-voting-registration-deadline",
+    "id": "143",
+    "title": "Voting Registration Deadline",
+    "date": "2004-09-28T13:07:43.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-09-two-and-oh",
+    "id": "142",
+    "title": "Two and Oh!",
+    "date": "2004-09-21T10:57:48.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-09-invites",
+    "id": "141",
+    "title": "Invites.",
+    "date": "2004-09-20T10:04:07.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-09-register-to-vote-win-cash",
+    "id": "140",
+    "title": "Register to vote, win cash!",
+    "date": "2004-09-15T07:21:44.000Z",
+    "tags": [
+      "Personal",
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-08-conventions-and-real-information",
+    "id": "139",
+    "title": "Conventions and Real Information",
+    "date": "2004-08-31T22:40:26.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-08-new-site-new-software",
+    "id": "138",
+    "title": "New Site, new software",
+    "date": "2004-08-29T20:50:21.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-08-rss-feeds-for-cheapskates",
+    "id": "137",
+    "title": "RSS feeds for cheapskates",
+    "date": "2004-08-11T08:26:10.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-08-firefox-bookmark-management",
+    "id": "136",
+    "title": "Firefox Bookmark Management",
+    "date": "2004-08-10T08:51:26.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-08-lookout-iowa",
+    "id": "134",
+    "title": "Lookout Iowa",
+    "date": "2004-08-09T07:08:08.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-08-truancy",
+    "id": "135",
+    "title": "Truancy?",
+    "date": "2004-08-09T00:32:40.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2004-08-dichotomy",
+    "id": "133",
+    "title": "Dichotomy",
+    "date": "2004-08-05T08:14:34.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-07-greatness",
+    "id": "132",
+    "title": "Greatness",
+    "date": "2004-07-29T13:05:03.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2004-07-happy-one",
+    "id": "131",
+    "title": "Happy One",
+    "date": "2004-07-12T17:22:18.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-07-blue-tongued-blur",
+    "id": "130",
+    "title": "Blue-Tongued Blur",
+    "date": "2004-07-10T00:07:03.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-06-federal-regulation",
+    "id": "129",
+    "title": "Federal Regulation",
+    "date": "2004-06-30T13:58:02.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-06-ip-portability-act",
+    "id": "128",
+    "title": "IP Portability Act ?",
+    "date": "2004-06-29T11:29:00.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-06-doubleclick-opt-out",
+    "id": "127",
+    "title": "DoubleClick Opt Out",
+    "date": "2004-06-29T11:05:47.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-06-philadelphia-fans",
+    "id": "126",
+    "title": "Philadelphia Fans",
+    "date": "2004-06-26T14:17:30.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-06-maturity",
+    "id": "125",
+    "title": "Maturity",
+    "date": "2004-06-25T08:25:10.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2004-06-first-degree-brown",
+    "id": "124",
+    "title": "First Degree Brown",
+    "date": "2004-06-23T08:40:08.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2004-06-jennings",
+    "id": "123",
+    "title": "Jennings!",
+    "date": "2004-06-17T15:46:45.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-06-firefox-ssl-bug-workaround",
+    "id": "122",
+    "title": "Firefox SSL bug workaround",
+    "date": "2004-06-17T13:39:26.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-06-firefox-09-ssl-bug",
+    "id": "121",
+    "title": "Firefox 0.9 SSL bug",
+    "date": "2004-06-17T13:09:19.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-06-pre-solstice-concerns",
+    "id": "120",
+    "title": "pre solstice concerns",
+    "date": "2004-06-10T07:13:51.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2004-06-more-bike-race-pictures",
+    "id": "119",
+    "title": "More Bike Race Pictures",
+    "date": "2004-06-07T19:32:36.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-06-bike-race-pictures",
+    "id": "118",
+    "title": "Bike Race Pictures",
+    "date": "2004-06-07T11:59:05.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-06-seen-in-fortune6",
+    "id": "116",
+    "title": "Seen in fortune(6)",
+    "date": "2004-06-04T09:41:52.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2004-06-thanks-michelle",
+    "id": "117",
+    "title": "Thanks, Michelle",
+    "date": "2004-06-04T08:15:14.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-06-litany-of-fear",
+    "id": "115",
+    "title": "Litany of Fear",
+    "date": "2004-06-03T15:29:38.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2004-06-soffit-vents",
+    "id": "114",
+    "title": "Soffit Vents",
+    "date": "2004-06-01T13:33:35.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2004-05-working-camera",
+    "id": "113",
+    "title": "Working Camera",
+    "date": "2004-05-28T17:56:12.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-05-battery-corrosion",
+    "id": "111",
+    "title": "Battery Corrosion",
+    "date": "2004-05-28T09:57:19.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-05-bike-race-aught-four",
+    "id": "112",
+    "title": "Bike Race Aught-Four",
+    "date": "2004-05-28T09:03:11.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-05-graduation-cogratulations",
+    "id": "110",
+    "title": "Graduation Cogratulations",
+    "date": "2004-05-10T11:58:24.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-05-getting-religious",
+    "id": "109",
+    "title": "Getting Religious",
+    "date": "2004-05-07T07:43:26.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2004-05-philly-sports",
+    "id": "108",
+    "title": "Philly Sports",
+    "date": "2004-05-05T14:05:44.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-05-a-long-walk",
+    "id": "106",
+    "title": "A long walk",
+    "date": "2004-05-04T13:53:55.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-05-zygote",
+    "id": "107",
+    "title": "Zygote",
+    "date": "2004-05-04T00:48:26.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-04-threat-advisory-questions",
+    "id": "105",
+    "title": "Threat Advisory Questions",
+    "date": "2004-04-12T00:35:53.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2004-04-individual-productivity-considered-harmful",
+    "id": "104",
+    "title": "Individual Productivity Considered Harmful",
+    "date": "2004-04-08T08:26:30.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-03-desk-saga",
+    "id": "102",
+    "title": "Desk Saga",
+    "date": "2004-03-29T11:25:20.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-03-tournament-results",
+    "id": "103",
+    "title": "Tournament Results",
+    "date": "2004-03-29T09:29:37.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2004-03-karate-tournament",
+    "id": "101",
+    "title": "Karate Tournament",
+    "date": "2004-03-26T14:57:50.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2004-03-economy-boost",
+    "id": "100",
+    "title": "Economy Boost",
+    "date": "2004-03-25T16:22:43.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2004-03-computer-desk",
+    "id": "99",
+    "title": "Computer Desk",
+    "date": "2004-03-25T13:49:56.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-03-iraqi-freedom",
+    "id": "98",
+    "title": "Iraqi Freedom?",
+    "date": "2004-03-23T08:08:53.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2004-02-new-and-improved",
+    "id": "97",
+    "title": "New and Improved",
+    "date": "2004-02-09T07:15:40.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-02-eagles",
+    "id": "96",
+    "title": "Eagles",
+    "date": "2004-02-02T09:15:38.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2004-02-brown-belt",
+    "id": "95",
+    "title": "Brown Belt",
+    "date": "2004-02-02T00:40:49.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2004-01-put-the-belt-on",
+    "id": "94",
+    "title": "Put the Belt On!",
+    "date": "2004-01-12T11:01:23.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2004-01-mt-blacklist",
+    "id": "93",
+    "title": "MT-Blacklist",
+    "date": "2004-01-08T09:52:50.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2004-01-scumbag-weblog-spammers",
+    "id": "92",
+    "title": "Scumbag weblog spammers",
+    "date": "2004-01-05T08:22:27.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-12-holidays",
+    "id": "91",
+    "title": "Holidays",
+    "date": "2003-12-31T00:24:59.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-12-new-gym",
+    "id": "90",
+    "title": "New Gym",
+    "date": "2003-12-24T11:30:59.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-12-return-of-the-king",
+    "id": "89",
+    "title": "Return of the King",
+    "date": "2003-12-19T11:04:44.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-12-i-cite",
+    "id": "88",
+    "title": "I Cite",
+    "date": "2003-12-18T09:24:02.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-12-isnull",
+    "id": "87",
+    "title": "isNull",
+    "date": "2003-12-15T11:57:33.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-12-unit-testing-premise",
+    "id": "86",
+    "title": "Unit testing premise",
+    "date": "2003-12-10T08:54:28.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-12-my-wife-rules",
+    "id": "85",
+    "title": "My Wife Rules",
+    "date": "2003-12-02T11:01:37.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-12-thanksgiving-re-cap",
+    "id": "84",
+    "title": "Thanksgiving re-cap",
+    "date": "2003-12-01T10:49:19.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-11-moblog",
+    "id": "83",
+    "title": "Moblog",
+    "date": "2003-11-25T08:58:46.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-11-anthem",
+    "id": "81",
+    "title": "Anthem",
+    "date": "2003-11-20T08:10:54.000Z",
+    "tags": [
+      "Philosophy"
+    ]
+  },
+  {
+    "slug": "2003-11-weight-the-continuing-saga",
+    "id": "82",
+    "title": "Weight, the Continuing Saga ...",
+    "date": "2003-11-20T07:43:24.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-11-day-3-day-off",
+    "id": "80",
+    "title": "Day 3 = Day off??",
+    "date": "2003-11-19T11:45:16.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-11-day-two",
+    "id": "79",
+    "title": "Day two",
+    "date": "2003-11-18T11:43:23.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-11-fat-anniversary",
+    "id": "78",
+    "title": "Fat Anniversary",
+    "date": "2003-11-17T14:42:38.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-11-yarrow",
+    "id": "77",
+    "title": "Yarrow",
+    "date": "2003-11-12T07:43:18.000Z",
+    "tags": [
+      "General"
+    ]
+  },
+  {
+    "slug": "2003-11-worst-cvs-log-entries-ever",
+    "id": "76",
+    "title": "WORST CVS Log Entries Ever",
+    "date": "2003-11-06T15:13:56.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-10-stupidity-laziness-and-political-parties",
+    "id": "75",
+    "title": "Stupidity, Laziness and Political parties",
+    "date": "2003-10-10T08:45:25.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-10-how-doth-the-little-crocodile",
+    "id": "74",
+    "title": "How doth the little crocodile",
+    "date": "2003-10-07T09:58:46.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-09-catchup",
+    "id": "73",
+    "title": "Catchup",
+    "date": "2003-09-25T07:15:34.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-09-wood-is-expensive",
+    "id": "72",
+    "title": "Wood is expensive",
+    "date": "2003-09-23T15:14:09.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-08-college-textbook-swindle",
+    "id": "71",
+    "title": "College Textbook swindle",
+    "date": "2003-08-20T16:06:57.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-08-potentially-useful",
+    "id": "70",
+    "title": "Potentially Useful",
+    "date": "2003-08-15T08:17:11.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-08-eagles-in-hdtv",
+    "id": "69",
+    "title": "Eagles in HDTV",
+    "date": "2003-08-12T13:48:08.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-08-ticketmaster-woes",
+    "id": "68",
+    "title": "Ticketmaster woes",
+    "date": "2003-08-09T11:25:56.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-08-philadelphia-eagles",
+    "id": "67",
+    "title": "Philadelphia Eagles",
+    "date": "2003-08-08T11:08:17.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-08-futurama",
+    "id": "66",
+    "title": "Futurama",
+    "date": "2003-08-08T00:44:11.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-08-googlebombing-sco-and-other-counterattacks",
+    "id": "65",
+    "title": "Googlebombing SCO and other counterattacks",
+    "date": "2003-08-07T11:03:19.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-08-buyer-agent",
+    "id": "64",
+    "title": "Buyer Agent",
+    "date": "2003-08-05T11:30:33.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2003-08-happy-birthday-michelle",
+    "id": "63",
+    "title": "Happy Birthday Michelle",
+    "date": "2003-08-02T06:49:58.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-07-medical-privacy-and-the-press",
+    "id": "62",
+    "title": "Medical Privacy and the Press",
+    "date": "2003-07-30T13:07:36.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-07-buying-a-house",
+    "id": "61",
+    "title": "Buying a House",
+    "date": "2003-07-25T18:49:26.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2003-07-married-life",
+    "id": "60",
+    "title": "Married Life",
+    "date": "2003-07-23T13:44:41.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-07-marriage",
+    "id": "59",
+    "title": "Marriage",
+    "date": "2003-07-11T10:13:28.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-06-blue-belt",
+    "id": "58",
+    "title": "Blue Belt",
+    "date": "2003-06-23T18:17:54.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2003-06-the-incredible-hulk",
+    "id": "57",
+    "title": "The Incredible Hulk",
+    "date": "2003-06-21T14:18:23.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-06-redhat-9-mysql-4-and-dbdmysql",
+    "id": "56",
+    "title": "Redhat 9, MySQL 4 and DBD::mysql",
+    "date": "2003-06-20T08:23:11.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-06-highway-driving",
+    "id": "55",
+    "title": "Highway Driving",
+    "date": "2003-06-19T09:11:30.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-06-toof-extwacted",
+    "id": "53",
+    "title": "Toof Extwacted",
+    "date": "2003-06-17T17:56:32.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-06-tooth-issues",
+    "id": "54",
+    "title": "Tooth issues",
+    "date": "2003-06-17T10:57:09.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-06-wachovia-uspro-championship",
+    "id": "52",
+    "title": "Wachovia USPRO Championship",
+    "date": "2003-06-09T08:14:41.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-06-reclaim-the-public-domain",
+    "id": "51",
+    "title": "Reclaim the Public Domain",
+    "date": "2003-06-03T15:20:54.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-06-sco-vs-ibm-nonsense",
+    "id": "50",
+    "title": "SCO vs IBM nonsense",
+    "date": "2003-06-02T11:55:33.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-05-scrawlings-update",
+    "id": "49",
+    "title": "Scrawlings Update",
+    "date": "2003-05-30T18:49:44.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-05-tom-mcallisters-writings",
+    "id": "48",
+    "title": "Tom McAllister's Writings",
+    "date": "2003-05-29T18:26:25.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-05-freedom-and-justicefilesorg",
+    "id": "47",
+    "title": "Freedom and Justicefiles.org",
+    "date": "2003-05-28T09:53:42.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-05-matrix-poll",
+    "id": "46",
+    "title": "Matrix Poll",
+    "date": "2003-05-27T15:30:02.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-05-purple-belt",
+    "id": "45",
+    "title": "Purple Belt",
+    "date": "2003-05-18T11:20:19.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2003-05-marc-soda-speaks-on-the-matrix",
+    "id": "44",
+    "title": "Marc Soda speaks on The Matrix",
+    "date": "2003-05-16T00:12:14.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-05-foolish-message-boards",
+    "id": "43",
+    "title": "\"Foolish\" Message Boards",
+    "date": "2003-05-12T14:39:55.000Z",
+    "tags": [
+      "Finance"
+    ]
+  },
+  {
+    "slug": "2003-05-rest-in-peace",
+    "id": "42",
+    "title": "Rest In Peace",
+    "date": "2003-05-02T08:10:48.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-04-shizzolate-it",
+    "id": "41",
+    "title": "Shizzolate it",
+    "date": "2003-04-25T00:23:54.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-04-codeweavers-crossover-office",
+    "id": "39",
+    "title": "CodeWeavers CrossOver Office",
+    "date": "2003-04-22T14:28:52.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-04-monkey-business",
+    "id": "40",
+    "title": "Monkey Business",
+    "date": "2003-04-22T13:16:25.000Z",
+    "tags": [
+      "Personal",
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-04-new-smoke",
+    "id": "37",
+    "title": "New Smoke",
+    "date": "2003-04-14T11:45:51.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-04-true-toughness",
+    "id": "38",
+    "title": "True Toughness",
+    "date": "2003-04-14T11:37:24.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-04-letting-the-smoke-out",
+    "id": "36",
+    "title": "Letting the smoke out",
+    "date": "2003-04-02T08:38:55.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-04-reasons-behind-the-invasion",
+    "id": "35",
+    "title": "Reasons behind the invasion",
+    "date": "2003-04-01T08:26:34.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-03-more-weight-loss",
+    "id": "34",
+    "title": "More Weight Loss",
+    "date": "2003-04-01T04:58:52.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-03-pix-to-pix-vpn-via-a-lucent-pipeline-75",
+    "id": "33",
+    "title": "PIX-to-PIX VPN via a Lucent Pipeline 75",
+    "date": "2003-03-30T17:53:29.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-03-biff-from-back-to-the-future",
+    "id": "32",
+    "title": "Biff from Back to the Future",
+    "date": "2003-03-28T07:48:34.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-03-redhat-90",
+    "id": "31",
+    "title": "RedHat 9.0?",
+    "date": "2003-03-24T15:20:05.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-03-lorem-ipsum",
+    "id": "30",
+    "title": "Lorem Ipsum",
+    "date": "2003-03-21T09:24:02.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2003-03-commander-in-chief",
+    "id": "29",
+    "title": "Commander in Chief",
+    "date": "2003-03-20T07:04:17.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-03-analysis-iraq-and-911",
+    "id": "27",
+    "title": "Analysis: Iraq and 911",
+    "date": "2003-03-19T07:54:51.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-03-pinging-jeremy",
+    "id": "28",
+    "title": "Pinging Jeremy",
+    "date": "2003-03-19T05:07:12.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-03-struts",
+    "id": "26",
+    "title": "Struts",
+    "date": "2003-03-17T07:57:49.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-03-orange-belt",
+    "id": "25",
+    "title": "Orange Belt",
+    "date": "2003-03-15T14:47:04.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2003-03-dell-saga",
+    "id": "22",
+    "title": "Dell saga",
+    "date": "2003-03-11T10:57:48.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-03-focus-and-warp-offs",
+    "id": "23",
+    "title": "Focus and Warp offs",
+    "date": "2003-03-11T07:51:47.000Z",
+    "tags": [
+      "Work"
+    ]
+  },
+  {
+    "slug": "2003-03-mind-games",
+    "id": "24",
+    "title": "Mind Games",
+    "date": "2003-03-11T04:54:50.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-03-happy-birthday-niko",
+    "id": "21",
+    "title": "Happy Birthday Niko",
+    "date": "2003-03-09T19:58:01.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-03-happy-birthday-to",
+    "id": "20",
+    "title": "Happy Birthday to ...",
+    "date": "2003-03-07T10:20:03.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-03-focus",
+    "id": "19",
+    "title": "Focus",
+    "date": "2003-03-06T11:26:53.000Z",
+    "tags": [
+      "Personal",
+      "Work"
+    ]
+  },
+  {
+    "slug": "2003-03-dmca",
+    "id": "18",
+    "title": "DMCA",
+    "date": "2003-03-05T09:41:19.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-03-like-clockwork-now-orange",
+    "id": "16",
+    "title": "like clockwork, now orange",
+    "date": "2003-03-04T21:21:25.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2003-03-ps-two",
+    "id": "17",
+    "title": "PS TWO",
+    "date": "2003-03-04T21:10:38.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-02-dell-problems-continued",
+    "id": "14",
+    "title": "Dell Problems continued",
+    "date": "2003-02-28T14:20:05.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-02-readygov-humor",
+    "id": "15",
+    "title": "Ready.gov humor",
+    "date": "2003-02-28T07:57:12.000Z",
+    "tags": [
+      "Politics"
+    ]
+  },
+  {
+    "slug": "2003-02-dell-problems",
+    "id": "13",
+    "title": "Dell problems",
+    "date": "2003-02-28T07:22:37.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-02-joining-together",
+    "id": "12",
+    "title": "Joining Together",
+    "date": "2003-02-27T17:34:41.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-02-unskilled-and-unaware",
+    "id": "11",
+    "title": "Unskilled and Unaware",
+    "date": "2003-02-26T14:25:22.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-02-bright-and-early-or-murky-and-late",
+    "id": "10",
+    "title": "bright and early or murky and late",
+    "date": "2003-02-25T04:50:30.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-02-seeing-spots",
+    "id": "9",
+    "title": "Seeing spots",
+    "date": "2003-02-24T21:32:27.000Z",
+    "tags": [
+      "Health and Fitness"
+    ]
+  },
+  {
+    "slug": "2003-02-accessibility",
+    "id": "8",
+    "title": "Accessibility",
+    "date": "2003-02-24T06:40:48.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-02-lindows-is-bad",
+    "id": "7",
+    "title": "Lindows is bad",
+    "date": "2003-02-23T00:04:15.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-02-word-of-mouth",
+    "id": "6",
+    "title": "Word of mouth",
+    "date": "2003-02-22T16:39:15.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-02-new-spamassassin",
+    "id": "5",
+    "title": "New SpamAssassin",
+    "date": "2003-02-21T09:41:47.000Z",
+    "tags": [
+      "Hacker"
+    ]
+  },
+  {
+    "slug": "2003-02-the-rib-bone-is-connected-to",
+    "id": "4",
+    "title": "The rib bone is connected to ...",
+    "date": "2003-02-20T07:08:33.000Z",
+    "tags": [
+      "Martial Arts"
+    ]
+  },
+  {
+    "slug": "2003-02-a-dustpan-is-not-a-shovel",
+    "id": "2",
+    "title": "A dustpan is not a shovel",
+    "date": "2003-02-17T22:33:47.000Z",
+    "tags": [
+      "Personal"
+    ]
+  },
+  {
+    "slug": "2003-02-blogging",
+    "id": "3",
+    "title": "Blogging",
+    "date": "2003-02-17T21:15:57.000Z",
+    "tags": [
+      "Personal"
+    ]
+  }
+]
