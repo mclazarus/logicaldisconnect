@@ -31,7 +31,8 @@
                 "input": "public",
                 "output": "assets"
               },
-              "src/favicon.ico"
+              "src/favicon.ico",
+              "src/404.html"
             ],
             "styles": [
               "src/styles.scss"
@@ -96,7 +97,9 @@
                 "glob": "**/*",
                 "input": "public",
                 "output": "assets"
-              }
+              },
+              "src/favicon.ico",
+              "src/404.html"
             ],
             "styles": [
               "src/styles.scss"

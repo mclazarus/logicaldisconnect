@@ -6,4 +6,5 @@ export const routes: Routes = [
   { path: '', component: PostsListComponent, pathMatch: 'full' },
   { path: 'post/:slug', component: PostComponent },
   { path: 'posts', component: PostsListComponent },
+  { path: '**', redirectTo: '' },
 ];
