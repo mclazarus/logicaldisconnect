@@ -2,11 +2,28 @@ body.light {
   background-color: #ffffff;
   color: #000000;
 
+  .site-title {
+    text-decoration: none;
+    color: #000000;
+
+    &:hover {
+      color: #185abc;
+    }
+
+    &:visited {
+      color: #000000;
+    }
+  }
+
   a {
     color: #1a73e8;
   }
 
   a:hover {
     color: #185abc;
+  }
+
+  a:visited {
+    color: #13499e;
   }
 }

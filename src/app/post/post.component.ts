@@ -1,20 +1,34 @@
 import { Component, OnInit } from '@angular/core';
 import { DomSanitizer, SafeHtml } from '@angular/platform-browser';
-import { ActivatedRoute } from '@angular/router';
+import {ActivatedRoute, RouterLink} from '@angular/router';
 import { PostService } from '../post.service';
 import * as marked from 'marked';
 import frontMatter from 'front-matter';
 import { ChangeDetectorRef } from '@angular/core';
+import {DatePipe} from "@angular/common";
+
+interface PostMetadata {
+  id: string;
+  slug: string;
+  title: string;
+  date: Date;
+  tags: string[];
+}
 
 @Component({
   selector: 'app-post',
   standalone: true,
-  imports: [],
+  imports: [
+    DatePipe,
+    RouterLink
+  ],
   templateUrl: './post.component.html',
   styleUrl: './post.component.scss',
 })
 export class PostComponent implements OnInit {
   markdownContent: SafeHtml | undefined;
+  post: PostMetadata | undefined;
+
   constructor(
     private route: ActivatedRoute,
     private postService: PostService,
@@ -33,18 +47,18 @@ export class PostComponent implements OnInit {
 
   loadPost(slug: string) {
     this.postService.getMarkdownFile(slug).subscribe((data) => {
-      const body = this.preProcess(data);
+      const { body, attributes } = this.preProcess(data);
       const rawMarkdown = marked.parse(body);
+      this.post = attributes as unknown as PostMetadata;
       if (typeof rawMarkdown === 'string') {
-        this.markdownContent =
-          this.sanitizer.bypassSecurityTrustHtml(rawMarkdown);
+        this.markdownContent = rawMarkdown;
         this.cdr.detectChanges();  // Manually trigger change detection
       }
     });
   }
   // TODO do stuff with the front-matter header
   preProcess(markdown: string) {
-    const { body } = frontMatter(markdown);
-    return body;
+    const { attributes, body } = frontMatter(markdown);
+    return { attributes, body };
   }
 }
