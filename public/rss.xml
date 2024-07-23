@@ -4,11 +4,25 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jul 2024 03:00:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 15:24:12 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jul 2024 03:00:29 GMT</pubDate>
+        <pubDate>Tue, 23 Jul 2024 15:24:12 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Back in Blog]]></title>
+            <description><![CDATA[<p>I know posting about blogs in your blog is boring and annoying. But I must say I&#39;m excited to have this system working and to be building myself a little ecosystem of tools that I can use to post to it.  Since I&#39;m relying on <a href="https://pages.github.com">GitHub Pages</a> for the hosting of this and GitHub actions to process and build it I&#39;m now adding an Action to Drafts to let me post stuff very easily.</p>
+<p>My real goal here is to try and get some of the connection value I used to get out of Blogs and Twitter way back in the day. I know a ton of people continued writing their blogs and I&#39;m hoping to re-enter that space with my boring takes.</p>
+<p>I know this is a big mess, and probably there was no reason to use Angular other than I wanted to learn it.  And I know there are broken links and posts everywhere and Blogs are dead, etc, etc.  But I don&#39;t care about any of that. I&#39;m enjoying coding a side project. I know I&#39;ll learn from it and I&#39;m enjoying at least the prospect of some connection.</p>
+<p>So I moved this off of SquareSpace. They were fine, but I wasn&#39;t motivated to use it. Instead now that I have ownership of so much of the data and machinery in my Rube GoldBlog that I&#39;m excited about it.  If you have an interest in telling me I spelled something wrong, or the way I&#39;m using typescript is terrible. (See the code here: <a href="https://github.com/mclazarus/logicaldisconnect">mclazarus/logicaldisconnect</a>) or any of the other things you&#39;re dying to correct me on, simply tell me on <a href="https://www.theverge.com/24063290/fediverse-explained-activitypub-social-media-open-protocol">The FediVerse</a>.  I hope to eventually support comments in this angular app, maybe they&#39;ll post to Fedi or something.  You can find me here: <a href="https://jawns.club/@mclazarus">@mclazarus@jawns.club</a>.</p>
+<p>This post is what I call a two-fer. I post something and I also find out of the Drafts Action I wrote to post it works.  If so I&#39;ll be able to quick post from Drafts from my phone and that will be super fun.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2024-07-back-in-blog</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-07-back-in-blog</guid>
+            <category><![CDATA[FromDrafts]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 23 Jul 2024 14:36:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[HALT LOAD]]></title>
             <description><![CDATA[<h1>HALT LOAD</h1>
@@ -20,8 +34,8 @@
 <p>Since I decided to take on this project of resurrecting my blog and taking back control from SquareSpace I wanted the first post before I even put code in the system to be a tribute to this.</p>
 <p>So may your LOADS always HALT, or something. I actually am not very clear at all on the boot lifecycle of an A-Series mainframe and wasn&#39;t really at the time. But let&#39;s keep HALT LOAD alive regardless. I think some of the fun of obscure references is explaining it to others and bringing them into your circle.</p>
 ]]></description>
-            <link>https://logicaldisconnect.org/post/halt-load</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/halt-load</guid>
+            <link>https://logicaldisconnect.org/post/2024-07-halt-load</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-07-halt-load</guid>
             <category><![CDATA[Unisys]]></category>
             <category><![CDATA[Jargon]]></category>
             <category><![CDATA[Celebration]]></category>
@@ -956,24 +970,6 @@ The second I don't like to think about, but I do anyway.  It was me in 20 years
             <category><![CDATA[Personal]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
             <pubDate>Tue, 12 Apr 2011 10:39:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tomatoes for strength]]></title>
-            <description><![CDATA[<div class="sqs-html-content">
-  <p>Another change I've made recently to help with my overall health is to try using a scheduling infrastructure for my day. For about three weeks now I've been using the <a href="http://www.pomodorotechnique.com/">Pomodoro Technique</a> to plan and track my activity throughout the day.  It's improving my productivity and also helping me lose weight.
-This relates to my physical health in two ways, first if I spend my days full of anxiety about all the things I'm not doing I can never get physically well.  Second it makes me do push-ups.</p>
-<p>That probably needs an explanation.  Pomodoro is a time-boxing technique that guides you to do 25 minutes of highly focused activity followed by a short 5 minute break.  In the <a href="http://www.pomodorotechnique.com/resources/ThePomodoroTechnique_v1-3.pdf">PDF</a> the author suggests it should be a real break from any thinking about work.  I found the transition from a hard thinking task to a state of mental relaxation to be very difficult to pull off, my mind–already warmed up to the topic–would wander back to the problem I was working on.  So I decided to do a set of push-ups to help me relax.</p>
-<p>So far I've gotten better at pushups, squats, and sit-ups.  Oh, and I'm enjoying my productivity based primarily on the structure to my day.  It helps me concretize the idea that I can only do so many things in a day and helps me at the hard task of prioritizing my time.  It also helps me measure how long I take at certain tasks.  Since I chronically underestimate I welcome the opportunity to improve my judgement.</p>
-</div>
-]]></description>
-            <link>https://logicaldisconnect.org/post/2011-03-tomatoes-for-strength</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2011-03-tomatoes-for-strength</guid>
-            <category><![CDATA[health]]></category>
-            <category><![CDATA[productivity]]></category>
-            <category><![CDATA[Health and Fitness]]></category>
-            <category><![CDATA[Personal]]></category>
-            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Wed, 30 Mar 2011 16:20:35 GMT</pubDate>
         </item>
     </channel>
 </rss>

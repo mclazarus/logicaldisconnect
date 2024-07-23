@@ -1,5 +1,7 @@
-<h1>
-  <a [routerLink]="['/post', post?.slug]">{{post?.title}}</a></h1>
-<p><em>{{post?.date | date:'mediumDate'}}</em>
-</p>
-<div [innerHtml]="markdownContent"></div>
+<div class="post-container">
+  <h1>
+    <a [routerLink]="['/post', post?.slug]">{{post?.title}}</a></h1>
+  <p><em>{{post?.date | date:'mediumDate'}}</em>
+  </p>
+  <div [innerHtml]="markdownContent"></div>
+</div>
