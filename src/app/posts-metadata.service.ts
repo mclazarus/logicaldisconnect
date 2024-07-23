@@ -15,6 +15,6 @@ export interface PostMetadata {
 export class PostsMetadataService {
   constructor(private http: HttpClient) {}
   getPostsMetadata(): Observable<PostMetadata[]> {
-    return this.http.get<PostMetadata[]>('./assets/posts-metadata.json');
+    return this.http.get<PostMetadata[]>('/assets/posts-metadata.json');
   }
 }
