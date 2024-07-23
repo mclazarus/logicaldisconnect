@@ -6,7 +6,7 @@ tags:
   - Unisys
   - Jargon
   - Celebration
-slug: halt-load
+slug: 2024-07-halt-load
 ---
 # HALT LOAD
 
