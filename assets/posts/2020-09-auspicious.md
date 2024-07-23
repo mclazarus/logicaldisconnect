@@ -8,7 +8,7 @@ date: 2020-09-30T16:16:13.000Z
 
 
 ---
-<img alt="electronic evaluation board attached to plexiglass labeled MOBILE UNIT" src="/assets/images/mobile_unit.jpeg" />
+<img style="float: right; margin: 20px 20px 20px 20px;" width="400px" alt="electronic evaluation board attached to plexiglass labeled MOBILE UNIT" src="/assets/images/mobile_unit.jpeg" />
 <p>A friend of mine teaches middle school and wanted some help.  He was looking for volunteers to be interviewed by students in his 8th grade class.  His goal was to teach communication skill and to give the students an opportunity to learn about possible careers.  The method was we would exchange letters, the student would then craft questions for the interview.</p>
 <p>The letter shared by my paired student was a perfect jolt of spiritual fuel at just the time I could use it.</p>
 <p>Over the past year or so I've been feeling bombarded by negativity from many online places I used to enjoy spending some time and attention.  I'd even started to consider—like many others—that social media and the internet at large are terrible.</p>
