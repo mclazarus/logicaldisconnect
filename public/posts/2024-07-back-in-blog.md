@@ -1,7 +1,7 @@
 ---
-slug: 2024-07-back-in-blog.md
-title: Back in Blog
-date: 2024-07-23T14:27:34.014Z
+slug: "2024-07-back-in-blog"
+title: "Back in Blog"
+date: 2024-07-23T14:36:46.148Z
 tags:
   - FromDrafts
 ---
