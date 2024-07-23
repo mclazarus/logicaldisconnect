@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Logical Disconnect]]></title>
+        <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
+        <link>https://logicaldisconnect.org</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 23 Jul 2024 02:43:36 GMT</lastBuildDate>
+        <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 23 Jul 2024 02:43:36 GMT</pubDate>
+        <language><![CDATA[en]]></language>
+        <ttl>60</ttl>
+        <item>
+            <title><![CDATA[HALT LOAD]]></title>
+            <description><![CDATA[<h1>HALT LOAD</h1>
+<p>Getting this to render as the first blog post in the new Logical Disconnect system is a celebration and a fun way to show that I&#39;m making progress.</p>
+<h2>Backstory</h2>
+<p>I worked at Unisys as a Drexel Co-op in 1996. I learned a ton about working in businesses and about how computers worked. My team was building an IO manager for an A-Series Mainframe. The chip on the so-called CIOM was designed by Unisys therefore had it&#39;s own opcodes based on a 108 bit word. So I would write microcode in a macro language. The specification of what the chip should do was written in C code called the flows. My job was to run tests written in ADA against a Windows emulator of the chip which would load up the latest version of the code and execute the tests.  When a test failed I had to either fix the test or fix the microcode.</p>
+<p>While I was there the CIOM project achieved HALT LOAD which was a milestone in the boot lifecycle of the A-Series. It basically was an objective measure that we were no longer failing to almost boot. When this milestone was reached there was a celebration. There was a banner on the wall in the cafeteria congratulating the team for reaching HALT LOAD and they gave us ice-cream. The person shared a cube with named Steve had a cynical take on this and said, &quot;Here is where they give us milk and cookies.&quot;</p>
+<p>I always like making obscure references and then trying to get them to catch on in groups I&#39;m in. Ideally they are meaningful in some way and the cynical take mixed with the actual objective measure is one of my favorite parts of this. I like to use HALT LOAD as a cry of celebration when I wish the work I was doing would go faster. So in some ways I&#39;m embracing the cynicism that could be present, but also I always use it in a time of celebration when I actually see a thing I&#39;m doing work.</p>
+<p>Since I decided to take on this project of resurrecting my blog and taking back control from SquareSpace I wanted the first post before I even put code in the system to be a tribute to this.</p>
+<p>So may your LOADS always HALT, or something. I actually am not very clear at all on the boot lifecycle of an A-Series mainframe and wasn&#39;t really at the time. But let&#39;s keep HALT LOAD alive regardless. I think some of the fun of obscure references is explaining it to others and bringing them into your circle.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/halt-load</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/halt-load</guid>
+            <category><![CDATA[Unisys]]></category>
+            <category><![CDATA[Jargon]]></category>
+            <category><![CDATA[Celebration]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sun, 07 Jul 2024 17:16:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Auspicious]]></title>
+            <description><![CDATA[<img alt="electronic evaluation board attached to plexiglass labeled MOBILE UNIT" src="/assets/images/mobile_unit.jpeg" />
+<p>A friend of mine teaches middle school and wanted some help.  He was looking for volunteers to be interviewed by students in his 8th grade class.  His goal was to teach communication skill and to give the students an opportunity to learn about possible careers.  The method was we would exchange letters, the student would then craft questions for the interview.</p>
+<p>The letter shared by my paired student was a perfect jolt of spiritual fuel at just the time I could use it.</p>
+<p>Over the past year or so I've been feeling bombarded by negativity from many online places I used to enjoy spending some time and attention.  I'd even started to consider—like many others—that social media and the internet at large are terrible.</p>
+<p>The thing is I've spent a good portion of my life working on, learning, and enjoying the ways we can connect using the internet. So I was reluctant to give it up or consider it bad but the evidence was srtong.  Or so I thought.</p>
+<p>The teacher knowing I'm an engineer paired me with a student who is very interested in electronics and video games. In his introductory letter he shared with me three youtube videos of him doing electronics work, modifying and repairing a broken Nintendo DS, modifying his Game Boy Advance, and building a handheld RetroPie setup in an altoids tin. The spark of curiosity and desire to overcome his obstacles as he worked through his project were intoxicating. And his willingness to share it with the world confident that in the same way he found other people's work and exploration useful others may find the same from him.  Finally the pride of accomplishment of a goal achieved were amazing to witness.</p>
+<p>Seeing this at the same time I was to write a return letter about my career made me realize how important the Internet has been in my career and life overall and it helped me conceptualize why the thoguhts dwelling on how terrible a place it can be were really bringing me down.</p>
+<p>Plus I could see what is possible to a young person intersted in electronics today.  I took apart plenty of technology when I was middle school aged but I didn't have youtube to help me learn what it was I was looking at and to share my findings so readily.</p>
+<p>And I say the timing couldn't be more perfect.  I read this letter and wrote my response last night right before the scheduled presidential debate with two people I disagree with on many levels were going to put on a show and be adulated by the supporters for things I find horrifying.  </p>
+<p>What I saw, what I've known for years, but can forget at times. People with a real thirst to pursue values and to achieve are what is important.  And the rest, the suffering, and the pain: "We never had to take any of it seriously, did we?"</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2020-09-auspicious</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2020-09-auspicious</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Wed, 30 Sep 2020 16:16:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Planner Business]]></title>
+            <description><![CDATA[<p>This year Michelle started as a travel agent working with <a href="http://www.mickeysdreamvacations.com/michelle-mcallister.html">Mickey’s Dream Vacations</a>.  To support her I plan to write a series of posts here with what I know about travel.  </p>
+<p>Unfortunately for me and you and her that is somewhat limited but I think I can clear up a few things and then leave the rest to my wife who is the expert.</p>
+<h3 id="the-money">The Money</h3>
+<p>Well now the real issue is how does this work? How does the travel agent get paid?</p>
+<p>At least for Michelle the deal is that she gets paid by the vendor.  This means if you book a Disney trip, or Universal package, or cruise she gets a commission.  </p>
+<p>So this of course must drive up the cost to you. Well it turns out that it doesn’t.  The deals are the same if you book them or if an agent books them. And this makes sense because the commission is worth it to the people providing the trips and experiences just to get business.  This may be counterintuitive to you but my company has been very successful by <em>enabling the channel</em>.  Which is basically what you call aligning the interests between multiple parties so one does a bunch of the selling.</p>
+<h3 id="why-bother">Why Bother</h3>
+<p>Well okay fine it’s not going to cost you anything but why should you bother? </p>
+<p>The best reason is expertise.  Some of these trips can be quite complicated.  If you’re going to do Walt Disney World there are many options, which lead to further choices and finally deadlines which are difficult to navigate unless you have a lot of experience.</p>
+<p>Okay maybe you like the puzzle of figuring out all this stuff and optimizing your experience. Great! An agent can give you the relevant facts and do research to ensure you are getting everything you want out of your vacation. </p>
+<p>Finally. You’re already paying for it. So no matter what deal you get you can have someone help you without any additional cost. Basically you’re choosing to leave free help on the table.</p>
+<h3 id="why-michelle">Why Michelle</h3>
+<p>Michelle is the smartest and hardest working person I’ve ever met. She is hungry to earn your business and your referrals.</p>
+<p>So go like her <a href="https://www.facebook.com/MichelleMcAllisterMickeysDreamVacations">Facebook page</a> and look for a deal or reach out and just start figuring out what your next adventure will be.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2019-05-the-planner-business</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2019-05-the-planner-business</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Fri, 24 May 2019 22:34:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Looking back]]></title>
+            <description><![CDATA[<div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+<pre><code>    &lt;figure
+        class=&quot;
+          sqs-block-image-figure
+          intrinsic
+        &quot;
+        style=&quot;max-width:640px;&quot;
+    &gt;
+      
+    
+    
+
+    
+      
+        
+      &lt;div
+          
+          
+          class=&quot;image-block-wrapper&quot;
+          data-animation-role=&quot;image&quot;
+          
+
+
+      &gt;
+        &lt;div class=&quot;sqs-image-shape-container-element
+          
+      
+    
+          has-aspect-ratio
+        &quot; style=&quot;
+            position: relative;
+            
+              padding-bottom:130.897705078125%;
+            
+            overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+          &quot;
+          &gt;
+            
+            
+            
+            
+            
+            
+            
+            &lt;img data-stretch=&quot;false&quot; src=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG&quot; data-image=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG&quot; data-image-dimensions=&quot;640x838&quot; data-image-focal-point=&quot;0.5,0.5&quot; alt=&quot;IMG_0012.JPG&quot; data-load=&quot;false&quot; elementtiming=&quot;system-image-block&quot; src=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG&quot; width=&quot;640&quot; height=&quot;838&quot; alt=&quot;&quot; sizes=&quot;(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw&quot; style=&quot;display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%&quot; onload=&quot;this.classList.add(&amp;quot;loaded&amp;quot;)&quot; srcset=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG?format=100w 100w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG?format=300w 300w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG?format=500w 500w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG?format=750w 750w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1553569670070-7JFPL7PK60KZBVLXLBCZ/IMG_0012.JPG?format=2500w 2500w&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; data-loader=&quot;sqs&quot;&gt;
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+      
+    
+
+    
+  
+    &lt;/figure&gt;
+  
+
+&lt;/div&gt;
+</code></pre>
+<div class="sqs-html-content">
+  <p style="white-space:pre-wrap;">I've mostly avoided looking at this for years. I assumed the neglect would make me feel bad. But I enjoyed paging through a few of the things I've written. And since social media seems to be a disaster lately but I still want an outlet for this sort of self-indulgent stuff I think I'll try using this again.</p><p style="white-space:pre-wrap;">Heck maybe I'll even fire up an RSS reader too. I used to really enjoy the Internet.</p><p style="white-space:pre-wrap;">Wonder if Alli &amp; Ash will help me by updating the logo and making some other drawings. </p><p style="white-space:pre-wrap;">Alli doodled the drawing to the left in about 30 seconds to try out my new pencil and iPad. She didn’t give me permission to post it but hopefully she won’t mind. </p>
+</div>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2019-03-looking-back</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2019-03-looking-back</guid>
+            <category><![CDATA[meta]]></category>
+            <category><![CDATA[Personal]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 26 Mar 2019 03:12:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Improvement and Reflection]]></title>
+            <description><![CDATA[<div class="sqs-html-content">
+  <p> </p><p>I’m always seeking improvement in many areas.</p><p> </p><p>I want to be better at my work. I want to be physically stronger, faster, and have more endurance. I often have to prioritize in my pursuit of values and I don’t bemoan this as a necessary evil, I try to embrace the limitations of time and attention and fill them with only the best things.</p><p> </p><p>However&nbsp;I’m noticing an area that is extremely value dense but I often neglect for the comfort of the busyness of other things. Items of reflection and introspection. &nbsp;</p><p> </p><p>I happened to notice afew of the photos and videos I took the week of Christmas and spent a few moments looking at them.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  
+  
+<pre><code>&lt;div
+    class=&quot;
+      image-block-outer-wrapper
+      layout-caption-below
+      design-layout-inline
+      
+      
+      
+    &quot;
+    data-test=&quot;image-block-inline-outer-wrapper&quot;
+&gt;
+
+  
+
+  
+    &lt;figure
+        class=&quot;
+          sqs-block-image-figure
+          intrinsic
+        &quot;
+        style=&quot;max-width:2133px;&quot;
+    &gt;
+      
+    
+    
+
+    
+      
+        &lt;button
+            class=&quot;
+              sqs-block-image-button
+              lightbox
+              
+      
+    
+            &quot;
+            data-description=&quot;&quot;
+            data-lightbox-theme=&quot;&quot;
+        &gt;
+          &lt;span class=&quot;v6-visually-hidden&quot;&gt;View fullsize&lt;/span&gt;
+          
+      &lt;div
+          
+          
+          class=&quot;image-block-wrapper&quot;
+          data-animation-role=&quot;image&quot;
+          
+</code></pre>
+<p>  data-animation-override</p>
+<pre><code>      &gt;
+        &lt;div class=&quot;sqs-image-shape-container-element
+          
+      
+    
+          has-aspect-ratio
+        &quot; style=&quot;
+            position: relative;
+            
+              padding-bottom:76.74636840820312%;
+            
+            overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+          &quot;
+          &gt;
+            
+            
+            
+            
+            
+            
+            
+            &lt;img data-stretch=&quot;false&quot; src=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg&quot; data-image=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg&quot; data-image-dimensions=&quot;2133x1637&quot; data-image-focal-point=&quot;0.5,0.5&quot; alt=&quot;&quot; data-load=&quot;false&quot; elementtiming=&quot;system-image-block&quot; src=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg&quot; width=&quot;2133&quot; height=&quot;1637&quot; alt=&quot;&quot; sizes=&quot;(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw&quot; style=&quot;display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%&quot; onload=&quot;this.classList.add(&amp;quot;loaded&amp;quot;)&quot; srcset=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1422736860977-2O8JH99RJ09EZK1HR4BH/image-asset.jpeg?format=2500w 2500w&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; data-loader=&quot;sqs&quot;&gt;
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+        &lt;/button&gt;
+      
+    
+
+    
+  
+    &lt;/figure&gt;
+  
+
+&lt;/div&gt;
+</code></pre>
+<div class="sqs-html-content">
+  <p id="yui_3_17_2_2_1422736768516_8831"><br></p><p id="yui_3_17_2_2_1422736768516_8832">And I think I’d like to find a way for regular purposeful organization of my thoughts, photos, videos, and whatever else.</p><p><br></p><p id="yui_3_17_2_2_1422736768516_8833">I know I have limited time and attention but I want to make sure I continually practice focusing it on the most important things.</p><p id="yui_3_17_2_2_1422736768516_8834"><br></p><p id="yui_3_17_2_2_1422736768516_8835"><br></p>
+</div>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2015-01-improvement-and-reflection</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2015-01-improvement-and-reflection</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sat, 31 Jan 2015 20:38:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lights out twenty fourteen]]></title>
+            <description><![CDATA[<p>I'd have liked to put a nice highlight reel together for 2014 and talk about my big plans for 2015. I've had plenty of highlights and I have plenty of big plans but I didn't take the time to examine them and write it out.</p>
+
+<p>The last year especially has felt extremely hectic at times and I think one of the things I'll focus on in the beginning of 2015 is trying to minimize that.  To drop the comfort of busy and be even more ruthless in my priorities. And finally to regularly reflect on how things are going.</p>
+
+<p>I've had a great twenty fourteen.  Twenty fifteen will be great too.</p>
+
+<p>Lights out!</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-12-lights-out-twenty-fourteen</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-12-lights-out-twenty-fourteen</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Thu, 01 Jan 2015 04:25:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ninety in the books]]></title>
+            <description><![CDATA[<p>I posted a while ago about <a href="http://logicaldisconnect.org/blog/2014/10/ruthless-39-of-90">my current health kick</a>.  I successfully finished 90 days on Sunday.  </p>
+
+<p>I noticed partway through that there were some slight issues.  I think I was doing too much gym leading to a flare up of plantar fasciitis and there were a few days where I needed a break.  Finally I have a tendancy to backslide into eating sugary snacks after sustained exercise routines, rationalizing that I've earned it.</p>
+
+<p>I decided to take a week off from the gym to let me recover a bit and refocus on the non-snacking since it undermines my primary goal.</p>
+
+<p>The primary number: I lost 31 lbs.  Down from 254 lbs to 223.  This is basically my pre-marriage, pre-child weight back when I was studying Kempo after losing about 80 lbs between 11/2001 - 5/2002.</p>
+
+<p>I'm going to take 5-7 days off from the gym and then get back to work.  My goal is to get to 190 lbs and emboldened by my recent success, I think I can do it by my birthday.</p>
+
+<p>I'd put in a count of gym visits but <a href="http://lift.do">Lift</a> appears to be down, but as a guess I think I went to the gym about 75 out of 90 days.  Probably too much, but it pumps me full of energy and I enjoy it.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-12-ninety-in-the-books</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-12-ninety-in-the-books</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 02 Dec 2014 03:30:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Objectivity of the bystander]]></title>
+            <description><![CDATA[<p>If you would just take yourself out of the line of fire, you will think more clearly. That's easy for me to say.  Sure it's easy to say I'm not talking about taking fire at all.  I'm talking about thinking and communicating. In other words, working.</p>
+
+<h3 id="hereswhatimean">Here's what I mean</h3>
+
+<p>Some time ago an awesome co-worker was planning a twenty-seven hour day involving at least five acts of heroism.  Something like getting in early and preparing for a late-night maintenance, then travelling to another office for some meetings and then going back to finalize preparations before going home to eat and then to come back and participate in the overnight work.  I think <a href="http://slayhod.tumblr.com/post/43144917339/hunter-has-stolen-the-guide-for-ahod-preparation">this</a> was the plan.</p>
+
+<p>I didn't come up with this plan so I wasn't invested.  I couldn't understand why the meetings were important because I didn't promise to be there.  It seemed crazy.  So we threw out all the time-wasting stuff and made that day a little less painful.</p>
+
+<p>I was certain I would have come up with the same plan.</p>
+
+<h3 id="finebutwhataboutbeingyelledatbyyourboss">Fine, but what about being yelled at by your boss?</h3>
+
+<p>I watched it happen. There was no yelling. There was a challenging question.  The kind of collaborative question you'd use to find a flaw in a plan and make it better. And it was asked by the boss. The room went still. Everyone stiffened. The answers that followed were defensive, meant to shut down the challenge.</p>
+
+<p>It was easy to see because I didn't draw any conclusions about where the question was leading. I didn't infer any judgment about my work.  I wasn't asked.</p>
+
+<p>However, I know I never saw the benevolence and collaboration in this type of questions when I was asked.  I would also go on defense.</p>
+
+<h3 id="howtostandby">How to stand by</h3>
+
+<p>How do I get to the essence of this? How do I wield this super-power of objectivity?  How do I take myself out of the line of fire?</p>
+
+<p>I don't know.</p>
+
+<p>But I think I can get way better at everything when I find out.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-10-objectivity-of-the-bystander</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-10-objectivity-of-the-bystander</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Thu, 30 Oct 2014 12:30:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ruthless 39 of 90]]></title>
+            <description><![CDATA[<p>The last 38 days plus today have been pretty good on a few fronts.  I've let work keep me from really focusing on my health for years.  But something about September 2nd made me commit to ruthlessly stick to a few simple rules and it's been going great.</p>
+
+<h3 id="rule1sleepatleast7hourseverynight">Rule 1: Sleep at least 7 hours Every night.</h3>
+
+<p>I've tried for a long time to "try and get around 8 hours of sleep a night," forever.  But I never picked a number and set it in stone and did everything I could to stick to it.  Over the past 39 days I've accomplished this goal 38 times.  (The morning after the Eagles Monday night game is my lone miss).</p>
+
+<p>This was the hardest rule to follow and also I think the most beneficial.  Because of rule 3 I was getting up early, so I had to make sure I was in bed going to sleep no later than 10:10, every night.  In a hectic life working at a growing company and with a family, this means cutting out time where I can actually sit quietly and think or work on my own projects.  </p>
+
+<p>I think this has been the most beneficial.  Getting sufficient sleep is like discovering a cognitive and emotional super power.  I'm more effective and more relaxed.</p>
+
+<h3 id="rule2trackeverythingieat">Rule 2: Track everything I eat.</h3>
+
+<p>I use MyFitnessPal on my phone and I just put everything in there.  I also set a calorie goal in there and try to hit it (ignoring exercise).  The goal is a side-effect and natural consequence of tracking.  I find myself incapable of tracking something and not trying to hit a goal.  </p>
+
+<p>This is because I really want to lose weight, and the only thing I've found to be effective is being very particular about what I eat.  So I focus on hiting 1670 calories a day or fewer.</p>
+
+<p>There have been a few times this was close to being missed.  But I've done it every day since 9/2.</p>
+
+<h3 id="rule3gotothegym6daysaweek">Rule 3: Go to the gym 6 days a week.</h3>
+
+<p>Now the rule is basically daily, because it's easier to stick to.  I work best when I try to do something every day.  If I had it 3 or 4 days a week it wouldn't work.  I've gone 33 out of 39 days.  So I'm right on track.</p>
+
+<p>I enjoy working out, and feel much more energetic throughout the day when I do.  The only way I can fit this into my life daily is to do it first thing in the morning.  So I've been getting up at 5:10 almost every weekday and a bit later on the weekends (the LA Fitness gyms near me open at 7 or 8) and getting it in first thing.  Also this does help with Rule 1, because I am usually tired by 10 anyway.</p>
+
+<p>I'm seeing improvements in my numbers and feeling good.</p>
+
+<h3 id="sowhat">So what?</h3>
+
+<p>I'm letting the hard structure of these three priorities drive my days.  I need to fit everything in around them, and it's very clarifying.  And I've been ruthless doing it.  Not succumbing to whim or letting anything else drive my decisions. I've lost 17 lbs in that time, and at almost 40 days in I feel like this is pretty sustainable.</p>
+
+<p>I picked 90 not because I'll magically stop then, but simply to have a goal.  See what I accomplish in that time and then decide what I want to do next.  At this point I'll probably just sign up for another 90.</p>
+
+<p>But it's not been easy.  Looking back, it feels easy.  But I paid close attention to all the small decisions that I've had to make to keep up with this committment.  And at each new decision in favor sticking with it, it does get easier.  But that doesn't mean it's easy.  It's been hard work.  I think someone who commits to a program like this can do it, but, it's an ongoing process and not a single big decision.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-10-ruthless-39-of-90</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-10-ruthless-39-of-90</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Fri, 10 Oct 2014 21:01:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[More Audible Recommendations]]></title>
+            <description><![CDATA[<p>A friend and co-worker who probably recommended half the books on <a href="http://logicaldisconnect.org/blog/2014/5/audible-scifi-sale-recommendations">my list</a> put up a list of <a href="http://n-tropy.com/ramblings/?p=5">Audible sale recommendations</a> of his own. Go check it out. </p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-05-more-audible-recommendations</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-05-more-audible-recommendations</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Wed, 07 May 2014 12:29:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Audible SciFi Sale recommendations]]></title>
+            <description><![CDATA[<p>Once I had children and continued to fill my life with values, it
+became difficult to make the time to read even though I've loved
+reading as long as I can remember. Then I discovered
+<a href="http://audible.com/">Audible</a> and it was love of books and not music that drove
+me to buy my first iPod in 2005.  </p>
+
+<p>Today I still do most of my fiction reading using Audible since I can
+do it during my commute, washing dishes, or any other mostly-mindless
+home maintenance task.  So if you aren't using Audible, I whole
+heartedly recommend signing up and taking advantage of their free
+trials.</p>
+
+<p>This post is really for people who already are using Audible.</p>
+
+<p>They currently are running a <a href="http://www.audible.com/mt/SuperSciFi_ALL">Super Sci-Fi Sale</a> Through the end of
+the day May 10, 2014, where they have over 100 books available for
+$6.95 each.  I paged through like I do many of their sales and found
+they had a number of books I want or that I've read and enjoyed and wanted
+to dash off something quick to recommend to others.</p>
+
+<p>So here is the list, some of these I've read.  Others are on my
+wishlist or I recognize the authors and think they might be worth
+looking at.  Other than that grouping they are in no particular order:</p>
+
+<h2 id="read">Read</h2>
+
+<ul>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Assignment-in-Eternity-Audiobook/B007XU32MS">Assignment in Eternity</a>, Robert A. Heinlein: I always recommend
+everything Heinlein wrote, plus this was narrated by <a href="http://en.wikipedia.org/wiki/Balki_Bartokomous">Balki</a></li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/A-Canticle-for-Leibowitz-Audiobook/B005F5ZBRC">A Canticle for Leibowitz</a>, Walter Miller: good classic
+SciFi, read it years ago on advice of my father and enjoyed it.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/The-Mote-in-Gods-Eye-Audiobook/B002V5GWHM/">Diplomatic Immunity: A Miles Vorkosigan Novel</a>, Lois McMaster
+Bujold: The Vorkosigan saga is very enjoyable.  This is book 14 in
+the series so you have quite a bit of work to catch up to it, but
+you might as well grab this one inexpensively now!  This is not one
+of those series that I suffer from sunk costs, I liked each book.</li>
+<li><a href="http://www.audible.com/pd/Classics/Frankenstein-Audiobook/B00FQRCM9O">Frankenstein</a>, Mary Shelley: A classic.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Little-Fuzzy-Audible-Audiobook/B002V0A8PE">Little Fuzzy</a>, H. Beam Piper: I actually listened to the version of this that came with <a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Fuzzy-Nation-Audiobook/B004YXLK7G">Fuzzy Nation</a>, John Scalzi and I hated the Scalzi retelling of the story, but found the original Piper version to be a much better telling, where the Scalzi story was crude and obvious and pumped full of a certain political view that all corporations and any selfishness is evil, the Piper story suffered none of this and actually told an interesting story.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Reamde-Audiobook/B005PMU12U">Reamde</a>, Neal Stephenson: I thankfully never got hooked on World of Warcraft, but got to enjoy machine guns and intrigue surrounding a video game world in this book. It was crazy at times, but I enjoyed it.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/The-Dreaming-Void-Audiobook/B002V0PW2I">The Dreaming Void: Void Trilogy Book 1</a>, Peter F. Hamilton: I listened to the <a href="http://www.audible.com/series/ref=a_pd_Sci-Fi_c2__1_sa?asin=B006K1M4YI">Commonwealth Saga</a> and <a href="http://www.audible.com/series/ref=a_pd_Sci-Fi_c2__1_sa?asin=B006K1NGAE">The Void Trilogy</a> and recommend them both.  I'd probably listen to the Commonwealth Saga first, but you can start here if you'd like.  I think this is what they call a space opera, and I approve.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/The-Lost-Fleet-Dauntless-Audiobook/B002VAGN62">The Lost Fleet: Dauntless</a>, Jack Campbell: The Lost Fleet series was another long series that if you like space nerdery, is awesome.</li>
+</ul>
+
+<h2 id="haventread">Haven't Read</h2>
+
+<ul>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Beowulfs-Children-Audiobook/B009NICUEY">Beowulf's Children</a>, Larry Niven, Jerry Pournelle, Steven
+Barnes: I haven't read this, but read something else by Larry Niven
+and Jerry Pournelle called <a href="http://www.audible.com/pd/Sci-Fi-Fantasy/The-Mote-in-Gods-Eye-Audiobook/B002V5GWHM">The Mote in God's Eye</a> and
+enjoyed it so I think this one is probably worth a shot.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/With-the-Lightnings-Audiobook/B002V5B9Z2">With the Ligtnings: RCN Series, Book 1</a>, David Drake: I think I picked this up on a reliable friends recommendation, just haven't gotten around to it yet.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Stealing-Light-Shoal-Book-1-Audiobook/B008O7DNOG">Stealing Light: Shoal, Book 1</a>, Gary Gibson: In my wishlist and recommended to me, haven't had a chance to pick it up yet.  Probably will here.</li>
+<li><a href="http://www.audible.com/pd/Sci-Fi-Fantasy/Firestar-Audiobook/B009UX3Y60">Firestar: Firestar Saga, Book 1</a>, Michael Flynn: Another in my wishlist and I'm not sure who recommeneded it.  But I'll probably grab this one here too.</li>
+</ul>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-05-audible-scifi-sale-recommendations</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-05-audible-scifi-sale-recommendations</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sun, 04 May 2014 18:21:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Delicious Time]]></title>
+            <description><![CDATA[<p>Surprisingly I didn't trip over my father's many copies of <a href="http://www.amazon.com/Stranger-Strange-Land-Robert-Heinlein/dp/0441788386/logicaldiscon-20">Stranger in a Strange Land</a>. I discovered Robert Heinlein through a copy of <a href="http://www.amazon.com/Notebooks-Lazarus-Long-Robert-Heinlein/dp/0876544731/logicaldiscon-20">The Notebooks of Lazarus Long</a> sitting on a bookshelf. I was immediately enamoured with the contents. My favorite quote from that book is:</p>
+
+<blockquote>
+  <p>Everything in excess! To enjoy the flavor of life, take big bites. Moderation is for monks.</p>
+</blockquote>
+
+<p>I considered it a challenge. Life is short, there are so many great things to do. As a result I've often taken on way more than I should.  Aside from wearing myself down a bit from time to time—and needing a few days to recover and then dig out—the results have mostly been spectacular.</p>
+
+<p>And although I want to do all the things, I've developed the skill of saying "no" to things that would distract me, things that would be a <a href="http://aynrandlexicon.com/lexicon/sacrifice.html#order_1">sacrifice</a>.  For the most part I'm able to do that, but I do make mistakes and once I have agreed to something it is nearly impossible for me to quit.  My emotional reaction to stopping or scaling back is like I'm losing something invaluable.  So I'll double down and fight for it, this of course reinforces the idea that the thing I am fighting for is a tremendous value, and therefore makes the emotional reaction to giving up even stronger.</p>
+
+<p>Through some of my work I've long known that I had parts of it that I did not enjoy, but I considered it an important part of the job.  And I love my job, so like any other hard thing I'd face these are things I would learn about, improve my skill, and become an expert.   And with mastery would come the joy.</p>
+
+<p>Certain aspects of my job required me to invent, fight for and prioritize a wide range of activity and tasks which would be in competition for limited resources. This is known as management.  And management is hard, I honestly can't understand how people are able to do it.  I think many engineers and software developers can't, notice all the dance about getting business requirements and business decisions when they are building things.  Because more often than not the business requirements make little sense to them at first so all the processes are built around just taking them as a given and trying to understand how to meet them.  And apparently when your job title at the startup is Vice President, management is where you are headed when success hits whether it seems that way or not in the beginning.  </p>
+
+<p>Often I couldn't fully understand all the moving parts of the things I needed to manage, but I thought to be successful that I must understand all of these things.  The mind of the engineer needs to understand everything.  Additionally the business and my boss would seemingly demand heroics as evidenced in my frustration driven post <a href="http://logicaldisconnect.org/blog/2012/7/disconnect-the-batphone">Disconnect the Batphone</a> written in July last year.  And I would oblige using the skills that had served me so well.  Analyze and understand all the details and pitch in and work hard.  Trade sleep, trade personal time, trade sanity.  </p>
+
+<p>And unfortunately it doesn't fail immediately, as a matter of fact, it can look suspiciously like success.  You look like you are on top of everything, until suddenly you can't work hard enough to keep up.  And what I've learned about scaling problems is that it's not only the thing that pushed you past the limit that suffers, it's everything and it's all at once, even though it will often take a long time to figure out that all those things are suffering. You develop bad habits for skipping steps or dropping things that are urgent.  You start to treat everything like crisis <a href="http://en.wikipedia.org/wiki/Simple_triage_and_rapid_treatment">triage</a> regardless of how important you <em>know</em> it is.  The fact is you are so set-upon by everything that you don't actually know it is important, your hierarchy of importance gets over-simplified and you start making some real bone-headed decisions.</p>
+
+<p>There are of course management skills.  But they most be learned and practiced and mastered.  But for that to happen you need to be interested in actually mastering management.  </p>
+
+<p>I've always known I didn't want to be a manager, at least not at a high level.  I've been successful leading teams, but only ones where I'm in the trenches doing the work as well, and the management is less than 10% of the time.  In most cases meta-work I would need to do anyway if I were doing it all alone.  But somehow I didn't know.  Again there is the challenge, it goes with the title.  You can pep-talk yourself with cool phrases like "stepping up."  And of course there is the money.  In most cases management upside in money comes with significantly more money than that of even a team lead.  So it's easy to rationalize to yourself that it's the best thing for you.</p>
+
+<p>So here I am, VP of Engineering at a company having astounding growth, and I am completely out of control and hate my job.  This is success?  If we are doing so well, why aren't I giddy with joy? What the hell is wrong with me? What do I do?  </p>
+
+<p>Eventually I tell my boss I can't be VP, I want to continue working there, but I cannot do the job.  I know it is an immediate step but a process of getting someone in place to do the work that I am failing to do, but already I feel tremendous relief.  </p>
+
+<p>How did I figure it out?  I'm not entirely sure.  It's one of the reasons I'm writing this to explore that.  I think I got pushed passed the point where it was obvious to even me when I was too busy to notice much of anything.  But I think it was noticing the distinct lack of joy in my work.  </p>
+
+<p>I didn't dread going to work, I don't think.  But I didn't love it either.  In fact for many more days than not, I hated every minute of it.  I liked the work that was getting done, but I hated my role in it.  It wasn't clear to me always, and I would grab snatches of enjoyment which helped kept understanding out of my grasp.</p>
+
+<p>So I was guided by a premise of <a href="http://aynrandlexicon.com/lexicon/duty.html">duty</a> to my family, and to achieving wealth, and in doing what was best for my employer, and the job I was doing.  When I should have been seeking my happiness all along.  There is <a href="http://aynrandlexicon.com/lexicon/trader_principle.html#order_2">no conflict of interest</a>.  I thought I understood these things before, but I understand them quite a bit better now, or will when I finish reviewing and introspecting how I let things get so difficult for myself.  I'm not sure exactly what it was but my boss did say something to me in a conversation that helped me to realize I wasn't happy.</p>
+
+<p>My favorite book ever written is <a href="http://www.amazon.com/Fountainhead-Ayn-Rand/dp/0451191153/logicaldiscon-20">The Fountainhead</a> and there is a certain quote early in that book that is apt here.  The main character Roark is speaking with the Dean of the school of architecture where he was just expelled and says: </p>
+
+<blockquote>
+  <p>"But you see," said Roark quietly, "I have, let's say sixty years to live. Most of that time will be spent working. I've chosen the work I want to do. If I find no joy in it, then I'm only condemning myself to sixty years of torture. And I can find the joy only if I do my work in the best way possible to me. But the best is a matter of standards—and I set my own standards. I inherit nothing. I stand at the end of no tradition. I may, perhaps, stand at the beginning of one."</p>
+</blockquote>
+
+<p>I know the work that brings me joy, it's time to get on with it.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-04-delicious-time</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-04-delicious-time</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sun, 06 Apr 2014 23:19:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Overdelivered]]></title>
+            <description><![CDATA[<p>Write a story about the unbelievable speed of Amazon delivering a book.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2014-04-overdelivered</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2014-04-overdelivered</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sun, 06 Apr 2014 23:19:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bums Rush]]></title>
+            <description><![CDATA[<p>I've been rushed lately due to work, normal family things and other personal projects.  As such I've just discovered something I need to remind myself.  That is to slow the hell down so as not to come across as a bum.</p>
+
+<p>I pride myself on understanding technical issues no matter how I learn of them.  I'll sit and think and re-read the ticket or bug.  Or I'll ask questions always building up the example in my head, going step-by-step and ensuring I am clear of the problem and my understanding of the technical system.</p>
+
+<p>I recently have found myself jumping to conclusions and launching right into a response to people instead of careful consideration.  This is most prevalent with email, but I've done it in face-to-face conversations and even on twitter.  When I go back and read a tweet and realize all the context is actually there and my response was way off base it makes me realize some real slowing down is in order.  </p>
+
+<p>Additionally I read a friends blog post: <a href="http://ip-sp.blogspot.com/2013/09/libtards-teabaggers-and-other-stuff.html">Libtards, Teabaggers and other stuff</a> which reminded me not to assume people I disagree with are idiots.  And for now if I have the time and come across what appears to be a vitriolic comment somewhere by someone I know I may ask questions to learn the person's position.  It has been a nice change of pace today to ask a few questions especially in light of the highly charged conversation about Government shutdown and new health care laws.  </p>
+
+<p>Getting some reasonable answers made me feel a little less isolated  and silently annoyed.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2013-10-bums-rush</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2013-10-bums-rush</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Wed, 02 Oct 2013 03:03:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fighting regulation and winning]]></title>
+            <description><![CDATA[<div class="sqs-html-content">
+  <blockquote>Any startup facing an existential threat from regulation should remember these stories. The laws of the land are not laws of physics: they can be changed.</blockquote><p>Jason Crawford's <a href="http://blog.jasoncrawford.org/entrepreneurs-vs-regulation">article</a> is a good&nbsp;read to inspire you that some fights can be won. &nbsp;Or discourage you that the creative people trying to make awesome things often have to waste their time and energy fighting regulations that <a href="http://aynrandlexicon.com/lexicon/monopoly.html#order_1">should not exist</a>.</p>
+</div>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2013-04-fighting-regulation-and-winning</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2013-04-fighting-regulation-and-winning</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Fri, 12 Apr 2013 03:20:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Unremarkable Bisy Backson]]></title>
+            <description><![CDATA[<p>I don't think this is a great article, <a href="http://calnewport.com/blog/2013/04/03/you-can-be-busy-or-remarkable-but-not-both/">You Can Be Busy or Remarkable—But Not Both</a>.  But when I read it—after a tremendously busy day—it struck a chord.  Plus I couldn't resist a title reference to the <a href="http://www.amazon.com/Tao-Pooh-Piglet-Boxed-Set/dp/014095144X/logicaldiscon-20">Tao of Pooh</a> after seeing the guy referenced in the article was some dude named <a href="http://en.wikipedia.org/wiki/Terence_Tao">Tao</a>.</p>
+
+<p>I read something that said <em>being lost</em> is not about not knowing where you are, but giving too much focus and anxiety to where you are not.  I don't have any idea what the origin of this was, maybe some quote in my High School yearbook.  </p>
+
+<p>I think often the sense of anxiety that accompanies being busy is about knowing all the things you aren't doing and letting that fill up your mind.  Or allowing your mind-reading of other people's expectations to dictate how you feel about your life.  These things all are awful ideas.</p>
+
+<p>Anyway I'm feeling a inspired to spend a more of of my time trying to relax, be realistic, and have some fun.</p>
+
+<p><em>Update: I read what I wrote and was completely confused, so I reworded some things.  See I was tremendously busy yesterday and my brain doesn't work anymore.</em></p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2013-04-the-unremarkable-bisy-backson</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2013-04-the-unremarkable-bisy-backson</guid>
+            <category><![CDATA[Productivity]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Thu, 11 Apr 2013 02:11:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reflection on beginnings]]></title>
+            <description><![CDATA[<p>I enjoyed Michael Lopp's article <a href="http://www.randsinrepose.com/archives/2013/04/07/an_introduction_to_you.html">An Introduction to You</a>, specifically this part:</p>
+
+<blockquote>
+  <p>We are in an incredible hurry building important things and have no time for nuance. We're impatient. We're busy. We want everything to move faster, so we make huge, comforting assumptions and slap easy to understand labels on complex concepts.</p>
+</blockquote>
+
+<p>Though I've been thinking little about the idea of oversimplifying and therefore over or under estimating the contribution of a new employee. Rather the quoted section made me think about how much is often missed in the "incredible hurry" when building products and the systems and processes to support a business.</p>
+
+<p>It would have resonated more with me if he had written the exact same article but if it were not about an employee, but a new technology being integrated into the same busy-worshiping company culture.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2013-04-reflection-on-beginnings</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2013-04-reflection-on-beginnings</guid>
+            <category><![CDATA[busy]]></category>
+            <category><![CDATA[productivity]]></category>
+            <category><![CDATA[Productivity]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 09 Apr 2013 02:28:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fitting in]]></title>
+            <description><![CDATA[<div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          
+          
+          
+<pre><code>    &quot;
+    data-test=&quot;image-block-inline-outer-wrapper&quot;
+&gt;
+
+  
+
+  
+    &lt;figure
+        class=&quot;
+          sqs-block-image-figure
+          intrinsic
+        &quot;
+        style=&quot;max-width:600px;&quot;
+    &gt;
+      
+    
+    
+
+    
+      
+        &lt;button
+            class=&quot;
+              sqs-block-image-button
+              lightbox
+              
+      content-fill
+    
+            &quot;
+            data-description=&quot;&quot;
+            data-lightbox-theme=&quot;&quot;
+        &gt;
+          &lt;span class=&quot;v6-visually-hidden&quot;&gt;View fullsize&lt;/span&gt;
+          
+      &lt;div
+          
+          
+          class=&quot;image-block-wrapper&quot;
+          data-animation-role=&quot;image&quot;
+          
+</code></pre>
+<p>  data-animation-override</p>
+<pre><code>      &gt;
+        &lt;div class=&quot;sqs-image-shape-container-element
+          
+      content-fill
+    
+          
+        &quot; style=&quot;
+            position: relative;
+            
+              padding-bottom:76.83332824707031%;
+            
+            overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+          &quot;
+          &gt;
+            
+            
+            
+            
+            
+            
+            
+            &lt;img data-stretch=&quot;false&quot; src=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg&quot; data-image=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg&quot; data-image-dimensions=&quot;600x461&quot; data-image-focal-point=&quot;0.5,0.5&quot; alt=&quot;wild-wagon.jpg&quot; data-load=&quot;false&quot; elementtiming=&quot;system-image-block&quot; src=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg&quot; width=&quot;600&quot; height=&quot;461&quot; alt=&quot;&quot; sizes=&quot;(max-width: 640px) 100vw, (max-width: 767px) 100vw, 100vw&quot; style=&quot;display:block;object-fit: cover; width: 100%; height: 100%; object-position: 0% 0%&quot; onload=&quot;this.classList.add(&amp;quot;loaded&amp;quot;)&quot; srcset=&quot;https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/500c727de4b0d820d6a42ad8/1365302902860-16XD21SAE205V3GWR07P/wild-wagon.jpg?format=2500w 2500w&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; data-loader=&quot;sqs&quot;&gt;
+
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+        &lt;/button&gt;
+      
+    
+
+    
+  
+    &lt;/figure&gt;
+  
+
+&lt;/div&gt;
+</code></pre>
+<p>This Radio Flyer was an excellent investment. </p>
+
+<p>I would help my two little girls carefully climb into the seats. Make sure the stuffed friends, drinks and sunscreen were down in the ample room by their feet and we'd walk the half a mile to Roslyn Park and play on the playground. We'd make up chasing games where we'd be heroes protecting the park. And we'd order "Cherry Whipples" from the little counter under the climbing wall. All of this was probably four years ago.</p>
+
+<p>Just recently I created a little spark of interest in X-Men reading to Ashley on the flight home from Disney and she has just fanned that spark into the full flame of obsession that today has even overtaken her sister.  So after Michelle and I put the trampoline together today (in record time) we played X-Men all afternoon.  Part of this somehow entailed squeezing some much larger little people into the Radio Flyer again. </p>
+
+<p>And even though we're all older—and all have many more super important things to do—somehow a playing all day like the wagon was still a perfect fit.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2013-04-fitting-in</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2013-04-fitting-in</guid>
+            <category><![CDATA[family]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sun, 07 Apr 2013 03:04:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better all the time]]></title>
+            <description><![CDATA[<p>Someone once told me that raising children would have good times and some rough times, but that the overall trend was always upward in his experience.  After 8 years and 4 months I am in full agreement with him.</p>
+
+<p>And it's nothing huge that makes me say that.  I suspect it would probably qualify as boring or at least plain evening for lots of folks.  But I sat and read some <a href="http://www.amazon.com/Astonishing-Whedon-Cassaday-Ultimate-Collection/dp/0785161945/logicaldiscon-20">X-Men comics</a> with Ashley and then sat and read a chapter of <a href="http://www.amazon.com/Watership-Scribner-Classics-Richard-Adams/dp/1442444053/logicaldiscon-20">Watership Down</a> with Allison before they went to bed.  And this is the type of stuff I couldn't wait to do when they were born.  Share my interests, discuss the various characters ask and answer questions.  </p>
+
+<p>It was a great night.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2013-04-better-all-the-time</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2013-04-better-all-the-time</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sat, 06 Apr 2013 03:55:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Terrors and Virtues]]></title>
+            <description><![CDATA[<p>One of my favorite <a href="http://5by5.tv/b2w">podcasts</a> spent their <a href="http://5by5.tv/b2w/78">whole show</a> talking about this article.</p>
+
+<blockquote>
+  <p>Get comfortable with the idea that you won’t know what’s good until it’s already happened.</p>
+</blockquote>
+
+<p>It's a very good article on working when you don't have any idea what your doing.</p>
+
+<p>It's convinced me that I should be listening to the whole back catalog of <a href="http://www.radiolab.org">Radiolab</a>.</p>
+
+<p><a href="/blog/2012/8/-terrors-and-virtues">∞</a></p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2012-08-terrors-and-virtues</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2012-08-terrors-and-virtues</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Fri, 03 Aug 2012 18:18:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10,000 Words a Day]]></title>
+            <description><![CDATA[<p>A great example of someone paying close attention to reality while experimenting with changing their way of working to achieve success they didn't believe possible.</p>
+
+<p>Definitely worth a read.</p>
+
+<p><a href="/blog/2012/8/10000-words-a-day">∞</a></p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2012-08-10000-words-a-day</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2012-08-10000-words-a-day</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Thu, 02 Aug 2012 19:37:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Don't Think Again]]></title>
+            <description><![CDATA[<p>The challenge in doing creative work is understanding and managing limits.  The most obvious limit is the amount of time you have to work.  However, even if you could somehow remove all interruptions and practical concerns you couldn't possibly do high quality creative work for 18 or even 10 straight hours a day.  You only have a fixed amount of creative energy to use before you need to relax and renew that energy store.  Even if you're young, highly motivated or if you <a href="http://i0.kym-cdn.com/photos/images/newsfeed/000/184/663/drink-all-the-coffee.png">drink all the coffee</a>, there is no sense in working beyond that limit.  The work you do will either be junk or your mind will freeze up and slide you right into procrastination mode.  Sometimes you may be able to push hard and get another hour or two but this usually comes at the expense of tomorrow.  This creative energy is your most precious resource.  There are many ways you can waste that energy but I think a very insidious way is by inventing new ways to repeat yourself.  When you do creative work you are inventing not only the thing you make, but also a way of framing the problem.  To do any of this you have to think.  When you complete your work you will forget that thinking.  The next time you work on a similar problem you will waste energy re-thinking it.  Any work you do isn't really done until you can repeat it.</p>
+
+<p>Maybe one of your many responsibilities is fixing broken technology.  You can treat each incident as separate, start from scratch, and try to determine what things you need to know about the problem.  Then you can hunt down evidence and follow the leads from the symptoms, take broken notes, and you will eventually build a solid mental picture of what is wrong and a possible solution.  As an alternative, you could automatically do a standard workup, and get some crucial statistics about the problem like the equipment involved, time, software versions, and captures of log files.  It would be as easy creating a form for yourself to fill out.  This standard format for reporting your findings is good if you work as part of a team, but even if you don't this can give you a head start on the problem and let you save your creative thinking for the hard part.</p>
+
+<p>Or you wish you were a writer of some sort—be it books, blog posts or documentation.  You could just sit down and write what catches your fancy when you feel like it.  You might be pretty successful.  Or you might never find yourself writing; especially if writing is your second, third, fourth or tenth job.  You could decide it's important enough to schedule 30 minutes every day to move it forward a little bit.  You could formalize it further and create a rough outline of your writing process, developing a progression that starts at finding an idea and maps next steps to the end result.  Then you can really use short bursts of work daily, because you have a framework to let you jump right into the actual work.  For example, after not writing for years it was only by giving myself permission to write for a short block of time every day that I created this site.</p>
+
+<p>You may rebel against this idea by thinking that working to a checklist is dooming yourself to <a href="http://en.wikipedia.org/wiki/Vogon">boring bureaucratic work</a>.  Or maybe you see this as selling out and turning yourself from <a href="http://www.gocomics.com/calvinandhobbes/1995/12/26">a creative person into a drone of a factory worker</a>.  If you don't give yourself a checklist to follow, then you are choosing to waste your creative energy on a solved problem—a problem that <em>you</em> solved already.  If you've come up with a way to write an article, why throw that away and start fresh with the next article?  Why not start with that scaffolding in place next time to let your creativity soar in new ways you didn't have room or energy for last time, because you were busy inventing the scaffolding?  You are going to do the work in some way.  Why not be serious and deliberately choose the way you are going to do it?</p>
+
+<p>And the most important advantage to this type of approach is you can build on your framework.  You can build gradual improvement into the way you do everything.  If the next time you do some work you take a minute at the end and think about how you can do it better next time, you will be giving the <a href="http://fc07.deviantart.net/fs71/f/2011/124/c/e/if_a_future_you____by_zeptozephyr-d3flawx.jpg">future you</a> a head-start.  If you don't do this, you are choosing to put a limit on your best by not recognizing and embracing the fact that you have a limit on your best that you can do in one sitting.</p>
+
+<p>The only thing you need in order to take advantage of this idea immediately is a notebook that you know you'll look at again.  And the next time you finish a task, open that notebook, set a timer for 5 minutes and answer one question in full sentences, "how can I make this better next time?"</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2012-07-dont-think-again</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2012-07-dont-think-again</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sun, 29 Jul 2012 15:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leaving work at 5:30]]></title>
+            <description><![CDATA[<p>A few interesting things in this article.  </p>
+
+<p>I don't advise playing the game Sheryl Sandberg was playing trying to look like she was working more than she was, but I certainly understand the pressure.  </p>
+
+<p>Also really liked the idea attributed to Marrisa Meyer. </p>
+
+<blockquote>
+  <p>If you resent the fact that you don’t eat dinner every night at 8 then you will get burnout and your work will not be as good.</p>
+</blockquote>
+
+<p>The fact is you can only do so much so you have to ruthlessly prioritize.  And if you resent the fact that you can't do everything with unrealisticly high quality you'll just invite more pain and anxiety.</p>
+
+<p><a href="/blog/2012/7/leaving-work-at-530">∞</a></p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2012-07-leaving-work-at-530</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2012-07-leaving-work-at-530</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Fri, 27 Jul 2012 20:09:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On Trying]]></title>
+            <description><![CDATA[<p>There are alternatives.</p>
+
+<p><a href="/blog/2012/7on-trying">∞</a></p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2012-07-on-trying</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2012-07-on-trying</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Wed, 25 Jul 2012 12:24:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Must Be Nice]]></title>
+            <description><![CDATA[<p>Here is a story that illustrates exactly the type of work decisions that led to this site.  Daniel's article focuses on the lack of empathy in the person who questions his start time.  I do think her reaction was unjust and I also think the young heroic Daniel took a physical and emotional beating that is better avoided.  </p>
+
+<p>I completely understand the <em>need</em> to continue working on an active problem—especially when all the distractions are gone.  But I suspect he probably paid for that hard work in more ways than being insulted by a co-worker.</p>
+
+<p><a href="http://boldocity.com/blog/2012/7/must-be-nice">∞</a></p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2012-07--must-be-nice</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2012-07--must-be-nice</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 24 Jul 2012 17:54:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Disconnect the Batphone]]></title>
+            <description><![CDATA[<p>It didn't work. In frustration you reach for your cup of tea and find only the dregs, long cold.  You write another email to your co-workers explaining why the latest attempt at a fix failed.  Usually writing it out helps you think of something else to try.  Nothing new comes to mind.  It goes in the Sent folder next to the other three un-replied-to messages from tonight.</p>
+
+<p>You lean back and close your eyes trying not to think about the call from your boss. </p>
+
+<blockquote>
+  <p><em>Look, I know it's probably complex and hard but we really don't care about the details, we just need it to work.</em></p>
+</blockquote>
+
+<p>Facing a problem alone has never bothered you, but you're not alone are you?  Your wife and children are sleeping upstairs.  If you can't figure this out and the company collapses, then what happens to them?  Certainly not that trip to Disney or the American Girl dolls for Christmas.</p>
+
+<p>Opening your eyes you see it's 2:37 AM.  You've got nothing left and sleeping is better than feeling sorry for yourself.  Standing, you reach for your mug. </p>
+
+<p>The flash comes.</p>
+
+<p>You're back at the keyboard, leaning forward.  You see the connection. You're not sure yet.  But you are sure—you've never been more sure of anything.  You laugh.  It's so simple.  You put the patch together and push it to production.  It's fixed.  You were so stupid not to see it sooner, but that doesn't matter, it only matters that it works.  You write your triumphant email.  Wired, you sit and watch it work.  You finally head to bed after four.</p>
+
+<hr />
+
+<p>Instead of a hero's greeting when you enter the office you are ushered into a the conference room and grilled about the fix.  </p>
+
+<blockquote>
+  <p><em>What makes you so sure it won't happen again?</em></p>
+</blockquote>
+
+<p>You are happy to explain.  But no matter how clearly you explain the situation the hostility and uncertaintly remains.  A wild thought occurs to you; they seem dissapointed that your fix hasn't retroactively wiped the problem out of existence.  You realize again—you don't understand people.</p>
+
+<blockquote>
+  <p><em>So what is the status of your current project?  We'll need to catch that back up.</em></p>
+</blockquote>
+
+<p><em>Current Project?</em>  You vaguely remember you were working on something else before the crisis.  You promise to give people updates after you get your bearings.  You go to your office and sit back and close your eyes, trying not to be annoyed at the idea that you are now <em>behind</em> on your project, or what is meant by "we."</p>
+
+<hr />
+
+<p>I've been here, more times than I care to think about.  This is not a specific story in my life, but it is every heroic work story.  An emergency creates clarity by forcing exclusive focus on a single goal.  You can learn more about the way your systems work in one crisis than you might in a whole year.  And it's exhilirating beyond description to face down the stress of an impossible problem and come up with the answer.  But the hard truth is, working this way is a huge mistake.  You not only harm yourself,  but you have made the company and the the product, which you're willing to bleed for, worse.</p>
+
+<p>Possibly you are that hero or you work at a company with one.  Maybe you want to do the heroic things.  It's exciting and you get to break all the rules.  And you seem to have a limitless supply of the confidence needed to relentlessly seek an answer.  But there's a reason you work with other people, and when heroic individual effort is always necessary to stave of disaster it's a symptom of a greater sickness in the company.</p>
+
+<p>Sure it's great to watch superhero movies.  But you certainly don't want to live in Gotham City—that place is a real mess.  If you are that hero, the best thing you can do is learn how to disconnect the Batphone; it will not only improve your own life, but it's the only chance to save that company and really build something great.</p>
+
+<p>This story will serve as the manifesto for Boldocity.  For fifteen years I have strived to become the tragic hero depicted in this story.  But recently I have started to understand that working this way is a mistake.  The articles I write in the coming weeks will work on illustrating why I've made these claims.  Hopefully as I am able to more fully explore the issue through writing I will learn and explain the right way to do heroic work.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2012-07-disconnect-the-batphone</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2012-07-disconnect-the-batphone</guid>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Mon, 23 Jul 2012 15:15:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Step up]]></title>
+            <description><![CDATA[<div class="sqs-html-content">
+  <p>I saw a great sign at the Franklin Institute the other day.  It was in the Franklin Food Works, it said, "Please, Step up and help yourself."  (<a href="http://http://cl.ly/9rwc" title="STEP UP!">Here's a photo</a>) Some employee was clearly trying to overcome the confusing layout of the place.  But he did more than that, he offered a tremendous life lesson.</p>
+<p>Waking up and going about your day should not be drudgery, it should represent the thing you want to do more days than not.  If you find that is not true then, what are you waiting for, figure out why.  There are tons of people out there who will help you learn and cultivate the things you want, then the crucial thing is to make a plan to get there.  And don't let anything stand in your way.  The only way things will change for you is if you change them.  So what I have to say in response to that sign. <a href="http://www.youtube.com/watch?v=l6YXm4b3H5c">That's god damn right</a>!</p>
+<p>This is all stuff that's been said thousands of times in much better ways than that sign, that movie clip I linked to or this blog post.  But I think it's helpful to have it pointed out in a variety of ways.  It can be surprisingly easy to go numb to things around you if you don't remember how wonderful it is to be alive.</p>
+</div>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2011-09-step-up-2</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2011-09-step-up-2</guid>
+            <category><![CDATA[Philosophy]]></category>
+            <category><![CDATA[Work]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Wed, 14 Sep 2011 23:06:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Choices]]></title>
+            <description><![CDATA[<div class="sqs-html-content">
+  <p>When you're old and curmudgeonly like I am you become set in your ways.  It's hard to believe but some of these ways are wrong.  Your habits are a result of your old thinking and most importantly your old actions.  Since I know everything now, it's conceivable to me that a younger version of me may have made an error in thinking and ended up habitually doing something silly, <strong>without thinking</strong>, like screwing around with my iPhone at every single spare moment throughout the day.</p>
+<p>See what I did there with the bold.</p>
+<p>We do things, we make decisions and choices without even considering the options.  Our subconscious not only can provide us with important facts, like all the words to the <a href="http://en.wikiquote.org/wiki/Gilligan's_Island#Ending">closing song of Gilligan's Island</a>, it also will bring up complex thoughts like the results of thinking or provide a course of action.  Don't believe me?  Think of the last time you drove a car somewhere and had one of those realizations like, "Holy crap I'm driving a car and not paying attention to where I am or where I'm going!  How did I make it this far?"</p>
+<p>Learning anything requires repetition, so does unlearning.  But before you start training yourself what you want to do, like Zippity the Zebra in <a href="http://www.slate.com/id/2077075/">Man vs. Beast</a> you have to "<a href="http://www.youtube.com/watch?v=Y5QwYJoLUfE">realize it's a race.</a>"  The key there is to set yourself a standing order to notice when you do some physical thing . Go on, put that subconscious to work for you noticing you taking the phone out, or eating that 28th cookie.</p>
+<p>Now you are at that crossroads, where you make the choice.  The thing you've done at up until this point over the last 87 times this choice came up, the thing you decided you wanted to change for some reason, will seem very compelling.  It may even seem crazy that you ever wanted to or could change.  Here is where you will need to have thought out the good reasons for why you will change, to overrule the habit and emotional response that is tied into taking that habitual action.  What you want to do here is put yourself in the right frame of mind to realize, that, yes there are actually other things you might want to do besides restock the floors in <a href="http://itunes.apple.com/app/tiny-tower/id422667065">Tiny Tower</a>.</p>
+<p>The way I recently learned and am trying to do that is to have a nice little slogan, "WWID?"  This means, "What Would I Do? Where I, is me heroically taking into account my full hierarchy of values."  This is a pretty general mindset, depending on the particular habit I'm trying to change I may just focus in on that one for a few weeks and have a different slogan to recall in my time of need.</p>
+<p>So in summary, I plan to take certain things I don't want to do anymore and notice when I'm doing them so I can wake myself up enough to know, "it's time to make a choice," and then put myself in a heroic frame of mind to make that choice.</p>
+</div>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2011-09-choices</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2011-09-choices</guid>
+            <category><![CDATA[Hacker]]></category>
+            <category><![CDATA[Personal]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 13 Sep 2011 22:29:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sprint for Health Millstone]]></title>
+            <description><![CDATA[<div class="sqs-html-content">
+  <p>As I indicated in a prior post, <a href="/logical-disconnect-1/archives/2011/03/27/the-game-of-life">The game of life</a>, I planned to post updates to help my motivation.  I've learned that my projects go much better when I periodically look objectively at my results thus far and make a conscious decision how to proceed.</p>
+<p>I had initially planned an update every 9 days since it just happened that I was 108 days out from my goal when I started and being a geek I couldn't help but see the evenly divided intervals.  But, alas, I have missed not only 99 days but also 90.  We now stand 86 days from my goal and this is my first update.</p>
+<p>So from an eating perspective it's been easy, I've been able to avoid all but a very small taste of sweets and all but a very small amount of grains.</p>
+<p>I think it was easy because before starting I made an effort to pay attention to how crappy I felt.  How I was tired and always lacking something trying to find it in sugary snacks or in caffeine laden beverages.</p>
+<p>And—I think this was stronger motivatio<span style="font-size: 11px;">n—</span>I also made an effort to actually imagine two alternate futures.  One where I now took responsibility for my health and one where I continued to drift eating and acting based on whim or emotion.</p>
+<p>The first was me in 20 years, strong and healthy working with my daughters on some sort of outdoor project, maybe helping them build a new garden or shed in one of their homes, but here I was a man of 55 (the same age as my father <a href="/logical-disconnect-1/archives/2003/05/02/rest-in-peace">when he died</a>) doing hard physical work with my shirt off and not inappropriately.  Feeling temporarily winded from a recent extreme exertion and resting for a moment, taking a deep breath and feeling the exhilaration of being alive and reshaping existence to my will and paying with my effort.  And I was just at that moment before I plunge back in and continue at a hard task that will still take another hour or so after which I will enjoy a restful afternoon with good food and surrounded by loved ones.</p>
+<p>
+The second I don't like to think about, but I do anyway.  It was me in 20 years.  I can't really picture myself like I can in the first vision, but I am able "…to guess by hints, to see everything through the greater intensity of implication."<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup> And in this case I am looking out.  I see myself in the sterile hospital environment.  I am uncomfortable, I've just woken up and have been laying this way for a long time, a few hours, a few weeks? I am just so tired and sore I can barely muster the energy to move.  I finally notice that here again I am surrounded by loved ones.  But this time the looks on their faces are masks of tragedy.  In this imagining I really pictured my daughters as young adults, they were beautiful if they weren't so sad.  I wanted to tell Allison that nothing could be so tragic as to put such a look on her face, and she tried to smile for me when she saw me awake, but the pity there was worse.  And Ashley never one to attempt to hide her emotions wouldn't even smile and was barely able to look at me.  I reached out for them with a tremendous effort and saw the tubes snaking around my arms.  And my arms were thin, flabby and pale.  Then I saw Michelle and it the suffering she was obviously trying to hide from me was more than I could bear.
+</p>
+<p>I didn't bother to fill in details about what particular disease had put me in such a terrible condition.  But to concretize the threats to my future of living a lifestyle where I ignore what I've learned about nutrition has helped my motivation tremendously.</p>
+<p>I've diverged a bit from my original intent of this article into that motivation that has made the choice on what to eat easy.  Now to sum up my update.  My two primary measures of the effectiveness of my health sprint are my weight and how I feel energy wise and general comfort level.</p>
+<p>Over the past 18 days I've felt great.  I made a great effort to get plenty of sleep, and I can't remember being better rested.  My energy level has been excellent.  I seem to wake up ready to take on the day and keep a more or less constant energy level until the end of the day when I start to get tired and ready for bed.  My creativity level has been high, and my stress level has been low.  I take surprises and emergencies at work well and have been less defensive when criticized or when I perceived criticism.  Also I've been very productive at work and in my personal projects making great strides toward my goals.  Finally I feel stronger.  I've been doing <a href="/logical-disconnect-1/archives/2011/03/30/tomatoes-for-strength">pushups occasionally</a> at work and they've certainly gotten easier to do.</p>
+<p>As far as the scale, well that is the millstone, and the challenge or opportunity.  I've only dropped about 2 pounds per the chart <a href="http://www.fourmilab.ch/hackdiet/online/hdo.html">software</a> I use.  In the past when I've done this I've dropped weight more rapidly.</p>
+<p><img title="HackDiet.png" height="360" alt="HackDiet chart" width="480" src="http://static.squarespace.com/static/500c727de4b0d820d6a42ad8/515f5893e4b0f7bed43ad1d5/515f59b8e4b0f7bed43ae714/1302604470000/HackDiet.png?format=original" border="0" /></p>
+<p>Based on this I am going to tweak my approach in an attempt to speed things up a bit. My plan is:</p>
+<ol>
+<li>Cut out dairy (I got a milk frother for my birthday and have been enjoying tea lattes so for now that will pause)</li>
+<li>Go to the gym more often, I am going to target 1 trip every 3 days.</li>
+</ol>
+<p>Other than that it's no sugar, no grains as I stated at the outset.  I anticipate feeling great, stronger and being lighter.  I'll plan another update in a few days.</p>
+<p>Maybe on 81 days to go.</p>
+<hr />
+<ol>
+<li id="fn:1">
+<p>Borrowing a short quote from my favorite book of all time <a href="http://www.amazon.com/gp/product/B0000CL57F/ref=as_li_ss_tl?ie=UTF8&amp;tag=logicaldiscon-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B0000CL57F&quot;">The Fountainhead</a>. <a href="#fnref:1" rev="footnote">&#8617;</a></p>
+</li>
+</ol>
+</div>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2011-04-sprint-for-health-millstone</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2011-04-sprint-for-health-millstone</guid>
+            <category><![CDATA[health]]></category>
+            <category><![CDATA[Health and Fitness]]></category>
+            <category><![CDATA[Personal]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 12 Apr 2011 10:39:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tomatoes for strength]]></title>
+            <description><![CDATA[<div class="sqs-html-content">
+  <p>Another change I've made recently to help with my overall health is to try using a scheduling infrastructure for my day. For about three weeks now I've been using the <a href="http://www.pomodorotechnique.com/">Pomodoro Technique</a> to plan and track my activity throughout the day.  It's improving my productivity and also helping me lose weight.
+This relates to my physical health in two ways, first if I spend my days full of anxiety about all the things I'm not doing I can never get physically well.  Second it makes me do push-ups.</p>
+<p>That probably needs an explanation.  Pomodoro is a time-boxing technique that guides you to do 25 minutes of highly focused activity followed by a short 5 minute break.  In the <a href="http://www.pomodorotechnique.com/resources/ThePomodoroTechnique_v1-3.pdf">PDF</a> the author suggests it should be a real break from any thinking about work.  I found the transition from a hard thinking task to a state of mental relaxation to be very difficult to pull off, my mind–already warmed up to the topic–would wander back to the problem I was working on.  So I decided to do a set of push-ups to help me relax.</p>
+<p>So far I've gotten better at pushups, squats, and sit-ups.  Oh, and I'm enjoying my productivity based primarily on the structure to my day.  It helps me concretize the idea that I can only do so many things in a day and helps me at the hard task of prioritizing my time.  It also helps me measure how long I take at certain tasks.  Since I chronically underestimate I welcome the opportunity to improve my judgement.</p>
+</div>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2011-03-tomatoes-for-strength</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2011-03-tomatoes-for-strength</guid>
+            <category><![CDATA[health]]></category>
+            <category><![CDATA[productivity]]></category>
+            <category><![CDATA[Health and Fitness]]></category>
+            <category><![CDATA[Personal]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Wed, 30 Mar 2011 16:20:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
