@@ -39,7 +39,9 @@ fs.readdirSync(postsDirectory).forEach((file: any) => {
 
 // Sort posts by date in descending order
 posts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
-rssPosts.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+rssPosts.sort(
+  (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime(),
+);
 
 fs.writeFileSync(outputFile, JSON.stringify(posts, null, 2));
 
@@ -56,12 +58,12 @@ const feed = new RSS({
   ttl: '60',
 });
 
-rssPosts.slice(0, 30).forEach((post) => {
+rssPosts.slice(0, 500).forEach((post) => {
   feed.item({
     title: post.title,
     description: post.content,
     url: `https://logicaldisconnect.org/post/${post.slug}`, // URL to the post
-    author: "Kevin McAllister",
+    author: 'Kevin McAllister',
     date: post.date,
     categories: post.tags,
     // Include the content in the 'content' field
