@@ -4,9 +4,9 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jul 2024 02:43:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 03:00:29 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jul 2024 02:43:36 GMT</pubDate>
+        <pubDate>Tue, 23 Jul 2024 03:00:29 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -30,7 +30,7 @@
         </item>
         <item>
             <title><![CDATA[Auspicious]]></title>
-            <description><![CDATA[<img alt="electronic evaluation board attached to plexiglass labeled MOBILE UNIT" src="/assets/images/mobile_unit.jpeg" />
+            <description><![CDATA[<img style="float: right; margin: 20px 20px 20px 20px;" width="400px" alt="electronic evaluation board attached to plexiglass labeled MOBILE UNIT" src="/assets/images/mobile_unit.jpeg" />
 <p>A friend of mine teaches middle school and wanted some help.  He was looking for volunteers to be interviewed by students in his 8th grade class.  His goal was to teach communication skill and to give the students an opportunity to learn about possible careers.  The method was we would exchange letters, the student would then craft questions for the interview.</p>
 <p>The letter shared by my paired student was a perfect jolt of spiritual fuel at just the time I could use it.</p>
 <p>Over the past year or so I've been feeling bombarded by negativity from many online places I used to enjoy spending some time and attention.  I'd even started to consider—like many others—that social media and the internet at large are terrible.</p>
