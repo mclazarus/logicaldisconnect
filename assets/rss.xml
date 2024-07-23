@@ -4,9 +4,9 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 23 Jul 2024 14:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jul 2024 14:37:11 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 23 Jul 2024 14:27:58 GMT</pubDate>
+        <pubDate>Tue, 23 Jul 2024 14:37:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
         <item>
@@ -17,11 +17,11 @@
 <p>So I moved this off of SquareSpace. They were fine, but I wasn&#39;t motivated to use it. Instead now that I have ownership of so much of the data and machinery in my Rube GoldBlog that I&#39;m excited about it.  If you have an interest in telling me I spelled something wrong, or the way I&#39;m using typescript is terrible. (See the code here: <a href="https://github.com/mclazarus/logicaldisconnect">mclazarus/logicaldisconnect</a>) or any of the other things you&#39;re dying to correct me on, simply tell me on <a href="https://www.theverge.com/24063290/fediverse-explained-activitypub-social-media-open-protocol">The FediVerse</a>.  I hope to eventually support comments in this angular app, maybe they&#39;ll post to Fedi or something.  You can find me here: <a href="https://jawns.club/@mclazarus">@mclazarus@jawns.club</a>.</p>
 <p>This post is what I call a two-fer. I post something and I also find out of the Drafts Action I wrote to post it works.  If so I&#39;ll be able to quick post from Drafts from my phone and that will be super fun.</p>
 ]]></description>
-            <link>https://logicaldisconnect.org/post/2024-07-back-in-blog.md</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-07-back-in-blog.md</guid>
+            <link>https://logicaldisconnect.org/post/2024-07-back-in-blog</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-07-back-in-blog</guid>
             <category><![CDATA[FromDrafts]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Tue, 23 Jul 2024 14:27:34 GMT</pubDate>
+            <pubDate>Tue, 23 Jul 2024 14:36:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HALT LOAD]]></title>
