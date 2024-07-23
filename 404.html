@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="refresh" content="0; URL='./index.html'" />
-  </head>
-  <body>
-  </body>
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <script type="text/javascript">
+    // Get the current path
+    var path = window.location.pathname;
+    // Redirect to index.html with the original path as a query parameter
+    window.location.replace('/index.html?redirect=' + encodeURIComponent(path));
+  </script>
+</head>
+<body>
+</body>
 </html>
