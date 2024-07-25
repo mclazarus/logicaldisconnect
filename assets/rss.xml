@@ -4,11 +4,23 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jul 2024 03:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 13:24:11 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jul 2024 03:17:17 GMT</pubDate>
+        <pubDate>Thu, 25 Jul 2024 13:24:11 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Overload Fitness]]></title>
+            <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/bee46a2f-1c29-478f-b593-e9e9d821cc00/public" class="image-default" alt="Sign: OVERLOAD Maximum Fitness … Minimum Time" />
+
+<p>I&#39;ve been training here with John Parr for 7 years. I&#39;ve just recently gotten my diet right and am down 42 lbs since February and I&#39;ve never been stronger. Including that 18 year old football player I used to be. He definitely recovered faster than me and had better close range and low contrast vision. But I highly recommend SuperSlow training with John.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2024-07-overload-fitness</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-07-overload-fitness</guid>
+            <category><![CDATA[FromDrafts]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Thu, 25 Jul 2024 13:23:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fawn on a Lawn]]></title>
             <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/2144602e-d314-4f0a-fa91-022c77282b00/public" class="image-default" alt="Fawn on a lawn" />
@@ -7845,20 +7857,6 @@ Well, shit, I ain't about giving my books away and paying for the privilege.  I 
             <category><![CDATA[General]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
             <pubDate>Tue, 03 Jan 2006 13:35:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Origin]]></title>
-            <description><![CDATA[<div class="sqs-html-content">
-  <div style="float: left; margin-right: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mclazarus/80317075/" title="Origin"><img src="http://static.flickr.com/39/80317075_2898ffd531_m.jpg" alt="Origin" style="border: solid 2px #000000;" /></a>
-</div>
-<p><br clear="all" /></p>
-</div>
-]]></description>
-            <link>https://logicaldisconnect.org/post/2006-01-origin</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2006-01-origin</guid>
-            <category><![CDATA[General]]></category>
-            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Sun, 01 Jan 2006 13:12:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
