@@ -10,3 +10,13 @@
     padding: 10px; /* Adjust padding for smaller screens */
   }
 }
+
+.image-default {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+
+  @media (min-width: 768px) {
+    width: 50%; /* Adjust the width for desktop view */
+  }
+}
