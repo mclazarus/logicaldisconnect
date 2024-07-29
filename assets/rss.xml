@@ -4,11 +4,24 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 25 Jul 2024 13:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jul 2024 21:41:59 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 25 Jul 2024 13:24:11 GMT</pubDate>
+        <pubDate>Mon, 29 Jul 2024 21:41:59 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Dziadziuś]]></title>
+            <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/1bbf29ba-d55e-4764-734b-6bb38036c600/public" class="image-default" alt="Monument with TO To the memory of the heroic dead of the 90th Infantry division US Army 6 June 1944 - 9 May 1945 at Utah Beach France" />
+
+<p>My Grandfather was on the third wave at Utah Beach on June 6, 1944: D-Day he was a Staff Sargent in the 359th Infantry Regiment and was awarded the Silver Star, The Bronze Star, and other honors during his service. It&#39;s long been a goal of my mom&#39;s to make a visit to this place where he fought before he was married and had children. Just today we were able to do that and visit Utah Beach, Pointe du Hoc, Omaha Beach, an Omaha Beach museum, and The Normandy American Cemetery and Memorial for the Flag lowering ceremony. </p>
+<p>I&#39;m glad I got to be there for this and given the threat to my Dziadziuś&#39; life in WWII I&#39;m glad I got to be at all. </p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2024-07-dziadziu</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-07-dziadziu</guid>
+            <category><![CDATA[FromDrafts]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Mon, 29 Jul 2024 21:41:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Overload Fitness]]></title>
             <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/bee46a2f-1c29-478f-b593-e9e9d821cc00/public" class="image-default" alt="Sign: OVERLOAD Maximum Fitness … Minimum Time" />
@@ -7843,20 +7856,6 @@ Well, shit, I ain't about giving my books away and paying for the privilege.  I 
             <category><![CDATA[General]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
             <pubDate>Wed, 04 Jan 2006 09:01:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Low % Of Oil Life]]></title>
-            <description><![CDATA[<div class="sqs-html-content">
-  <div style="float: left; margin-right: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mclazarus/81612317/" title="Low % Of Oil Life"><img src="http://static.flickr.com/42/81612317_21c2a6fcf2_m.jpg" alt="Low % Of Oil Life" style="border: solid 2px #000000;" /></a>
-</div>
-<p><br clear="all" /></p>
-</div>
-]]></description>
-            <link>https://logicaldisconnect.org/post/2006-01-low-of-oil-life</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2006-01-low-of-oil-life</guid>
-            <category><![CDATA[General]]></category>
-            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Tue, 03 Jan 2006 13:35:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
