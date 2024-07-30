@@ -4,11 +4,23 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 29 Jul 2024 21:41:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 15:12:37 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 29 Jul 2024 21:41:59 GMT</pubDate>
+        <pubDate>Tue, 30 Jul 2024 15:12:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[The Typefaces of Amiens]]></title>
+            <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/a11de319-3a65-4710-d865-3350a9d96d00/public" class="image-default" alt="A pharmacy sign in Comic Sans in Amiens, France" />
+
+<p>In Amiens there is an enormous cathedral that is very impressive but walking around the city there was some crazy typeface choices for signage but nothing beat the comic sans especially where you can see it stretched to fit the space in the word Pharmacie. </p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2024-07-the-typefaces-of-amiens</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-07-the-typefaces-of-amiens</guid>
+            <category><![CDATA[FromDrafts]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Tue, 30 Jul 2024 15:12:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dziadziuś]]></title>
             <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/1bbf29ba-d55e-4764-734b-6bb38036c600/public" class="image-default" alt="Monument with TO To the memory of the heroic dead of the 90th Infantry division US Army 6 June 1944 - 9 May 1945 at Utah Beach France" />
@@ -7842,20 +7854,6 @@ Well, shit, I ain't about giving my books away and paying for the privilege.  I 
             <category><![CDATA[General]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
             <pubDate>Wed, 04 Jan 2006 13:36:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No walking?]]></title>
-            <description><![CDATA[<div class="sqs-html-content">
-  <div style="float: left; margin-right: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mclazarus/82034769/" title="No walking?"><img src="http://static.flickr.com/38/82034769_ba77db7429_m.jpg" alt="No walking?" style="border: solid 2px #000000;" /></a>
-</div>
-<p><br clear="all" /></p>
-</div>
-]]></description>
-            <link>https://logicaldisconnect.org/post/2006-01-no-walking</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2006-01-no-walking</guid>
-            <category><![CDATA[General]]></category>
-            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Wed, 04 Jan 2006 09:01:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
