@@ -4,11 +4,23 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jul 2024 15:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Aug 2024 10:31:55 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 30 Jul 2024 15:12:37 GMT</pubDate>
+        <pubDate>Thu, 01 Aug 2024 10:31:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Bière de taille homme]]></title>
+            <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/9899f533-cac2-42f9-68f6-aadc6e849500/public" class="image-default" alt="50cl glass of Grimbergen Blanche" />
+
+<p>Du les deux magots en Paris</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2024-08-bi-re-de-taille-homme</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-08-bi-re-de-taille-homme</guid>
+            <category><![CDATA[FromDrafts]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Thu, 01 Aug 2024 10:31:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Typefaces of Amiens]]></title>
             <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/a11de319-3a65-4710-d865-3350a9d96d00/public" class="image-default" alt="A pharmacy sign in Comic Sans in Amiens, France" />
@@ -7840,20 +7852,6 @@ Well, shit, I ain't about giving my books away and paying for the privilege.  I 
             <category><![CDATA[General]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
             <pubDate>Wed, 04 Jan 2006 17:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Holy Office Space]]></title>
-            <description><![CDATA[<div class="sqs-html-content">
-  <div style="float: left; margin-right: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mclazarus/82133337/" title="Holy Office Space"><img src="http://static.flickr.com/43/82133337_f4edc4eafe_m.jpg" alt="Holy Office Space" style="border: solid 2px #000000;" /></a>
-</div>
-<p><br clear="all" /></p>
-</div>
-]]></description>
-            <link>https://logicaldisconnect.org/post/2006-01-holy-office-space</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2006-01-holy-office-space</guid>
-            <category><![CDATA[General]]></category>
-            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Wed, 04 Jan 2006 13:36:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
