@@ -4,11 +4,24 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 01 Aug 2024 10:31:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 20:05:32 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Aug 2024 10:31:55 GMT</pubDate>
+        <pubDate>Mon, 26 Aug 2024 20:05:32 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[From POTS to TOTS]]></title>
+            <description><![CDATA[<p>When I was a young my father had gotten interested in computers. He eventually started taking courses in programming and I believe he learned COBOL among other things. At some point he wanted to try and get work doing programming while maintaining his primary job and started a company called Programming on the Side or POTS. I don&#39;t think POTS was a very successful endeavor though he did get to spend more time programming and eventually got a full time job doing it for a while before he <a href="https://logicaldisconnect.org/post/2003-05-rest-in-peace">died in 2003</a>.  He at one point explained to me that &quot;on the side&quot; had some meaning in programming in general or maybe in COBOL in specific (besides the obvious side-gig angle). I sadly don&#39;t recall the specific meaning &#39;on the side&#39; had in his explanation and can&#39;t seem to figure it out with doing some searches.  If anyone has a theory I&#39;d love to hear it.</p>
+<p>Influenced by my father&#39;s interest (among some other important people) I also got interested in computers and programming which I love working on. Working on the internet on complex distributed systems I started to develop a skill for understanding the interelationships and solving very difficult problems. Much like House MD or the inspiration for that character Sherlock Holmes I found myself highly motivated by the rush of solving those problems. To the point that I sometimes <a href="https://logicaldisconnect.org/post/2012-07-disconnect-the-batphone">regreted</a> how much I liked it.</p>
+<p>I still think my knowledge, skill, and experience doing that sort of work are extensive and I&#39;m starting to think that I&#39;d really like working on the intellectual challenge of creating an objective principle based system of problem solving. Maybe such a thing exists, but I don&#39;t think so I think I would have seen it by now. As a matter of fact I think if it did exist in a completely objective form they&#39;d require it as a basic course in the engineering colleges just like calculus.</p>
+<p>I&#39;m not changing my work by any means and have nothing to announce other than I&#39;m going to start to experiment with some research in this area. I&#39;m not fully convinced yet, but I think developing and then communicating something like this could become a <a href="http://aynrandlexicon.com/lexicon/purpose.html">central purpose</a> for a decade or three. So I&#39;m going to start looking into it as a sort of Troubleshooting on the Side for a little bit and see what I learn and share along the way.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2024-08-from-pots-to-tots</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2024-08-from-pots-to-tots</guid>
+            <category><![CDATA[FromDrafts]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Mon, 26 Aug 2024 20:05:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bière de taille homme]]></title>
             <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/9899f533-cac2-42f9-68f6-aadc6e849500/public" class="image-default" alt="50cl glass of Grimbergen Blanche" />
@@ -7838,20 +7851,6 @@ Well, shit, I ain't about giving my books away and paying for the privilege.  I 
             <category><![CDATA[General]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
             <pubDate>Wed, 04 Jan 2006 17:47:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ahoy]]></title>
-            <description><![CDATA[<div class="sqs-html-content">
-  <div style="float: left; margin-right: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mclazarus/82230715/" title="Ahoy"><img src="http://static.flickr.com/41/82230715_9b2b753a79_m.jpg" alt="Ahoy" style="border: solid 2px #000000;" /></a>
-</div>
-<p><br clear="all" /></p>
-</div>
-]]></description>
-            <link>https://logicaldisconnect.org/post/2006-01-ahoy</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2006-01-ahoy</guid>
-            <category><![CDATA[General]]></category>
-            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Wed, 04 Jan 2006 17:45:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
