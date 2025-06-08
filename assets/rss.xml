@@ -4,11 +4,23 @@
         <description><![CDATA[Personal Blog of Kevin McAllister]]></description>
         <link>https://logicaldisconnect.org</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 26 Aug 2024 20:05:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jun 2025 15:19:00 GMT</lastBuildDate>
         <atom:link href="https://logicaldisconnect.org/assets/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 26 Aug 2024 20:05:32 GMT</pubDate>
+        <pubDate>Sun, 08 Jun 2025 15:19:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <ttl>60</ttl>
+        <item>
+            <title><![CDATA[Slipper Guy]]></title>
+            <description><![CDATA[<img src="https://imagedelivery.net/G5yY75A0xji3WnN9xH_MMg/6f76cdfe-2356-4d55-39b1-9727bdbecd00/public" class="image-default" alt="blue easy chair with a foot resting on it shod in a black sock. In front of the chair on the rug rests two navy blue slippers" />
+
+<p>When I was home all the time because of the vid I turned into a slipper guy. A big part of this was I work in the basement which just has a concrete floor. Also I could take the trash out. Plus the whole Mister Rogers thing of coming into the house swapping the jacket for a sweater and the dress shoes for tennis shoes is appealing. But I will add now sitting in the lounge putting my feet up on the adjacent chair in just socks is also lit.</p>
+]]></description>
+            <link>https://logicaldisconnect.org/post/2025-06-slipper-guy</link>
+            <guid isPermaLink="true">https://logicaldisconnect.org/post/2025-06-slipper-guy</guid>
+            <category><![CDATA[FromDrafts]]></category>
+            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
+            <pubDate>Sun, 08 Jun 2025 15:18:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[From POTS to TOTS]]></title>
             <description><![CDATA[<p>When I was a young my father had gotten interested in computers. He eventually started taking courses in programming and I believe he learned COBOL among other things. At some point he wanted to try and get work doing programming while maintaining his primary job and started a company called Programming on the Side or POTS. I don&#39;t think POTS was a very successful endeavor though he did get to spend more time programming and eventually got a full time job doing it for a while before he <a href="https://logicaldisconnect.org/post/2003-05-rest-in-peace">died in 2003</a>.  He at one point explained to me that &quot;on the side&quot; had some meaning in programming in general or maybe in COBOL in specific (besides the obvious side-gig angle). I sadly don&#39;t recall the specific meaning &#39;on the side&#39; had in his explanation and can&#39;t seem to figure it out with doing some searches.  If anyone has a theory I&#39;d love to hear it.</p>
@@ -7837,20 +7849,6 @@ Well, shit, I ain't about giving my books away and paying for the privilege.  I 
             <category><![CDATA[General]]></category>
             <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
             <pubDate>Thu, 05 Jan 2006 11:48:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Turnpikin]]></title>
-            <description><![CDATA[<div class="sqs-html-content">
-  <div style="float: left; margin-right: 10px; margin-bottom: 10px;"> <a href="http://www.flickr.com/photos/mclazarus/82231953/" title="Turnpikin"><img src="http://static.flickr.com/43/82231953_22aac16d36_m.jpg" alt="Turnpikin" style="border: solid 2px #000000;" /></a>
-</div>
-<p><br clear="all" /></p>
-</div>
-]]></description>
-            <link>https://logicaldisconnect.org/post/2006-01-turnpikin</link>
-            <guid isPermaLink="true">https://logicaldisconnect.org/post/2006-01-turnpikin</guid>
-            <category><![CDATA[General]]></category>
-            <dc:creator><![CDATA[Kevin McAllister]]></dc:creator>
-            <pubDate>Wed, 04 Jan 2006 17:47:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
